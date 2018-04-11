@@ -112,29 +112,33 @@ Althought not so reasouable, **a man** that is so weak in daily business **is** 
 
 
 - 中文主干的寻找：
-1. （你）不作死不会死
-	+ 英文祈使句常省略主语 come here
+1. （你）不作死不会死。英文祈使句常省略主语 come here
 2. 她很好 She is very good. 中文省略了谓语
 3. （如果）山无棱天地合，（我）始敢于君绝。 英文必须有关联词
 4. 我的英语是（被）体育老师传授的。省略了被动
 
-
-### 3. 内部排序的运行算法
-I know the man who is singing. 我认识正在唱歌的那个人
-I know the man (who is singing) (in the car). 我认识那个在车上正在唱歌的那个人
-I konw /the man who is singing in the car that i bought last week.
+### 3. 内部排序的运行算法-倒置逻辑
+- I know the man who is singing. 我认识正在唱歌的那个人
+- I know the man who is singing in the car. 我认识那个在车上正在唱歌的那个人
+- I konw the man who is singing in the car that i bought last week.
 我认识那个上周我买的车里唱歌的那个人
-the man => who is singing(doing) / in the car(where)
-in the car => i bought(doing) / last week(when)
+	+ the man => who is singing(doing) / in the car(where)
+	+ in the car => i bought(doing) / last week(when)
 
 - 排序：短语排序
-- 短语的三种形式：**从句**
-	+ 介词短语： in the car => (who is) in the car
-	+ 从句： who is sing => singing
-	+ 分词结构：singing
+
+### 短语的三种形式：**从句**
+- 介词短语： in the car => (who is) in the car
+- 从句： who is sing => singing
+- 分词结构：singing
 
 四级翻译：众说周知，杭州是在中国历史上被很多诗人赞美的城市。
 As we all know, Hangzhou is a city that has been praised by many poets in the history of China.
+
+For an action movie as big as The Expendable 3 with an all start cast so familiar to Chinese audience, a large promontional touar won't bring any extra benifits that they expect.
+
+对于中国观众非常熟悉的由全明星阵容所扮演的敢死队3，这么大的动作电影来说，一个大规模的促销旅行并不会带来他们所期待的任何好处。
+
 
 ###　语法重建第一集：名词的世界
 １. 数量问题：可数和不可数
@@ -182,97 +186,6 @@ family Class cattle group
 
 
 ## 排序逻辑2
-
-
-
-
-# 6个月学习英语
-
-## 方法
-1. 正确的方法
-2. 建立正确的习惯
-3. 合适的工具和环境
-4. 心里状态
-5. 时间透支
-
-
-## 什么叫会？
-1. **高频词**都掌握了
-2. 能**自然使用**已经会的
-3. 不懂能用**英语问**、用**英语理解**
-4. 发音接近英语**母语者**
-5. **语速、说话节奏**等都接近英语母语者
-6. 讲话时带有英语母语者的**肢体语言**
-7. **语感**跟英语母语者一样
-
-
-- 英语学习- **下意识**的重要性
-
-有意识地学习(X，带宽太窄)
-下意识地学习(O，带宽很广很深)
-
-
-## 下意识的关键点
-1. 保持良好的状态
-2. 可理解输入（单词+语法+英语的规矩）
-3. 不要强迫自己
-4. 80%时间和注意力可理解的输入
-5. 相信自己
-
-
-## 建立语言信息网
-核心 -> 扩展 -> 再次扩展 -> ....
-good 
-friend 
-morning 
-happy
-
-新词：hot
-	hot morning
-	hot happy
-新词：girl, body
-
-	girl friend
-	body friend
-	hot girl
-	good girl
-
-已知 -> 扩展未知
-
-**先建立核心词汇并熟练运用，随之给大脑建立信息网，围绕核心词汇进一步扩大词汇量**
-
-## 学会英语必须懂得理念
-必须有**明确的目标**（没有目标失去动力）
-
-## 如何下定一个好的目标
-- 不要太低，需要有足够的挑战
-- 里程碑式的小目标
-- 每天会一些，有积累的感觉
-
-**建立一个良好的学习英语的长期目标，并把它分成短期目标，这样学好英语的速度会更快**
-
-
-## 实际上成年人学外语比孩子快
-
-1. 故意对问题进行深度处理
-2. 用已知的信息来解决问题
-3. 用已有的认识提升理解度
-4. 用语法表格建立宏观认识
-5. 适当的做笔记记录知识点
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
