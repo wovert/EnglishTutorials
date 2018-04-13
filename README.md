@@ -141,13 +141,15 @@ For an action movie as big as The Expendable 3 with an all start cast so familia
 
 
 ###　语法重建第一集：名词的世界
-１. 数量问题：可数和不可数
+１. 数量问题：可数和不可数 
 - 固定单位：a cup of water
 
 - Fish: 即可数不可数
-- sheep
+	+ 鱼：可数
+	+ 鱼肉：不可数
+- sheep：一词不固定
 - time：单位不固定
-- Coffee tea: a cup of coffee => a coffee
+- Coffee / tea: a cup of coffee => a coffee
 - Paper
 	+ 纸张：不可数
 	+ 卷子：固定单位
@@ -158,18 +160,29 @@ For an action movie as big as The Expendable 3 with an all start cast so familia
 - Glass：
 	+ 玻璃：不可数
 	+ 眼睛：可数
-- hair,corn, grass, popcorn, rice, salt, sand, snow, sugar
+-即可数又不可数：hair,corn, grass, popcorn, rice, salt, sand, snow, sugar
 
 2. 就近和就远原则（扯淡）
-- 主语中心原则
 
-There be 唯一没有主语
+- 就远
+	+ A woman with two children (is) comming.
+	+ I was well as they (am) ready to help you
+
+- 就近
+	+ Not only I but also he (is) right.
+	+ Both I and he (are) right.
+	+ Neither you nor I (am) fit for the work.
+	+ (Are) neither you nor I fit for the work?
+	+ There (is) a pencil and two pens in the pencil box.
+
+- 主语中心原则
+- There be 唯一没有主语
 
 3. 集合名词的数量逻辑
-family Class cattle group
+- family Class cattle group
 
-我家很有钱 My family is rich
-我家都疯了 My family are mad
+- 我家很有钱 My family is rich
+- 我家都疯了 My family are mad
 
 
 
