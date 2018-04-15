@@ -184,19 +184,19 @@ For an action movie as big as The Expendable 3 with an all start cast so familia
 - 我家很有钱 My family is rich
 - 我家都疯了 My family are mad
 
+### 复习
+在充满激烈的竞争的媒体行业，一个对中国文化的基本特征没有清晰理解的记者不能写出有关目前中国改革开放的变化的意义的好文章。
+In the media industry full of fierce compretition, a reporter without clear undertanding of the basic features about Chinese culture can not wirte good articles of the significance about the reform and change in china today.
+
+Although not so world widely accepted, people who are emotionally weak in daily business are often losers who are not able to fullfill any fruitful achievements in their lifetime that they endure.
+
+**The method** of scientific investigation **is** basically nothing but **the expression** of the necessary mode of working of the human mind in practice.
+
+**Studies** of both animalas and humans in his recent research **have shown** the **impact** of sex hormones on stress response under the same conditions.
 
 
-
-
-
-		
-
- 
-
-
-
-
-
+- 祝寿
+they came to BJ to say happybirthday to qianlong.
 
 ## 排序逻辑2
 
