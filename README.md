@@ -198,7 +198,32 @@ Although not so world widely accepted, people who are emotionally weak in daily 
 - 祝寿
 they came to BJ to say happybirthday to qianlong.
 
-## 排序逻辑2
+在帮组国际社会于2030年前消除极端贫困过程中，中国正扮演者越来越重要的角色。自20世纪70年代末实施改革开放以来，中国已使多达四亿人摆脱了贫困。
+In the process of ending extreme poverty before 2030 for then world, China is playing a role that is more and more important. Since apllying the open and reform policy from late 1970s, China has helped as many as 400 million people get rid of poverty.
 
+## 排序逻辑 2
+- 排序规则 2：并列不变序
+	+ 并列 and
+	+ 转折 but 
+	+ 选择 or
+	+ 递进 from to
 
+- if 123
+- 2 and 3
+- So 231
+
+- 在工作中没有激情**也**没有想法的人不会有进步
+A man without passion and (without) ideas at work will not make any progress.
+
+- if 12345
+- (23) and (45)
+- x and y
+- xy1
+- 32 54 1
+
+- 1 (234) and (567)
+- 432 and 765 1
+
+- (123) and (456) 7
+- 6 321 654
 
