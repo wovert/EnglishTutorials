@@ -227,3 +227,21 @@ A man without passion and (without) ideas at work will not make any progress.
 - (123) and (456) 7
 - 6 321 654
 
+在一生当中，(当你有困难的时候帮助你)和(当你成功的时候离开你的)(人)才是真的朋友。
+In your life, a man who help you when you are in trouble and who leaves you when you are successfull is a real friend.
+
+Science, in practice, depends less on the experiment it prepares than on the preparedness of the minds of the men who watch the experiments.
+
+in practice, 插入语
+less ... than ... 与其 ... 不如....
+
+, and element (in national economic life) (representing the irresponsible wealth) (detached) (from the land and the duties) of (the land owners) and (almost equally detached) (from the responsible corporate management) of (commericial business conduct).
+土地拥有者和土地责任制之间相分离，同时和商业行为和负责任的管理之间也几乎同样相分离代表了不负责任的财富的国家经济生活当中一个元素
+
+贤者，处江湖之远而忧其君；居庙堂之高而忧其民。
+古文 -> 现代语 -> 翻译
+一个在社会底层生活还是为皇帝担忧；在朝廷中央做官还有民众担忧的人是一个好人。
+A man who worries for the king when he lives in lower class and worries for the people when he works in the central government is a man of virtue.
+
+
+
