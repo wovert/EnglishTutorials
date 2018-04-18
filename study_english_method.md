@@ -175,3 +175,87 @@ Girl Friend
 
 ### 习惯9 - 每天写作进行真实沟通
 - 每天用英语文字跟朋友或家人进行真实沟通（短信/微信），通过实践训练丰富写作词汇，强化写作能力
+
+### 习惯10 - 内心双语录音
+- 反复听母语者发音，将一次次对比并改正的过程转化成习惯，英语学习事半功倍。
+
+## Skeleton key :　开头说话工具箱
+
+### 高频词单词
+- what
+- where
+- who
+- when
+- why
+- How
+
+- I me
+- You
+- He Him
+- She Her
+- They Them
+- It
+
+- This
+- That
+- Here
+- There
+
+- is are
+
+- Please
+- Thank you
+
+- Yes No
+
+- give 给
+- want 要
+
+Hoq do you say this?
+这个是怎么说？
+
+What is this called?
+这个叫什么名字呢？
+
+Please say that again.
+请在说一遍
+
+Please speak more slowly
+请说的慢一点。
+
+I don'nt understand.
+我不太明白
+
+- 不需要分解成单词
+- 只需要掌握一句话的整体含义
+- 马上使用
+
+### 胶水词儿
+- 名词
+	+ 物体 thing
+	+ 概念
+		* 感觉
+		* 思维
+		* 动作
+- 胶水词
+	+ 描述类
+		* 方位表达类: top/bottom/left/right/in front/behind/inside/outside
+		* 大小: big/small/tall/short/long
+		* 颜色: black/white/red/green/blue/grey/purple/orange/gold/silver/brown/pink/yellow
+		* 形状: 
+		* 问题类
+		* 数字
+	+ 逻辑类
+		* 链接类:so所以/because因为/and和/but但是/although虽然/however但是
+		* 情态类： can/can't/should/shouldn't/must/somtimes/never/always
+
+- 掌握描述类和逻辑类两大“胶水词”解决日常生活中最基本的交流。
+
+#### 特别的万能的词儿
+- What is this thing?
+- How do you say this thing
+- I want that thing.
+- Give me that thing there.
+- Whose is this thing?
+- Do you wan this thing?
+- Please bring that thins here!
