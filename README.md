@@ -244,4 +244,6 @@ less ... than ... 与其 ... 不如....
 A man who worries for the king when he lives in lower class and worries for the people when he works in the central government is a man of virtue.
 
 
+- 并列短语
+Thus, in the American economic system it is the demand of individual consumers, **coupled (with the desire of businessmen to maximize profits )and (the desire of individuals to maximize their incomes)**, that together determize what shall be produced and how resources are used to produce it.
 
