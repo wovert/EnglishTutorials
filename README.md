@@ -247,3 +247,21 @@ A man who worries for the king when he lives in lower class and worries for the 
 - 并列短语
 Thus, in the American economic system it is the demand of individual consumers, **coupled (with the desire of businessmen to maximize profits )and (the desire of individuals to maximize their incomes)**, that together determize what shall be produced and how resources are used to produce it.
 
+**As man own studies have advanced,状语**, **I，主语** **have been increasingly impressed，谓语** **with the functional similarities between insect and vertebrate societies** and less so with the structural differences that seem, at first glance, to constitute such an immense gulf between them.
+
+# about time
+
+我昨晚已经看过这个电影了
+I watched this movie last night.
+I have watched this movie last night
+
+## 时态分类
+- 一般现在时，
+- 一般过去时， 一般将来时
+- 现在进行时， 将来进行时
+- 过去进行时，现在完成时
+- 过去完成时， 将来完成时
+- 过去将来时，现在完成进行时
+- 过去完成进行时，将来完成进行时
+
+

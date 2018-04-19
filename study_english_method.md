@@ -259,3 +259,52 @@ I don'nt understand.
 - Whose is this thing?
 - Do you wan this thing?
 - Please bring that thins here!
+
+
+# 一个盒子两条路
+
+- 大脑经过5个器官系统认识世界和语言
+	+ 视觉：眼睛
+	+ 听觉：耳朵
+	+ 感觉：身体
+	+ 嗅觉：鼻子
+	+ 味觉：舌头
+	+ 语言：标签
+
+- Same Box - Different Path
+- 中文 + 画面感觉
+- 英语 + 画面感觉
+
+## 先学具体的东西-名词，动词
+
+- cup
+- drink
+- green
+- woman
+- door
+- stand
+
+- Where is ...?
+- How do you ...?
+
+- 语法信息变成画面和感觉
+	+  A car: 不固定
+	+ The car: 固定
+
+- The woman (who) is standing by the door is out English teacher.
+	+ The woman
+	+ stading
+	+ door
+	+ teacher
+	+ who is : 的那个
+
+## 把词组编程画面
+## 把语法画面化
+## 增加比喻
+
+- 想要 : would like
+- 我想要 ： I would like
+- 咖啡 ： Coffee
+- 我想要咖啡 ： I would like coffee
+
+- 是语法信息编程画面和感觉灵活运用语言沟通学习“一个盒子两条路”的学习方法。
