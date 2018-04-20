@@ -14,10 +14,17 @@
 - wage
 - assess
 - chrythesanmum
-- enthanasia
+- euthanasia
 - ambulance
 - weep
 - competence
 - character
 - valid
 - invalid
+- explode
+- split
+- join
+- slice
+
+
+3. 14 1592 6 53 58 97 93 23 84 62 64 33 84 27 95 02 88 11 97 16 93 99 37 51 05 82 09 74 94 4 
