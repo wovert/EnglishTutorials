@@ -92,7 +92,6 @@ Girl Friend
 - 适当的做笔记记录知识点
 	+ 肌肉记忆有助于提高学习效率
 
-
 # 为什么上课的效果的差
 **教!=学**
 
@@ -338,4 +337,86 @@ I don'nt understand.
 2. 把场景的含义沉淀出来
 3. 听词的时候，把它当作整个场景之上的多一条信息路线
 4. 记住这些声音并且把场景的含义融成一体
+5. 要相信自己的感知
 
+
+# 词组
+- 单词+单词+...
+
+- about 周围 talk
+- talk about 说话关于
+
+- work, does
+- Does this work 这个行吗
+
+- back 后背, go 去
+- go back home 回家
+
+- back up the truck 后退
+
+
+- to 前往
+- be 存在
+
+- to be 成为， I want to be a doctor.
+
+
+- do 做
+- do you have a car？ 你是否 拥有车？
+
+- do it? 做它
+
+- have 拥有
+- You have 你拥有
+
+- Have you 你是否已经
+- Have you finished work yet
+
+## 怎么学词组
+- 多听、多看理解的内容
+- 用词组对照的内容加快学习过程
+
+- A few 少许、一些
+- act out 演出
+- answer up 应对迅速
+
+
+## 认识和运行自己的记忆力
+1. 多器官的参与
+2. 情感的参与
+3. 深度处理
+- Hit the nill on the hill. 正中要害
+
+
+
+give you 送你
+a lift 一程
+git you a life 送你一程
+Can I
+
+1. 专注每一个词的感觉和反应上
+2. 用音乐来学习
+3. 一个盒子两条路
+4. 记忆钩最好自己造
+
+# 词外
+- 他把车给我
+- 我把车给他
+- **把**是多度含义单元更加明确意思
+
+- You give the car to me
+- I give the car to you
+- **to** 多度含义单元，动作方向
+- **the**  多度含义单元，具体东西
+
+- 主动：I/You/He/They, 放置最前面
+- 被动：me/you/him/them，放置最后面
+
+- to him 加强接受
+
+
+## 多度含义单元的类型
+- 增度词：to,from,the,a 等
+- 变形词（变声词）：I/me;he/him;she/her;Can/Could/等
+- 逻辑词（胶水词）：although,but,and 等
+- 词粒子：-ing, -ed, -ly, -ness 等

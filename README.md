@@ -255,13 +255,21 @@ Thus, in the American economic system it is the demand of individual consumers, 
 I watched this movie last night.
 I have watched this movie last night
 
-## 时态分类
-- 一般现在时，
-- 一般过去时， 一般将来时
-- 现在进行时， 将来进行时
-- 过去进行时，现在完成时
-- 过去完成时， 将来完成时
-- 过去将来时，现在完成进行时
-- 过去完成进行时，将来完成进行时
+## 公式的复习
+- not only ... but also 不仅，如此
 
+- 转折:与其，不如
+	+ not so much ... as 
+	+ less ... then
 
+# 插入语
+- , " ---
+, 并列语句也有可能
+
+## 插入语放置位置
+- 原处
+- 首尾
+
+The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a qunique one.
+
+过去和现在文化的分析所带去的一种跨文化的的视野结合起来之后。对于第一手收集的数据的强调，使这个研究成为一个独特的科学。
