@@ -270,6 +270,69 @@ I have watched this movie last night
 - 原处
 - 首尾
 
-The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a qunique one.
+The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique one.
 
 过去和现在文化的分析所带去的一种跨文化的的视野结合起来之后。对于第一手收集的数据的强调，使这个研究成为一个独特的科学。
+
+The United States is the product of two principal forces---the immigration of European peoples with heir varied ideas, customes, and national characteristics and the impact of a new country which modified these traits. 美国是两种主要力量的产物——欧洲人的移民有不同的想法，习惯，国家特征以及一个新国家的影响他们改变了这些特征
+
+- 并列: ...., ..., ..., and ...
+
+Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.社会科学是试图去研究人类和他们追求的一种智力探索的分支，它同自然现象的研究中自然科学家用到了相同有逻辑、有条理、有体系和有理性的方法。
+
+# about time 时态
+- 为啥英文有时态 中文没有？
+
+
+I watched this moive last night.我昨晚已经看过这个电影了
+I have watched this movie last night.我昨晚前已经看过这个电影了
+
+## 点时态
+> 时间点，精确到时间点
+- 一般现在，表示常态，规律，习惯
+The sun rises in the east.
+We are going to leave tomorrow, the train leaves at 6:00.
+
+- 一般过去，过去的就过去了
+I saw him last night.
+I was a boy.
+I tried to help her.
+
+- 一般将来：打算，计划，说说未来，说说而已
+I will be back!
+She is going to kill you!
+区别？
+You will die. 客观性
+You are going to die. 主观性
+
+
+## 进行/更加精确的点
+- 现在/过去/将来 的进行 表达不同时候的精确动作
+I am working now.
+He was crying when i came in.
+
+- d现在的进行 也能表达将来和惯例
+I am coming!
+You are always talking!
+
+- 将来的进行
+I will be enjoying my dinner at 7:00 PM tomorrow.
+
+
+
+## 段时态
+> 完成。现在开始到之前时间段
+
+- 现在：到现在为止 have/has + 过去分词
+- 过去：过去之前 /had/ + 过去分词
+- 将来完成：未来某个时间之前 will have + 过去分词
+
+I have married now. 现在为止
+I had married before I met you. 过去为止
+I will have married before 2050. 将来为止
+
+
+
+
+
+
