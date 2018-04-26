@@ -318,8 +318,6 @@ You are always talking!
 - 将来的进行
 I will be enjoying my dinner at 7:00 PM tomorrow.
 
-
-
 ## 段时态
 > 完成。现在开始到之前时间段
 
@@ -330,6 +328,12 @@ I will be enjoying my dinner at 7:00 PM tomorrow.
 I have married now. 现在为止
 I had married before I met you. 过去为止
 I will have married before 2050. 将来为止
+I had been happy in the whole 2015.
+
+- 其他时态：杂交
+I was going to marry you. （曾经打算）过去将来时
+I have been waiting for you.现在完成进行时
+I have watied for you.
 
 
 
