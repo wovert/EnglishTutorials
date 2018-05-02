@@ -420,3 +420,51 @@ Can I
 - 变形词（变声词）：I/me;he/him;she/her;Can/Could/等
 - 逻辑词（胶水词）：although,but,and 等
 - 词粒子：-ing, -ed, -ly, -ness 等
+
+# 英语语法
+
+## 如何快速学习
+- 图样认出/模式识别
+
+
+meet 认识
+met 认识了
+I have met 我认识了
+I've met 我认识了
+Because I 've met you 因为认识了你
+
+## 掌握好语法是一个模式识别过程，而不是一个逻辑分析过程。
+
+# 多度含义单元的类型
+- 增度词：to,from,the,a 等
+- 变形词：I/me,he/him,she/her,can/could
+- 逻辑词：although,but,and
+- 词粒子：-ing,-ed,-ly,-ness
+
+# a 与 the
+- the car 指定的
+- a car 其中的一个
+
+# many 多 much
+- many 东西可以分开
+	+ people
+	+ many dollars 
+- much 不能分解成单元
+	+ water
+	+ much money 薪水
+
+# 词例子也能用画面和感觉其模式有直接的反应
+
+# 磁粒子是什么？
+- 中文磁粒子：的，地，了，码，把
+- 英文磁粒子：-ing,-ed,-ly,un-,dis-,-ize,-er,-est,-ness
+
+## -ing
+- 开始 -> ...ing -> 停止
+- Going
+- Playing
+- Working
+- Thinking
+- Sleeping
+
+##

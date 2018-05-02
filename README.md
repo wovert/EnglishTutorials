@@ -336,6 +336,42 @@ I have been waiting for you.现在完成进行时
 I have watied for you.
 
 
+今年在长沙举行了一年一度的外国人汉语演讲比赛。这项比赛证明是促进中国和世界其他地区文化交流的好方法。它为世界各地的年轻人提供了更好地了解中国的机会。
+
+This year, we held in Changsha a speech contest of chinese for foreigners once a year.
+
+《维特根斯坦》导师-罗素
+
+
+# 虚拟
+- 基本模式：时态后移
+```
+如果我是你，我就弄死你
+If I were you, I would kill him.
+
+如果我是个女的，我就嫁给他。
+- 现在
+If I were a woman, I would marry him. 虚拟-故意弄错，提醒对方
+If I am a woman, I will marry him. 去泰国/韩国
+
+
+- 过去
+If I had come last night, I wouldn't have missed you performance.
+对比：If i came last night, I wouldn't miss your performance.
+
+- 将来
+If I should die tomorrow, I would die with honor.
+
+- 杂交
+- 过去/将来
+如果我早点认识你，我明天就和他离婚。
+If I had met you earlier, I would divorce him to tommrow.
+
+
+
+```
+
+
 
 
 
