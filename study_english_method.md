@@ -467,4 +467,27 @@ Because I 've met you 因为认识了你
 - Thinking
 - Sleeping
 
-##
+## un-
+- unhappy
+- undo 做完了恢复到原状
+- uninterested
+- unpopular
+
+## in-
+- inhumane 没有人情味儿
+- indescribable 没法描述
+- indecent 非规矩，非礼
+
+## im-
+- improbable 概率很低
+- impossible 不可能
+- improper 非规矩的
+
+## di-
+- disappear 没有出现
+- diable 无能的，able 有能的
+- disagree 不同意
+- disconnect 不连接
+
+- un/im/in/dis 不
+

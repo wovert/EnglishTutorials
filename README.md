@@ -367,10 +367,23 @@ If I should die tomorrow, I would die with honor.
 如果我早点认识你，我明天就和他离婚。
 If I had met you earlier, I would divorce him to tommrow.
 
-
-
 ```
 
+- 第一次来到中国的外国人经常为在这个国家为经济发展而付出的环境代价而震惊。
+- **Foreigners** who came to China for the first time **are often shocked** by the environmental price paid for the economic growth in this Country.
+
+- 虚拟复习
+- 如果我不爱你，我就不会告诉你这个了。If I hadn't loved you, I would't have told you about it.
+
+- 是码？如果你爱我，你早就告诉我了。Really? If you had loved me, you would have told me earlier.
+
+# 虚拟的延伸
+
+## 隐含的虚拟
+- What will you do with a million dollars?
+
+- Without water, we would all die now.
+- If there were no water, we would al die now.
 
 
 
