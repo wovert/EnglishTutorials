@@ -369,6 +369,50 @@ If I had met you earlier, I would divorce him to tommrow.
 
 ```
 
+# 重建单词精神家园
+## C
+- contain 包含
+- cover 锅盖/覆盖/采访(covered a news)
+- close 关闭
+- copy 复制/复印
+- circle 圆圈
+- copyright 版权
+- can vt.能 n.罐头
+- china n. 瓷器
+- country n. 国家
+- company 团队/公司
+- cooperation n. 合作/协作/配合
+- circ adv.大约
+- cyc n. 轮子;圆圈;循环
+- coat n.外套
+- clos adv.秘密地
+- clud 关闭
+- city 城市/围城
+- cap n.帽子 vt.盖住
+- civilization n.文明/文化
+- civil law 民法
+- clock 钟表
+- clock wise  顺时针方向的
+- anticlockwise 逆时针方向
+- cabbage 包菜
+- ceive\cept 拿\词根抓; 取
+- cabin 机舱
+- cabinet 内阁
+- canvas 帆布
+- campus 校园
+- camp 露营
+- cell 细胞
+- case 箱子
+- cave 山洞
+- ceiling 天花板
+- chair 椅子 stool/凳子
+- chairman 主席
+- center 中心
+- core 核心
+- cuddle 拥抱
+- calefaction 温暖（的状态）
+
+
 - 第一次来到中国的外国人经常为在这个国家为经济发展而付出的环境代价而震惊。
 - **Foreigners** who came to China for the first time **are often shocked** by the environmental price paid for the economic growth in this Country.
 
@@ -381,7 +425,6 @@ If I had met you earlier, I would divorce him to tommrow.
 
 ## 隐含的虚拟
 - What will you do with a million dollars?
-
 - Without water, we would all die now.
 - If there were no water, we would al die now.
 

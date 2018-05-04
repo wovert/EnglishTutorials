@@ -460,7 +460,7 @@ Because I 've met you 因为认识了你
 - 英文磁粒子：-ing,-ed,-ly,un-,dis-,-ize,-er,-est,-ness
 
 ## -ing
-- 开始 -> ...ing -> 停止
+> 开始 -> ...ing -> 停止
 - Going
 - Playing
 - Working
@@ -490,4 +490,28 @@ Because I 've met you 因为认识了你
 - disconnect 不连接
 
 - un/im/in/dis 不
+
+## -ed
+> 了
+- wokred 工作了
+- finished 万事二了
+
+## -er
+> 形容对比词粒子, ...更
+- Richer = 更 rich, richer than., 比...更
+- Faster = 更 fast 
+- Slower = 更 slow
+- Poorer = 更  poor 贫穷
+
+## -est
+> 形容对比词粒子, ...最
+- richest = 最rich
+- fastest = 最fast
+- slowest = 最slow
+- poorest = 最poor
+
+- He is Richest man in China.
+- She is the fastest runner at school.
+- Porsche is the fastest car.
+
 
