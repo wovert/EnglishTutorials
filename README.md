@@ -428,7 +428,43 @@ If I had met you earlier, I would divorce him to tommrow.
 - Without water, we would all die now.
 - If there were no water, we would al die now.
 
+## 自带虚拟色彩的词组
+- If only I were a girl! 如果我是一个女孩
+	+ only if 只有我
+- If only I were in Australia.
 
+- It is time that we went home!. 现在该是...的时候了
 
+- 虚拟跟真实正好相反
 
+- I wish I were rich. 我希望我有钱。 祝福于反现实
 
+- I would rather she were a man. 我宁愿她是男的。
+
+# 升级版的 C
+
+## 第一组 clos/clud
+> 关闭/关门
+
+- close, disclose(dis相反, 揭示)，like <=> dislike
+	+ A secret has been disclosed. 一个秘密已经揭开了。
+- enclose(关进去，包含进)
+	+ A letter is enclosed in this bag. 
+- include(包含)
+	+ He is a very inclusive person. 他是一个非常有包容性的人
+- exclude (v. 排除)
+	+ e = ex
+	+ exclusive(为什么高档的)，专项的，
+
+- preclude (pre 提前时间) 预防
+	+ prepare 提前准备
+	+ previous 预备
+
+- conclude v. 结论
+	+ n. conclusion 
+	+ con/com/co 一起
+	+ reach a conclusion. 达到一个结论
+
+- seclusion 隐居
+	+ se + clu + sion
+		* secret

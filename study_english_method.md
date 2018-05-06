@@ -515,3 +515,29 @@ Because I 've met you 因为认识了你
 - Porsche is the fastest car.
 
 
+## -ness
+> 形容词变成名词
+- happiness
+- selfishness 自私
+- slowness
+- sleeplessness 失眠
+
+- I am happy. 我开心
+- I am full of happiness. 我充满开心感
+
+- He is selfish. 它很自私
+- His selfishness is abvious. 他自私的心显而易见
+
+- Bikes are slow. 自行车很慢
+- I dislike the slowness of bikes. 我不喜欢自行车慢行的特点
+
+- I was sleepless last night. 我昨晚失眠
+- I suffer from sleepless ness. 我有（痛苦在）失眠症
+
+## -ly
+> ... 地
+
+- Happily 开心地
+- Friendly 有好地
+- Slowly 慢地
+- rapidly 迅速地
