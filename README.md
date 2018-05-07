@@ -463,8 +463,68 @@ If I had met you earlier, I would divorce him to tommrow.
 - conclude v. 结论
 	+ n. conclusion 
 	+ con/com/co 一起
-	+ reach a conclusion. 达到一个结论
+	+ reach a conclusion. 得出结论;达成一个结论
 
 - seclusion 隐居
 	+ se + clu + sion
 		* secret
+
+## 第二组 circ/cyc 圈
+- circle
+- bicycle
+	+ bi + cycle (bi:双) 双轮车
+	+ auto mobile: 汽车
+	+ bisect (一份为半)
+	+ unit
+	+ university
+		* college n. 大学；学院；学会
+	+ universe n. 宇宙；世界；领域
+	+ unique 独特的
+- recycle
+	+ re + cycle (回收)
+		* re: 重复
+	+ return (返回)
+- circus 马戏团
+- circuit 电路 ['sɜːkɪt] 
+	+ cctv: close circuit tv
+- circumstances 环境
+- circulate  循环
+	cir + culate(ate动词)
+- circulation
+- encircle
+	+ en + circle (包围)
+
+## 第三组 cap 大覆帽
+- captain 警官/船长
+- capture 抓
+- catch 抓住
+- captive 囚犯
+- capital 首领
+
+## 第四组 -ceive/-cept 接受(抱抱=>C)
+- receive 接收
+- acceept 接受
+- conceive 理解/认知 = konw = 内心接收 = 古代英语(身体/精神,接收)
+	+ Do you konw?
+	+ the man knew his wife, and she conceived Gain.
+	+ May I know you further? 
+- conceivable 
+- deceive 骗
+- deceptive 欺骗的
+- concept n. 知道的(概念)
+- perceive (per 完) 完全知道
+
+Today I went to a circus. I saw a man riding a bicycle in the core of the camp, holing a can in his hand. The actor was encircled by many people, including children and the old-age. The play was easy to conceive, but it also produced many wastes that need to be recycled. A captain was sitting in a chair there to keep order.
+
+
+
+
+
+
+
+
+
+
+
+
+

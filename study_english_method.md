@@ -541,3 +541,9 @@ Because I 've met you 因为认识了你
 - Friendly 有好地
 - Slowly 慢地
 - rapidly 迅速地
+
+## -s
+- singular/plural
+	+ singular: 单数的
+	+ plural: 复数的
+
