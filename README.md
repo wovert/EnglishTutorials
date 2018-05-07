@@ -517,6 +517,24 @@ If I had met you earlier, I would divorce him to tommrow.
 Today I went to a circus. I saw a man riding a bicycle in the core of the camp, holing a can in his hand. The actor was encircled by many people, including children and the old-age. The play was easy to conceive, but it also produced many wastes that need to be recycled. A captain was sitting in a chair there to keep order.
 
 
+# 公式的升级
+
+## 复杂模型和定语从句
+
+## 简单 vs 复杂
+
+- 并列/选择/递进
+
+## 理想照进现实-蛋理论
+- I love you **and** I hate you.
+- **Although** I love you, you hate me. 尽管
+- I love you **because** I hate you. 因为
+- 本质：句加句
+
+- The creation of books is a big progress for human beings, but the invention of computer is even more valuable.
+
+
+
 
 
 

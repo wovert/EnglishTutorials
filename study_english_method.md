@@ -547,3 +547,27 @@ Because I 've met you 因为认识了你
 	+ singular: 单数的
 	+ plural: 复数的
 
+## 变形词(to) be 两度的应用规律
+- 过去/现在，正在/未来
+- I was/am/will be
+- You were/are/will be
+- He/She/It were/are/will be
+- They were/are/will be
+
+- 掌握变形词（to）be 两度的应用规律连接心中画面和感觉来运用好英语
+
+## 存在的状态-状态标签词
+> am/is/are, will be/(to) be/ being, were/was
+
+- 身体的
+- 心里的
+- 角色的
+- 时间/地点
+
+- He is where. He 的状态是 there
+- I am lost. I 的状态是 lost
+- Where am I? Where 的状态是 I?
+- I was lost. I 原来的状态是 lost
+- They were lost. They 原来的状态是 lost.
+
+
