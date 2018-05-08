@@ -531,12 +531,41 @@ Today I went to a circus. I saw a man riding a bicycle in the core of the camp, 
 - I love you **because** I hate you. 因为
 - 本质：句加句
 
-- The creation of books is a big progress for human beings, but the invention of computer is even more valuable.
+- The creation of books is a big progress for human beings, but the invention of computer is even more valuable. 书的创造是人类的一大进步,但是计算机的发明更加有价值
 
 
+- Because he is so inexperienced in dealing with business matters, his father decides to remove him from the post of CEO in the company. 因为他在商务处理上没有经验,他的父亲决定公司里解除他的 CEO 的职位.
 
 
+- The method of scientific(科学) investigation(调查) is nothing but the expression of the necessary mode of working of the human mind **and** it is simply the mode by which all phenomena(现象) are reasoned(推理) about and given precise and exact explanation. 科学调查的方法只不过是人类思维工作必要模式的表达, 并且它仅仅是通过它所有现象的推理并且给予精准解释的模型
 
+	+ nothing but 只不过是
+	+ it 指向的是
+
+## 中文双黄蛋的困境:省略
+- (我们)垃圾分类,从我做起(这件事)
+-  中文意会
+
+- 英文: 滴水不漏
+
+
+- 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物.
+Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
+
+
+- 单黄蛋
+- 非句 + and + 非句
+1. I love and hate you.
+2. I love you and her.
+3. You and I are friends.
+4. You and I are love and hat him and them.
+
+- You **were, are and will alwyas be** in my heart. 谓语并列
+
+- **The ideas** from the writer of such a book and **the stories** told by the roles in it attract(吸引)**many people** who are fond of reading. 这本书的作者观点以及在这本书中的主角们所讲的故事吸引了许多喜欢读书的人们.
+
+
+- A man with a dog and a dog with a man are here.
 
 
 
