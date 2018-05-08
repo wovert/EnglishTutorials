@@ -571,3 +571,44 @@ Because I 've met you 因为认识了你
 - They were lost. They 原来的状态是 lost.
 
 
+## do 的变形模式
+- do/does 做
+- doing 正在做
+- did 做过
+- will do 将做
+
+### do 两个用法
+- do not/does not 就不
+- did not 就没
+
+- I do not konw his name.
+- She does not eat meat.
+
+- He did not work Friday.
+
+- 问句里的 do
+
+- ... 吗？
+- Do you...? 你 ... 码？
+- Does he ...?他 ... 码？
+- Did they ...?他们 ... 码？
+
+## have 高频变形词
+###  拥有
+- have
+- has
+- had
+- will have
+
+
+### have 作为语法词粒子
+> 了；过
+- have + verb
+- had + verb
+- has + verb
+
+- They have come to play. 他们来到了为了玩儿
+- I have been watching you. 我一直在看你了
+- He has been studying.他（现在之前）在学习了
+- She had been sleeping. （原来）她在睡觉了。
+
