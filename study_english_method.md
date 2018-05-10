@@ -612,3 +612,112 @@ Because I 've met you 因为认识了你
 - He has been studying.他（现在之前）在学习了
 - She had been sleeping. （原来）她在睡觉了。
 
+## 时态
+- 变形词/词粒子/词组
+
+- work
+- 词粒子
+	+ working
+	+ worked
+
+- 词组 + 词粒子
+	+ am working
+	+ was working
+	+ will be working
+
+- eat
+	+ 变形词: ate
+	+ 词粒子: eating
+	+ 词组+词粒子
+		* am eating
+		+ was eating
+		+ had eaten
+
+- 用**画面**和**感觉**建立英语思维
+
+
+
+### 时态的第一度
+```
+								简单 			正在 		完成 			完成进行
+过去 			..img, ...ed
+正在 			am, is,are,was, wre, will e, been
+将来			have, has ,had
+```
+
+```
+					Sample 				progressive 						perfect 							perfect progressive
+Past 			word+ed				was/were + work+ing			had + work + ed				had + been + work + ing			
+Present 	word					am/is/are + work+ing		have/has + work+ed		have/had + been + work + ing
+Future		will + word		will be + word + ing		will have + word + ed	will have + been + work + ing
+```
+
+- 过去 -------------> 现在 ------------------> 将来
+
+- I learn English.
+- I learned English. (过去的一个点)
+- I learned English at scholl last year.
+- I learned English in my spare time.
+- I learned English as a child.
+- I learned English when I was studying in Britain.
+
+- I will learn Enlgish.(将来的的一个点)
+- I will learn English at school next year.
+- I will learn English someday.
+- I will learn English when I have more time.
+- I will learn English after I go to America.
+- I will learn English before I go to University.
+
+- I am learning English. (正在进行的过程中)
+- I am learning English at scholl this year.
+- I am learning English right now.
+- I am learning English for my job.
+
+- I was learning English. (以前正在进行过程中)
+- I was learning English at school last year.
+- I was learning English when my brother graduated.
+- I was learning English for some time when I lived in Britain.
+
+
+- I will be learning English.(将来正在进行过程中)
+- I will be learning English  at school next year.
+- I will be learning English my summer break.
+- I will be learning English six month after I arrive in Australia.
+
+- I have learned English. (过去正在进行的过程到现在这个点)
+- I have learned English to fluency.
+- I have learned English for six months already.
+- I have learned English on-and-off for many years.
+- I have learned English quite well.
+
+- I had learned English. (过去正在进行的过程到过去的某个点)
+- I had learned English for six years before I went to the U.K.
+- Before I was 12 years old, I had learned English.
+- I had learned English up to native level by the time I was 20 years old.
+
+- I will have learned English.(从过去或现在正在进行的过程到将来的某个点)
+- I will have learned English for six years by the time I immigrate to Canada.
+- At my next brithday, I will have learned English for half of my life already.
+- I will have learned English to fluency by this time next year.
+
+- I have been learning English.(从过去正在进行到现在还在进行, 时间段)
+- I have been learning English for about three months.
+- I have been learning English since I arrived.
+- I have been learning English since starting my new job.
+- I have been learning English, but I think I'll change to learning French.
+
+
+- I had been learning English.(从过去正在进行到过去还在进行, 时间段)
+- I had been learning English for about three months before the earthquake.
+- I had been learning English, but couldn't keep going because of family reasons.
+- I had been learning English, but the financial panic of 2008 changed everything. I had to get a job. 
+
+
+- I will have have been learning English. (从将来正在进行到将来还在进行, 时间段)
+- By the time I'm 20, I will have have been learning English for 17 years.
+- I will have have been learning English full-time for three years by the time I graduate.
+
+- ![时态](./images/shitai.png)
+
+
+

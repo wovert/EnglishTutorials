@@ -567,6 +567,12 @@ Friends will exchange greetings on new year day according to our traditions, and
 
 - A man with a dog and a dog with a man are here.
 
+- The target of research is motivated by converns broadly with the application of statistics and data analysis in scientific research and is part of Science's overall drive to increase reproducibility in the research we publish. 研究的目标受到科研当中统计和数据分析的应用广泛关注而鼓舞的,并且它是我们所出版的研究增加其可复制性而做出的科学总体动力的一个部分
+
+
+- 考验翻译: Under modern conditions, this requires all kinds of measures of centralized control and the help of specialized scientists such as economists and research experts. 在现代的条件之下,这要求集中控制的各种不同的方法以及像经济学家和研究砖家这样的专业科学家的帮助.
+
+
 
 
 
