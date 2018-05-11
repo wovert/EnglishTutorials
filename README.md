@@ -572,6 +572,15 @@ Friends will exchange greetings on new year day according to our traditions, and
 
 - 考验翻译: Under modern conditions, this requires all kinds of measures of centralized control and the help of specialized scientists such as economists and research experts. 在现代的条件之下,这要求集中控制的各种不同的方法以及像经济学家和研究砖家这样的专业科学家的帮助.
 
+- But **the force** of geographic conditions peculiar to America, **the interplay** of the varied national groups upon one another. and **the sheer** difficulty of maintaining old-world ways in a raw, new continent caused significant changes.
+
+
+# 第三部分 单词重建之
+- 手机英文版
+- 电脑英文版
+
+
+
 
 
 

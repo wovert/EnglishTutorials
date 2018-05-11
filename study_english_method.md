@@ -720,4 +720,29 @@ Future		will + word		will be + word + ing		will have + word + ed	will have + bee
 - ![时态](./images/shitai.png)
 
 
+## 单数词和复数词
+-  singular - plural
+- 1个东西, 2,3,4,...个东西
+
+
+## 规矩的词
+- word + s
+
+## 不规矩的词
+- 用变形词
+
+- 1 child		=>  n children
+- 1 man => n men
+- 1 woman => n women
+- 1 mouse => n mice
+
+
+# 单词的融汇
+- I will => I'll
+- We have => We've
+- You are => You're
+- Have not => Haven't
+- Will not => won't
+
+
 
