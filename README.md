@@ -13,24 +13,25 @@
 - 谓语：是对主语动作或状态的陈述或说明，指出“做什么”do what,“是什么”what is this或是“怎么样”how
 - 宾语：又称受词，是指一个动作（动词）的接受
 
-
 - 英语陈述语句：
-`(状1) 主(定2) 谓(状2) （宾）（定2\状1）`
+```
+(状1) 主(定2) 谓(状2) （宾）（定2\状1）
+```
 
--中文陈述语句：
-`(状1\定1) 主(状2) 谓(定2) （宾）（状1）`
+- 中文陈述语句：
+```
+(状1\定1) 主(状2) 谓(定2) （宾）（状1）
+```
 
+- I Love a girl
+- She died (没有宾语)
+- (You) come here
 
-I Love a girl
-She died (没有宾语)
-(You) come here
+- 我爱你
+- 去年（状1）我爱你
+- 去年（状1）一个非常胖的（定1）胖丫头，非常热情的（状2）爱上了瘦瘦的(定2)你
 
-
-我爱你
-去年（状1）我爱你
-去年（状1）一个非常胖的（定1）胖丫头，非常热情的（状2）爱上了瘦瘦的(定2)你
-
-插入语: ',"",~ 
+- 插入语: ',"",~ 
 
 - 英语：状语 主位语 状语
 - 汉语：状语 主位语 状语
@@ -39,141 +40,145 @@ She died (没有宾语)
 - 英文：修辞在后，重点在前（西方）
 
 - 为什么？文化差异？
-	+ 东方：农业文明（过程优先）
-	+西方：商业文明（效率优先）
+  - 东方：农业文明（过程优先）
+  - 西方：商业文明（效率优先）
 
+- In your life(状1), **a friend** that is helpful **is** **a friend** that you should thank(状1).
 
-In your life(状1), **a friend** that is helpful **is** **a friend** that you should thank(状1).
+- 主干体系：在你的一生当中，一个总能帮助你的朋友是一个应当感谢的朋友
 
-主干体系：在你的一生当中，一个总能帮助你的朋友是一个应当感谢的朋友
+- 在北京，没有钱的**年轻人**以这种方式也能**实现**他们心中的**梦想**。
+- 在北京，年轻人没有钱的能实现以这种方式也他们心中的。
 
-在北京，没有钱的**年轻人**以这种方式也能**实现**他们心中的**梦想**。
-在北京，年轻人没有钱的能实现以这种方式也他们心中的。
+- In Beijing, the young without money can realize in this way the dreams in their hearts.
 
-In Beijing, the young without money can realize in this way the dreams in their hearts.
+- **I** can **see** in his eyes the **love** to me
+- **I** can **see** in this picture profound **rules** in life
 
-**I** can **see** in his eyes the **love** to me
-**I** can **see** in this picture profound **rules** in life
-
-去年(状1)我(主)买了一块表
-我(主)去年(状1)买了一块表
+- 去年(状1)我(主)买了一块表
+- 我(主)去年(状1)买了一块表
 
 ### 2.主干的定位
+
 > 主干，一个哲学问题
 
 - 主语：主体(名词，静态)
 - 谓语：动作/行为（静态变成动态）
-	+ (宾语)：行为接受对象(名词，静态)
+- (宾语)：行为接受对象(名词，静态)
 
 #### 主干的定位
+
 1. 主语：句首的**独立名词**性结构(名词 代词 分词(分身love, loved) 从句 it)
 
 - 名词
-	+ In his eyes, **Jack** is aliar. 
-		* In his eyes 的 eyes 在介词，所以不是主语
+  - In his eyes, **Jack** is aliar. 
+    - In his eyes 的 eyes 在介词，所以不是主语
 - 分词
-	+ **Living** in a city is always convenient. 
+  - **Living** in a city is always convenient. 
 
 - 句子
-	+ **That no one can live without water** is true. 
+  - **That no one can live without water** is true. 
 
 - 从句作为主语（that 开头）
-	+ **It** is true that no one can live without water. 
-		* it 是形式主语
-		* it 指向 that no one can live without water. 逻辑主语
+  - **It** is true that no one can live without water. 
+    - it 是形式主语
+    - it 指向 that no one can live without water. 逻辑主语
 
-2. 谓语：排除过程
-	+ 1. 从句中和介词短语中动词
-		* The man who is smiling **is** jack. 正在笑得那个人是jack
-	+ 2. 主语前动词
-		* **In fighting**, the brave wins. 在战斗中，勇者获胜
-	+ 3. 分词前无助词(have be)
-		* I **am** working
-		* I have **married**. I am **married**.
-		* 分词：ing, ed => working, married
+2.谓语：排除过程
 
-	+ 谓语可以是动词词组
-		* I **want to see** you
-		* I **want her to see** you
+- 从句中和介词短语中动词
+  - The man who is smiling **is** jack. 正在笑得那个人是jack
+- 主语前动词
+  - **In fighting**, the brave wins. 在战斗中，勇者获胜 
+- 分词前无助词(have be)
+  - I **am** working
+  - I have **married**. I am **married**.
+  - 分词：ing, ed => working, married
 
-		* **The methods** that a community devises to perpetuate itself **come into being to** **preserve** of the cultural legacy that that community perceives as essential.
-	
-	+ GRE 考试
+- 谓语可以是动词词组
+  - I **want to see** you
+  - I **want her to see** you
 
-3. 宾语-谓语后的独立名词结构
+  - **The methods** that a community devises to perpetuate itself **come into being to** **preserve** of the cultural legacy that that community perceives as essential.
+  - GRE 考试
+
+3.宾语-谓语后的独立名词结构
+
 - 宾语可以没有
 - 句=主+谓
 - He left.
 - He is smart.
 
-Althought not so reasouable, **a man** that is so weak in daily business **is** always **a loser** that can't fulfid his dreams in his life.
+- Althought not so reasouable, **a man** that is so weak in daily business **is** always **a loser** that can't fulfid his dreams in his life.
 
-主干：a man is a loser
+- 主干：a man is a loser
 
+## 中文主干的寻找：
 
-- 中文主干的寻找：
 1. （你）不作死不会死。英文祈使句常省略主语 come here
 2. 她很好 She is very good. 中文省略了谓语
 3. （如果）山无棱天地合，（我）始敢于君绝。 英文必须有关联词
 4. 我的英语是（被）体育老师传授的。省略了被动
 
 ### 3. 内部排序的运行算法-倒置逻辑
+
 - I know the man who is singing. 我认识正在唱歌的那个人
 - I know the man who is singing in the car. 我认识那个在车上正在唱歌的那个人
-- I konw the man who is singing in the car that i bought last week.
-我认识那个上周我买的车里唱歌的那个人
-	+ the man => who is singing(doing) / in the car(where)
-	+ in the car => i bought(doing) / last week(when)
+- I konw the man who is singing in the car that i bought last week. 我认识那个上周我买的车里唱歌的那个人
+  - the man => who is singing(doing) / in the car(where)
+  - in the car => i bought(doing) / last week(when)
 
 - 排序：短语排序
 
 ### 短语的三种形式：**从句**
+
 - 介词短语： in the car => (who is) in the car
 - 从句： who is sing => singing
 - 分词结构：singing
 
-四级翻译：众说周知，杭州是在中国历史上被很多诗人赞美的城市。
-As we all know, Hangzhou is a city that has been praised by many poets in the history of China.
+- 四级翻译：众说周知，杭州是在中国历史上被很多诗人赞美的城市。
+- As we all know, Hangzhou is a city that has been praised by many poets in the history of China.
 
-For an action movie as big as The Expendable 3 with an all start cast so familiar to Chinese audience, a large promontional touar won't bring any extra benifits that they expect.
+- For an action movie as big as The Expendable 3 with an all start cast so familiar to Chinese audience, a large promontional touar won't bring any extra benifits that they expect.
 
-对于中国观众非常熟悉的由全明星阵容所扮演的敢死队3，这么大的动作电影来说，一个大规模的促销旅行并不会带来他们所期待的任何好处。
-
+- 对于中国观众非常熟悉的由全明星阵容所扮演的敢死队3，这么大的动作电影来说，一个大规模的促销旅行并不会带来他们所期待的任何好处。
 
 ###　语法重建第一集：名词的世界
-１. 数量问题：可数和不可数 
-- 固定单位：a cup of water
 
+1. 数量问题：可数和不可数 
+
+- 固定单位：a cup of water
 - Fish: 即可数不可数
-	+ 鱼：可数
-	+ 鱼肉：不可数
+  - 鱼：可数
+  - 鱼肉：不可数
 - sheep：一词不固定
 - time：单位不固定
 - Coffee / tea: a cup of coffee => a coffee
 - Paper
-	+ 纸张：不可数
-	+ 卷子：固定单位
-	+ 论文：固定单位
+  - 纸张：不可数
+  - 卷子：固定单位
+  - 论文：固定单位
 - Experience:
-	+ 经历：可数
-	+ 经验：不可数
+  - 经历：可数
+  - 经验：不可数
 - Glass：
-	+ 玻璃：不可数
-	+ 眼睛：可数
--即可数又不可数：hair,corn, grass, popcorn, rice, salt, sand, snow, sugar
+  - 玻璃：不可数
+  - 眼睛：可数
+- 即可数又不可数：hair,corn, grass, popcorn, rice, salt, sand, snow, sugar
 
 2. 就近和就远原则（扯淡）
 
+
 - 就远
-	+ A woman with two children (is) comming.
-	+ I was well as they (am) ready to help you
+  - A woman with two children (is) comming.
+  - I was well as they (am) ready to help you
 
 - 就近
-	+ Not only I but also he (is) right.
-	+ Both I and he (are) right.
-	+ Neither you nor I (am) fit for the work.
-	+ (Are) neither you nor I fit for the work?
-	+ There (is) a pencil and two pens in the pencil box.
+  - Not only I but also he (is) right.
+  - Both I and he (are) right.
+  - Neither you nor I (am) fit for the work.
+  - (Are) neither you nor I fit for the work?
+  - There (is) a pencil and two pens in the pencil box.
 
 - 主语中心原则
 - There be 唯一没有主语
@@ -569,24 +574,43 @@ Friends will exchange greetings on new year day according to our traditions, and
 
 - The target of research is motivated by converns broadly with the application of statistics and data analysis in scientific research and is part of Science's overall drive to increase reproducibility in the research we publish. 研究的目标受到科研当中统计和数据分析的应用广泛关注而鼓舞的,并且它是我们所出版的研究增加其可复制性而做出的科学总体动力的一个部分
 
-
 - 考验翻译: Under modern conditions, this requires all kinds of measures of centralized control and the help of specialized scientists such as economists and research experts. 在现代的条件之下,这要求集中控制的各种不同的方法以及像经济学家和研究砖家这样的专业科学家的帮助.
 
 - But **the force** of geographic conditions peculiar to America, **the interplay** of the varied national groups upon one another. and **the sheer** difficulty of maintaining old-world ways in a raw, new continent caused significant changes.
 
+## 第三部分 单词重建之
 
-# 第三部分 单词重建之
 - 手机英文版
 - 电脑英文版
 
+## j
 
+> 扔，甩
 
+- jet 喷气式飞机
+- ject 扔
+- inject 注入(扔进去)
+- injection  注射
+- eject 弹出，射出
+- project v.投射(pro+ject，向前扔) n. 项目(未来的计划)
+  - projector 投影仪
+- reject v.拒绝（往回扔）, 强硬， decline v.客气拒绝
+  - refuse
+- interject(inter中间/际) 介入、插入、干涉
+  - internet
+- object (ob 相对，相对) v. 反对; n.物体(与主观世界相对的，与内心世界相对，所以是物理)
+  - objection n.反对(法庭)
+  - objective 客观的
+- sub 方位：下面； 私下（抽象）：内心
+  - subway 地铁
+  - subject 科目/主题 => 主观的
+  - su 缩写
 
+- abject 可怜的、抛弃的
+  - an abject boy in corner
 
+- abandon 远离
+- abnormal 远离正常的
+- adverb (adv.副词) ad靠近v动词
 
-
-
-
-
-
-
+- ab 远离 <-> ad 靠近
