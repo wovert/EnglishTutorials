@@ -783,4 +783,11 @@ Future		will + word		will be + word + ing		will have + word + ed	will have + bee
 - It's far too late. far too... 远远太...
 
 - damp 潮，用水扑在火上
-- dampened hopes 
+- dampened hopes
+
+## 口语背后
+
+- 发音是关键
+  - 模仿练习
+  - 依靠文字发音不准确 / 发音准确之前不要看文字
+	
