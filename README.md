@@ -607,17 +607,17 @@ Friends will exchange greetings on new year day according to our traditions, and
 - object (ob 相对，相对) v. 反对; n.物体(与主观世界相对的，与内心世界相对，所以是物理)
   - objection n.反对(法庭)
   - objective 客观的
-- sub 方位：下面； 私下（抽象）：内心
+- sub 方位(具体)：下面； 私下（抽象）：内心
   - subway 地铁
   - subject 科目/主题 => 主观的
   - su 缩写
 
 - abject 可怜的、抛弃的
   - an abject boy in corner
-
+- ab 远离
 - abandon 远离
 - abnormal 远离正常的
-- adverb (adv.副词) ad靠近v动词
+- adverb (adv.副词) ad靠近v(verb)动词
 
 - ab 远离 <-> ad 靠近
 
@@ -656,6 +656,19 @@ Friends will exchange greetings on new year day according to our traditions, and
 
 - **A long view** of the history of English colonies (殖民地) that became the United States **has been** **that** England's policy(政策) toward these colonies before 1763 was dictated制定 by commercial interests 商业利益 **and that** a change to a more imperial 压制性 policy, dominated 主导 by militarist objecties 军事目标, generated 产生 the tensions 紧张 that ultimately led to the American Revolutions. - 美国高中历史读本。一个对成为美国的英国殖民地的历史的长期观点认为在1763年之前针对这些殖民地的英国的政策依据商业利益所制定，并且还认为一个朝向压制性政策的改变，军事目标的主导下，产生了最终导致美国革命的紧张局面。
   - 并与从句
+
+## JU
+
+> 判断，裁决（法律）
+
+- whore 失足少女
+
+- judge 法官 v.判断
+- justive 正义 n. 大法官
+- just 公平
+- unjust 不公平
+- jury system 陪审团 
+- caselaw
 
 ## 第三部分 定语从句之合并同类项
 

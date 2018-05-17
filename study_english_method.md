@@ -763,6 +763,7 @@ Future		will + word		will be + word + ing		will have + word + ed	will have + bee
 - Have not => Haven't
 - Will not => won't
 
+<<<<<<< HEAD
 - 口语没有长句
 
 ## 好的写作标准
@@ -783,3 +784,33 @@ Future		will + word		will be + word + ing		will have + word + ed	will have + bee
 - 不断注意英语的小短句
 - 听英语时注意节奏，停顿等掌握括号的准确位置
 - 用比喻理解含义
+=======
+## 融入英语
+
+- 英语文化核心：比喻
+
+### 常用比喻
+
+- A Waspy Waist
+- I want you to keep me posted about all developments in this project please.定期通信，以了解动态
+- We should be careful. This strategy is a one way street.单行道
+- It's a big company, but they can **turn on a dime**. dime 美国一毛钱的硬币， 活动灵巧且敏捷
+- Let's start with a blanket agreement.
+
+- 比喻：用具体的事物来表达抽象的概念
+
+- 宽容：宽大+容器
+- Break(打断)+Fast(绝食)
+
+- It's far too late. far too... 远远太...
+
+- damp 潮，用水扑在火上
+- dampened hopes
+
+## 口语背后
+
+- 发音是关键
+  - 模仿练习
+  - 依靠文字发音不准确 / 发音准确之前不要看文字
+	
+>>>>>>> 0e81c673dec72001f20baf8e4c9926af44f55c74
