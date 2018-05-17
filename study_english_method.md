@@ -750,18 +750,36 @@ Future		will + word		will be + word + ing		will have + word + ed	will have + bee
 ## 不规矩的词
 - 用变形词
 
-- 1 child		=>  n children
+- 1 child -> n children
 - 1 man => n men
 - 1 woman => n women
 - 1 mouse => n mice
 
+## 单词的融汇
 
-# 单词的融汇
 - I will => I'll
 - We have => We've
 - You are => You're
 - Have not => Haven't
 - Will not => won't
 
+- 口语没有长句
 
+## 好的写作标准
 
+- 简单的句子
+- 尽量用高频词
+- 尽量用具体词-5个器官能抓住的词
+- 遇到超长句子， 用括号把长句分成独立含义块儿
+- 找固定模式的词组
+- 把关键的内容点在心目中变成画面和感觉
+- 把比喻找出来
+
+## 掌握6个步骤的功夫过程
+
+- 不断把英语词跟画面和感觉链接起来 - 自动化
+- 经过词组对照去把固定小模式自动化
+- 用画面和感觉认识英语的语法信息 - 自动化
+- 不断注意英语的小短句
+- 听英语时注意节奏，停顿等掌握括号的准确位置
+- 用比喻理解含义

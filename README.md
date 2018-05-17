@@ -646,9 +646,19 @@ Friends will exchange greetings on new year day according to our traditions, and
 - Why you love me is strenge. 主语从句
 - It is obvious that she is objective. 主语从句
 
-- It may be said that the goal of reading of any historical book is its effect in enlarging and improving experience; but such a value is based on the quality of books you choose.
+- It may be said that **the goal** of reading of any historical book **is** **its effect** in enlarging and improving experience; **but** such a value is based on the quality of books you choose. 据说，对于任何历史书的阅读的目标是扩展和改进经验的作用。但是这个价值基于你所选择书籍的质量。
   - goal: 目标
   - effect: 作用
-  - enlargin: 扩大
+  - enlarging: 扩大
   - improving: 改进
   - quality: 质量
+  - It may be said that 据说
+
+- **A long view** of the history of English colonies (殖民地) that became the United States **has been** **that** England's policy(政策) toward these colonies before 1763 was dictated制定 by commercial interests 商业利益 **and that** a change to a more imperial 压制性 policy, dominated 主导 by militarist objecties 军事目标, generated 产生 the tensions 紧张 that ultimately led to the American Revolutions. - 美国高中历史读本。一个对成为美国的英国殖民地的历史的长期观点认为在1763年之前针对这些殖民地的英国的政策依据商业利益所制定，并且还认为一个朝向压制性政策的改变，军事目标的主导下，产生了最终导致美国革命的紧张局面。
+  - 并与从句
+
+## 第三部分 定语从句之合并同类项
+
+- 定语
+
+- I like girls who have long hair.
