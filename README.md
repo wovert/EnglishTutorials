@@ -667,11 +667,49 @@ Friends will exchange greetings on new year day according to our traditions, and
 - justive 正义 n. 大法官
 - just 公平
 - unjust 不公平
-- jury system 陪审团 
+- jury system 陪审团
 - caselaw
 
 ## 第三部分 定语从句之合并同类项
 
-- 定语
+什么是定语： 确定范围
 
-- I like girls who have long hair.
+定语位置：主语后面，宾语后面
+
+I like girls who have long hair.
+
+有几种定语从句？只有两种
+
+人：who
+
+物：which
+
+定语从句形成过程
+
+我认识那个在车里哭的人。
+
+1. 主干句:我认识那个人。I know the man
+2. 从句：人在车里哭。 The man is crying in the car.
+3. 合成一句：我认识那个人那个人在车里哭。I know the man the man is crying in the car.
+4. 合并同类项：我认识那个在车里哭的人。I know the man who is crying in the car.
+
+我不喜欢没有图片的书。
+
+1. 主干句：我不喜欢书。I don't like books.
+2. 从句：书没有图片。Books don't have pictures.
+3. 合成一句：我不喜欢书书没有图片。I don't like books books don't have pictures.
+4. 合并同类型：我不喜欢没有图片的书。I don't like books which don't have pictures.
+
+Where when
+
+我特别讨厌我遇见他的那个城市。
+
+1. 主干句：我特别讨厌那个城市。I really hate the city.
+2. 从句：在那个城市我遇见他。I met him in the city.
+3. 合成一句：我特别讨厌那个城市。I really hate the city I met him in the city.
+4. 合并同类型：我特别讨厌我遇见他的那个城市。I really hate the city I met him in which. I really hate the city in which I met him. I really hate the city where I met him.
+
+in which = where
+
+介词不提前：This is the book which I am looking for(寻找：look for).
+
