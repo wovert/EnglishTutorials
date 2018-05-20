@@ -713,3 +713,36 @@ in which = where
 
 介词不提前：This is the book which I am looking for(寻找：look for).
 
+on which
+
+of which
+
+我都忘记你过来的日子了。
+
+1. 我忘记日子
+2. 你在那个日子过来
+
+I have forgot the day you came on the day.
+
+I have forgot the day on which you came.
+
+I have forgot the day when you came.
+
+时间不等于 when
+
+今天将会是一个你一辈子都记住的日子。
+
+今天将会是一个日子 Today will be a day.
+
+你一辈子日子都记住的 You will remember the day in your life
+
+Today will be a day which you will remember in you life.
+
+I have a dog
+
+a dog's eyes are blue.
+
+I have a dog a dog's eyes are blue.
+
+I have a dog whose eyes are blue.
+
