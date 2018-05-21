@@ -507,12 +507,13 @@ If I had met you earlier, I would divorce him to tommrow.
 - capital 首领
 
 ## 第四组 -ceive/-cept 接受(抱抱=>C)
+
 - receive 接收
 - acceept 接受
 - conceive 理解/认知 = konw = 内心接收 = 古代英语(身体/精神,接收)
-	+ Do you konw?
-	+ the man knew his wife, and she conceived Gain.
-	+ May I know you further? 
+  - Do you konw?
+  - the man knew his wife, and she conceived Gain.
+  - May I know you further? 
 - conceivable 
 - deceive 骗
 - deceptive 欺骗的
@@ -520,7 +521,6 @@ If I had met you earlier, I would divorce him to tommrow.
 - perceive (per 完) 完全知道
 
 Today I went to a circus. I saw a man riding a bicycle in the core of the camp, holing a can in his hand. The actor was encircled by many people, including children and the old-age. The play was easy to conceive, but it also produced many wastes that need to be recycled. A captain was sitting in a chair there to keep order.
-
 
 # 公式的升级
 
@@ -544,19 +544,17 @@ Today I went to a circus. I saw a man riding a bicycle in the core of the camp, 
 
 - The method of scientific(科学) investigation(调查) is nothing but the expression of the necessary mode of working of the human mind **and** it is simply the mode by which all phenomena(现象) are reasoned(推理) about and given precise and exact explanation. 科学调查的方法只不过是人类思维工作必要模式的表达, 并且它仅仅是通过它所有现象的推理并且给予精准解释的模型
 
-	+ nothing but 只不过是
-	+ it 指向的是
+  - nothing but 只不过是
+  - it 指向的是
 
 ## 中文双黄蛋的困境:省略
+
 - (我们)垃圾分类,从我做起(这件事)
--  中文意会
+- 中文意会
 
 - 英文: 滴水不漏
 
-
-- 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物.
-Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
-
+- 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物.Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
 
 - 单黄蛋
 - 非句 + and + 非句
@@ -627,3 +625,4 @@ Friends will exchange greetings on new year day according to our traditions, and
 - unjust 不公平
 - jury system 陪审团 
 - caselaw
+
