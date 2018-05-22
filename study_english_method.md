@@ -833,3 +833,13 @@ Future		will + word		will be + word + ing		will have + word + ed	will have + bee
 dɪs: 舌头触碰上齿
 
 ðɪs: 舌头往上下齿之间伸出
+
+返回训练英语读说，建立自然条件反射。
+
+先明白含义
+
+观察含义周围的信息环境
+
+自己开始模仿
+
+下意识会帮助你一步一步把妙处搞清楚
