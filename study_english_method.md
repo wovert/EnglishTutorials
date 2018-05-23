@@ -843,3 +843,55 @@ dɪs: 舌头触碰上齿
 自己开始模仿
 
 下意识会帮助你一步一步把妙处搞清楚
+
+## 听力问题背后的真理
+
+1. 记忆层神经状态的问题
+2. 信息规律的漏洞问题
+
+### 记忆层神经状态的问题
+
+听觉系统
+
+把一部分音速过滤掉
+
+能听清楚吗？
+
+重要信息已经被过滤掉
+
+听不清 -> 听不明白 -> 没法记住 -> 没法说
+
+过滤建立好之后，就是清楚
+
+基层神经系统
+
+英语：能马上模仿发音；过一会容易记得；听过一次容易进入长期记忆
+
+### 信息规律的漏洞问题
+
+1k 个单词解决85%日常和工作的交流
+
+3k 解决98%
+
+I was a very cold day at the end of summer. My coffee cup, sitting on top of the small table, was steaming in the morning sum.
+
+高频词漏洞导致听不清
+
+英语的高频规律
+
+work worked working
+
+eat ate eaten
+
+They Them Theris
+
+You have had too mch to eat
+
+Do not do it => Don't do it
+
+用中英对照法解决高频规律问题
+
+用泡脑子解决基层神经状态问题
+
+
+
