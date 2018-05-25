@@ -915,3 +915,21 @@ Being a boy, I fell in love with T.
 
 ### 超级独立结构
 
+宾语去掉
+
+If Sunday is OK, we' d like to go outing.
+
+Sunday being OK, we'd like to go outing.
+
+Sunday OK, we'd like to go outing.
+
+He wrote a lot of novels, many of which were translated into foreign languages.
+
+He wrote a lot of novles, and many of them were translated into foreign languages.
+
+I love you and I hate you.
+
+I love you, who hate you.
+
+I love you, hating you.
+
