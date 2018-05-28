@@ -832,3 +832,104 @@ all, everything, anything, nothing, little, much, any, each, noe, some, few ,the
 
 You are the most beautiful girl that I have ever seen.
 
+这是一部给人带来信心的电影，这也是一部你会发现自己的影子的电影。This is a movie which gives us confidence, and this is also a movie in which you can see the shadow of yourself.
+
+## 状语和独立结构
+
+英语：(状1) 主语(定1) 谓语(状2) (宾语) (定2\状1)
+
+中文：(状1\定1)) 主语(状2) 谓语(定2) (宾语) (状1)
+
+什么是句子？主谓，but 主谓
+
+什么是两句话
+
+I love you and I hate you.
+
+啥叫状语
+
+today, we will win.
+
+to make money, you have to work hard.
+
+### 状语类别
+
+- 时间状语：when,while, where(地点状语)
+- 原因状语：because, for, as, due to
+- 目的状语：inorder, so that
+- 条件状语: if, unless, as/so logn as, lest, in case
+- 结果状语：so, so that(目的)
+- 让步状语：as if, although, though
+- 方式状语：by way of, by means of
+- 比较状语：than as as, not as as, no sooner than
+
+状语从句和双黄蛋
+
+If you can, you should tell me!
+
+I was sining when he came, he came while I was singing.
+
+stylish 格调
+
+鄙视状语从句，因为太简单，啰嗦。
+
+### 什么是独立结构
+
+absolute stracture
+
+如果你依然爱我，你就把我收了吧！
+
+爱我，就把我收了吧。
+
+If you still love me, you should marry me.
+
+Still love me, you should marry me. love 与 marry 都是动词并列冲突，love动词 => loving 分词
+
+Still loving me, you should marry me. 主干在后一句
+
+When I was a boy, I fell in love with her.
+
+Being a boy, I fell in love with her. was主动 => Being 分词, was被动 = been
+
+Because she knows what I need, she can provide a right answer.
+
+Knowing what I need, she can provide a right answer. 知道我需要什么，她能提供一个正确的答案
+
+As he was elected as the new president, he became prudent(谨慎).
+
+Elected as the new president, he became prudent.
+
+Because he has finished his home work, he is allowed to play video games.
+
+Having finished his home work, he is allowed to play video games.
+
+After his health was better, he joined the army.
+
+Health being better, he joined the army.
+
+Health better, he jointed the army.
+
+When I was a boy, I fell in love with T.
+
+Being a boy, I fell in love with T.
+
+### 超级独立结构
+
+宾语去掉
+
+If Sunday is OK, we' d like to go outing.
+
+Sunday being OK, we'd like to go outing.
+
+Sunday OK, we'd like to go outing.
+
+He wrote a lot of novels, many of which were translated into foreign languages.
+
+He wrote a lot of novles, and many of them were translated into foreign languages.
+
+I love you and I hate you.
+
+I love you, who hate you.
+
+I love you, hating you.
+
