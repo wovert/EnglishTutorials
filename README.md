@@ -933,3 +933,27 @@ I love you, who hate you.
 
 I love you, hating you.
 
+## e 时代
+
+> 出
+
+excel 超越
+excessive 多余的
+exceed 超出
+educate 教育 （duce 引导）
+
+## L
+
+> line, 线条
+
+line list(清单) loop lure(诱饵) leak(泄露) link lip(嘴唇) long leg length
+
+It is important to understand the writer's meaning between the lines. 字里行间
+
+lace(花边) landscape(风景线) latitude(纬度) lngitude(经度) lane(车道,过道)
+
+liner(航线)
+
+literate 有文化的 illiterate 文盲的 literature 文学
+
+lecture(演讲) legend(传奇)
