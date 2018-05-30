@@ -957,3 +957,31 @@ liner(航线)
 literate 有文化的 illiterate 文盲的 literature 文学
 
 lecture(演讲) legend(传奇)
+
+legal/legitimate 合法的 illegal 非法的
+
+legislation 立法权
+
+Light 光明 轻的
+
+Enlighten 启发
+
+Social justice must always enlighten(大策大悟) one's consicence
+
+lamp 灯
+
+lantern(灯笼) festival 灯节
+
+lunar 月亮
+
+lunar new year 农历
+
+illuminate 说明，说清楚
+
+流明
+
+night => no light
+
+laser 镭射/激光
+
+elapse 流逝/匆忙
