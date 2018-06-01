@@ -985,3 +985,23 @@ night => no light
 laser 镭射/激光
 
 elapse 流逝/匆忙
+
+出生在中国，我们百毒不侵。Because we were born in China, we are immune of all poisons. Born in China, we are immune to any poison.
+
+时态复习：In two more minutes, she will have been talking on the phone for 3 hours.
+
+A new president has been elected as the leader. He will give a lecture aobut how to strengthen our legend. Although he is rejected by many, he still conceives that he will do a good job. His speech will include many of his ojbective judgments about our future.
+
+## 名词从句
+
+> 主语或者宾语时句子
+
+That you love her is a lie. 主语从句 that 不能去掉。但是主语太长了，所以变成 It is a lie that you love her. it 指向 that you love her.
+
+I think that she is right. I think she is right. 宾语从句 that 可以去掉
+
+What your name is is a secret. 你叫什么是一个秘密
+
+Who you are is a secret. 你是谁是一个秘密
+
+I know what you think. 我知道你想什么
