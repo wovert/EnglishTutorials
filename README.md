@@ -1005,3 +1005,24 @@ What your name is is a secret. 你叫什么是一个秘密
 Who you are is a secret. 你是谁是一个秘密
 
 I know what you think. 我知道你想什么
+
+You have to find out who can help you. 你必须去发现谁帮了你
+
+You have to find out a pewrson who can help you.
+
+I know the words which you said.
+
+I know what you said.
+
+宾语从句的反问
+
+I new thought that he would come for the dinner pary, ...? wouldn't
+
+She belives that you are right, doesn't she?
+
+We believe you can do it, ....? can't you
+
+Am not I => Are not I?
+
+## P 类词
+
