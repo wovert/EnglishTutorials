@@ -1026,3 +1026,40 @@ Am not I => Are not I?
 
 ## P 类词
 
+flag 旗帜(旗帜的意义演变：标志位置、放置、领导)
+
+最原始的位置标记：piss/pee (小狗在树木附近尿尿)
+
+pose 姿势(v.放置)
+
+inpose 实加，放入
+
+expose v.展示,放出
+
+exposure n.曝光
+
+exposition n.展会 （词更长，越抽象越高端越文雅）
+
+world expo 世界博览会
+
+promote v.提出(往前放)
+
+propose to sb 求婚
+
+compose 组成,构成 3 men composes a team.
+
+composition 作文
+
+composer 作曲家
+
+dispose 扔掉
+
+press
+
+pri
+
+par
+
+spect
+
+plic/plex
