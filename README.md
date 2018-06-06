@@ -932,3 +932,201 @@ I love you and I hate you.
 I love you, who hate you.
 
 I love you, hating you.
+
+## e 时代
+
+> 出
+
+excel 超越
+excessive 多余的
+exceed 超出
+educate 教育 （duce 引导）
+
+## L
+
+> line, 线条
+
+line list(清单) loop lure(诱饵) leak(泄露) link lip(嘴唇) long leg length
+
+It is important to understand the writer's meaning between the lines. 字里行间
+
+lace(花边) landscape(风景线) latitude(纬度) lngitude(经度) lane(车道,过道)
+
+liner(航线)
+
+literate 有文化的 illiterate 文盲的 literature 文学
+
+lecture(演讲) legend(传奇)
+
+legal/legitimate 合法的 illegal 非法的
+
+legislation 立法权
+
+Light 光明 轻的
+
+Enlighten 启发
+
+Social justice must always enlighten(大策大悟) one's consicence
+
+lamp 灯
+
+lantern(灯笼) festival 灯节
+
+lunar 月亮
+
+lunar new year 农历
+
+illuminate 说明，说清楚
+
+流明
+
+night => no light
+
+laser 镭射/激光
+
+elapse 流逝/匆忙
+
+出生在中国，我们百毒不侵。Because we were born in China, we are immune of all poisons. Born in China, we are immune to any poison.
+
+时态复习：In two more minutes, she will have been talking on the phone for 3 hours.
+
+A new president has been elected as the leader. He will give a lecture aobut how to strengthen our legend. Although he is rejected by many, he still conceives that he will do a good job. His speech will include many of his ojbective judgments about our future.
+
+## 名词从句
+
+> 主语或者宾语时句子
+
+That you love her is a lie. 主语从句 that 不能去掉。但是主语太长了，所以变成 It is a lie that you love her. it 指向 that you love her.
+
+I think that she is right. I think she is right. 宾语从句 that 可以去掉
+
+What your name is is a secret. 你叫什么是一个秘密
+
+Who you are is a secret. 你是谁是一个秘密
+
+I know what you think. 我知道你想什么
+
+You have to find out who can help you. 你必须去发现谁帮了你
+
+You have to find out a pewrson who can help you.
+
+I know the words which you said.
+
+I know what you said.
+
+宾语从句的反问
+
+I new thought that he would come for the dinner pary, ...? wouldn't
+
+She belives that you are right, doesn't she?
+
+We believe you can do it, ....? can't you
+
+Am not I => Are not I?
+
+## P 类词
+
+flag 旗帜(旗帜的意义演变：标志位置、放置、领导)
+
+最原始的位置标记：piss/pee (小狗在树木附近尿尿)
+
+pose 姿势(v.放置)
+
+inpose 实加，放入
+
+expose v.展示,放出
+
+exposure n.曝光
+
+exposition n.展会 （词更长，越抽象越高端越文雅）
+
+world expo 世界博览会
+
+promote v.提出(往前放)
+
+propose to sb 求婚
+
+compose 组成,构成 3 men composes a team.
+
+composition 作文
+
+composer 作曲家
+
+dispose 扔掉
+
+deposit (de向下) 存钱
+
+withdraw (draw 拉, with 带) 取钱
+
+oppose (o=ob) 反着放，v.反对 opponent n.对手
+
+in the opposit 相反
+
+position 位置,方位
+
+GPS：Global Positioning System
+
+press 按压
+
+express 压出来，挤出来，表达
+
+impress 印
+
+impression 印象
+
+compress 压缩 compressed biscuits 压缩饼干
+
+depress 往下压/悲伤、沮丧 He is so depressed with this outcome（结果）.  
+
+pri
+
+prince 王子
+
+primitive 原始
+
+preliminary adj. 初步的；开始的；预备的
+
+prime minister 总理，首相
+
+primary 首要的，主要的，类似 main    Out primary target is to learn English.
+
+par
+
+part 部分，分开
+
+party 聚会
+
+plic/plex 折叠，交织
+
+duplicate (du 两个) 对折
+
+multi 多
+
+multimedia 多媒体
+
+multiply 乘法 vi. 乘；繁殖；增加
+
+complicate 复杂
+
+complex 复杂
+
+perplex 懵逼 vt. 使困惑，使为难；使复杂化 (per 完全)   perfect(fect做完)
+
+I am perplexed. 我很糊涂了
+
+comply 一起折，对折， 弯腰 => 服从
+
+red alert 红色警戒
+
+reply 回折
+
+imply 暗示
+
+implicit 含蓄的
+
+explicit 明确的
+
+You have all heard **that** men of science work by means o induction and deduction, **that** by the help of these operations, they, in a sort of sense, manage to extract from Nature certain natural laws, **and that** out of these laws, by some special skill of their own, they build up their theories about the running of our world. 你已经听说了，科学界人士通过归纳和演绎方式来工作的。并且在这些操作的帮助之下，他们在自然界中成功的提取了特定的自然法则。通过这些法则，他们通过他们自己的有些技能建立了我们世界运行的理论。
+
+In the metting, he proposed a plan to lure the opponent out his castle. If he is exposed, we can discover him and capture him as our captive. Such a plan will impose great pressure on our enemy. Therefore, our previous proposal is disposed. His new plan inject great confidence into our heats.
+
