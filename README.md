@@ -1054,12 +1054,74 @@ composer 作曲家
 
 dispose 扔掉
 
-press
+deposit (de向下) 存钱
+
+withdraw (draw 拉, with 带) 取钱
+
+oppose (o=ob) 反着放，v.反对 opponent n.对手
+
+in the opposit 相反
+
+position 位置,方位
+
+GPS：Global Positioning System
+
+press 按压
+
+express 压出来，挤出来，表达
+
+impress 印
+
+impression 印象
+
+compress 压缩 compressed biscuits 压缩饼干
+
+depress 往下压/悲伤、沮丧 He is so depressed with this outcome（结果）.  
 
 pri
 
+prince 王子
+
+primitive 原始
+
+preliminary adj. 初步的；开始的；预备的
+
+prime minister 总理，首相
+
+primary 首要的，主要的，类似 main    Out primary target is to learn English.
+
 par
 
-spect
+part 部分，分开
 
-plic/plex
+party 聚会
+
+plic/plex 折叠，交织
+
+duplicate (du 两个) 对折
+
+multi 多
+
+multimedia 多媒体
+
+multiply 乘法 vi. 乘；繁殖；增加
+
+complicate 复杂
+
+complex 复杂
+
+perplex 懵逼 vt. 使困惑，使为难；使复杂化 (per 完全)   perfect(fect做完)
+
+I am perplexed. 我很糊涂了
+
+comply 一起折，对折， 弯腰 => 服从
+
+red alert 红色警戒
+
+reply 回折
+
+imply 暗示
+
+implicit 含蓄的
+
+explicit 明确的

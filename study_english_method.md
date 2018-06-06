@@ -921,3 +921,19 @@ Do not do it => Don't do it
 商务英语=专业词汇+日常用语+常用比喻，即商务英语时日常英语++
 
 fresh snapshop of the nation's employment picture
+
+词组 = 单词 + 单词
+
+商务词组 = 日常单词 + 日常单词 or 日常单词 + 商务词汇
+
+weekly gains 每一周收益增长
+
+Economic reports 经济报告
+
+Employment picture 就业情况
+
+Labor market 劳务市场
+
+扎实的日常英语基础是职业英语界发挥好的前提
+
+## 英语学习的准确的心态
