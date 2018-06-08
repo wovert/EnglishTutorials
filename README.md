@@ -1148,4 +1148,4 @@ She hates the idea that we should abandon her.
 
 I can understand him only in this way.
 
-Only in this way,  can I understand him.
+Only in this way,  can I understand him. 只有通过这种方式我才能理解他 
