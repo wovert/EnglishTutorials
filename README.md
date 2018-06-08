@@ -1130,3 +1130,22 @@ You have all heard **that** men of science work by means o induction and deducti
 
 In the metting, he proposed a plan to lure the opponent out his castle. If he is exposed, we can discover him and capture him as our captive. Such a plan will impose great pressure on our enemy. Therefore, our previous proposal is disposed. His new plan inject great confidence into our heats.
 
+## 同位、倒装和强调
+
+### 同位语
+
+Tom, my brother, is comming. Tom 和 my brother 是同一个人，因此使用 is 谓语
+
+ n, n2 + 定语从句1
+
+ Miss Gao, a teacher who taught me English when I was in hight school, a lady who was very nice to her student, a friend who helped me a lot when I was in trouble, died now.
+
+同位语从句
+
+She hates the idea that we should abandon her.
+
+倒装的本质：强调 -> 副词/重音
+
+I can understand him only in this way.
+
+Only in this way,  can I understand him.
