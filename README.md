@@ -1148,4 +1148,40 @@ She hates the idea that we should abandon her.
 
 I can understand him only in this way.
 
-Only in this way,  can I understand him. 只有通过这种方式我才能理解他 
+Only in this way can I understand him. 只有通过这种方式我才能理解他.助词 can  提前到状语之后
+
+Never, seldom, scarcely, hardly(几乎不), nowhere, nolonger
+
+I have never heard of him. 我从来没有听说过他。
+
+Never have I heard of him. 状语 newver， 助词 have. 重点从来没有
+
+I seldom wrote letters. 我之前很少写信
+
+Seldom did I write letters. 我之前很少写信
+
+疑问句也是倒装句
+
+What is your name ? Your name is what?
+
+I know you. Do I know you?
+
+I'm hardly happy. 我很好很高兴.
+
+Hardly am I happy.
+
+## 全倒装
+
+> 口语化的台词比较多
+
+A cat lies in the house. 强调房间里头 In the house lies a cat. 变成了中文语序。房间里躺着一只猫
+
+My love comes now. => Now comes my love
+
+强调名词：I can understand him only in this way. => It is him that I can understand only in this way.
+
+It is I that love you.
+
+It is important that you go home.
+
+It is you that I love. 强调并与（名词或代词）
