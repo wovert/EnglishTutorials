@@ -1184,4 +1184,91 @@ It is I that love you.
 
 It is important that you go home.
 
-It is you that I love. 强调并与（名词或代词）
+It is you that I love. 强调宾语（名词或代词）
+
+### 强调
+
+1. 副词提前，助词提前
+2. 整句倒装
+3. It is ? that ?
+
+## T
+
+> tT => 足字旁
+
+t => 走 => 进行，过程，路径
+
+to
+
+this/that
+
+there
+
+then
+
+than
+
+throw
+
+target
+
+task
+
+take
+
+till
+
+until
+
+together
+
+tide 潮流
+
+time
+
+ten 走 ——延伸——> extend v.伸展、扩张 => expand(近义词) n.extent 范围  adj. extensive 广泛的
+
+intend (in 心里面的) 打算、计划 n.intention, intentional 故意的
+
+tend v.打算
+
+I tend to read. 我倾向于读书
+
+trend n.趋势
+
+tent n.帐篷
+
+contend 撕逼，竞争
+
+pretend 假装（提前做好）
+
+intensive adj. 紧密的 intensive reading 精读
+
+extensive reading 泛读
+
+attend vt.参加、出席
+
+tension n.紧张
+
+tense 时态
+
+temp 走 -> 延伸，过程 => 太阳（行进的过程当中）
+
+1. temple n. 庙宇；寺院；神殿；太阳穴；
+2. tempation 魅力
+3. tempt 诱惑
+4. contempt (con 相反) 鄙视，  in contrast 相反， CS(conter strike)  反恐精英
+
+You are tempted(lured) to learn English. 你被诱惑来学英语
+
+太阳 => 时间（建国门博物馆，日晷gui3）
+
+temporary 临时的
+
+contemporary 同时的
+
+tempo 节奏
+
+template 样品
+
+attempt 吸引
