@@ -1272,3 +1272,26 @@ tempo 节奏
 template 样品
 
 attempt 吸引
+
+temperature 温度
+
+tempest 风暴
+
+temper 脾气
+
+temperament n.气质，修养
+
+tract 地域
+
+extract distract contract
+
+trip 远足
+
+中国历来主张 “世界大同，天下一家”。中国人民不仅希望自己过得好，也希望各国人民过得好。当前，战乱和贫困依然困扰着部分国家和地区，疾病和灾害也时时侵袭着众多的人们。
+
+The Chinese has been believing in "One world, One family". Not only do The Chinese  wish to live happyly ourself 
+
+believe in(相信理论，更加抽象)
+
+我真诚希望，国际社会携手起来，秉持人类命运共同体的理念，把我们这个星球建设更加和平、更加繁荣。
+让我们满怀信心和期待，一起迎新新年的钟声！
