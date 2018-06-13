@@ -1295,3 +1295,53 @@ believe in(相信理论，更加抽象)
 
 我真诚希望，国际社会携手起来，秉持人类命运共同体的理念，把我们这个星球建设更加和平、更加繁荣。
 让我们满怀信心和期待，一起迎新新年的钟声！
+
+The Chinese has always believed in 'one world, one family'. Not only do we wish to live happily ourselves, but also hold the same expectations for the world. Today, war and poverty still trouble some countries and areas, and diseases and disasters are also haunting over many people.
+
+I sin cerely hope that the world can join hands, maintain the ideology of shared destiny, and make our planet more peaceful and prosperous. Let us welcome the bell ring of new year with full confidence and hope!
+
+hope 真的希望
+
+wish could 虚拟希望
+
+## 介词
+
+### 介词原则：没有固定搭配
+
+The government needs to help the homeless toward independence.
+
+实的事情 electric 雷电 => 实短
+
+虚的事情 electrical 电学 => 虚长
+
+sensual 舒服的（灵魂，身体）
+
+sensuous 舒服的（精神）
+
+machine 机器
+
+mechanism 机智
+
+in
+
+within
+
+I'm in the bed.
+
+Your words are within my understanding. 你的话在我的理解范围之内
+
+### 细微差异
+
+I got so afraid for his career.
+
+of 的（属性）,具有某种特征
+
+for 原因，目的
+
+with 伴随
+
+Tonight is with you.
+
+Tonight is for you.
+
+### 简约之美
