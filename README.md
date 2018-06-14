@@ -1345,3 +1345,95 @@ Tonight is with you.
 Tonight is for you.
 
 ### 简约之美
+
+To have a government that is of people, for people, by people.
+
+Ask not what can be done for yhou, but what can be done by you! - 罗斯福
+
+Life is full of ups and downs, yet the tide is unable to return.
+
+### 第一阵营
+
+On off
+
+on 之源，接触，依赖
+
+on 在常用时间地点上的意义
+
+at/on 某个时间点上
+
+in the morning （in  长期范围之内），morning(太阳升起到中午)
+
+in the afternoon （12点以后，下午）
+
+in the evening
+
+at noon 中午(12点), at 更加具体化
+
+at night 晚上(12点)
+
+at 6:00
+
+on monday morning (具体某个早上,范围越来越缩小)
+
+on Sunday
+
+on time(准时，某个点上)，on 准
+
+in time(及时，范围之内)， in 及
+
+arrive in Beijing(大的地方)
+
+arrive at hospital(小的地方)
+
+at scholl (学习状态)
+
+on/at (on：接触)， at 比 on 更小更具体
+
+call on 拜访
+
+call at 拜访
+
+on 接触
+
+keep an eye on 留意，照看 (眼神接触)
+
+depend on 依靠
+
+concentrate on 关注
+
+focus on 聚焦
+
+Apples are on the tree.
+
+I stand on the head. 倒立
+
+Lie on my side. 侧躺
+
+go on => v. + on, 继续
+
+work on, fight on
+
+lean on/against(针对) the wall. 靠墙
+
+on 上对下
+
+a cup on the table.
+
+be based on 已..为基础
+
+Don't be too hard on me. 别对我太苛刻
+
+
+
+
+
+
+at in
+
+for against
+
+by with
+
+to from
+
