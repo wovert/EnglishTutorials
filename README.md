@@ -1424,10 +1424,59 @@ be based on 已..为基础
 
 Don't be too hard on me. 别对我太苛刻
 
+Please keep an eye on her!
 
+His words have great impact on me. 上对下，（压力），to me(平辈之间)
 
+This book is important to me.
 
+feed on v. 以...为食，以...为能源
 
+from then on 从那时起
+
+on occasion 有时，不时
+
+on the priciple of  根据...的原则
+
+表示进入某种状态（搭上线了），处于...状态
+
+on and off
+
+on fire 着火
+
+agreen on 达成一致意见
+
+The show is on. 节目开始了
+
+on purpose 故意，有意
+
+on the/an average 平均
+
+on behalf of 代表
+
+on board 上车
+
+on business 出差
+
+on display 在展出当中
+
+on duty 值班
+
+on sale 打折，销售状态
+
+on vacation 度假
+
+You turned me on! 你让我很来电，一见倾心。  This book turns me on.
+
+You truned me off. 你让我恶心（比失望更严重）。令人作呕
+
+turn off / throw up 吐
+
+on line 在线
+
+On one hand, on the other hand. 
+
+off 脱离、离开，离去，掉，从...离开,从...脱离
 
 at in
 
