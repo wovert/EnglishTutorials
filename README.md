@@ -1474,9 +1474,95 @@ turn off / throw up 吐
 
 on line 在线
 
-On one hand, on the other hand. 
+On one hand, on the other hand.
 
 off 脱离、离开，离去，掉，从...离开,从...脱离
+
+ff => fly fly => 脫離，off load
+
+offspring 冒出/彈出,  后代，血口喷人
+
+off 跟脱离有关
+
+They had an off-book(离开本子，私下的，不记录的) meeting.
+
+off duty 离职 off job ， resign (下班打卡)
+
+break off 打断(大腿)
+
+call off 取消（别来了）
+
+call in 叫进来
+
+carry off 拿走
+
+cut off 断开
+
+get off (使)下车，下马
+
+give off 发出 The sun gives off heat.
+
+let off 免罚，宽恕
+
+fuck off 滚蛋
+
+pay off 换清 Hard work pays off
+
+put off 推迟
+
+see ... off: I saw him off. 送别
+
+set off 触发，动身
+
+show off 炫耀，显摆
+
+take off 脱掉
+
+turn off 关掉
+
+in 抽象和具体
+
+Are you in?
+
+He is so in. 他很时尚。 in fashion    入时
+
+in the house. 具体
+in your mind. 抽象
+
+within 抽象含义的
+
+into 进入
+
+in: 时间段内
+
+in 2017, in July
+
+未来的某个点：I'll be back in 5 days. 我将 5 天后回来
+
+过去的某个点：I was born in 2001, and after two years, I was send to ...
+
+in: 包含
+
+out 出去/用光, go out 出去、出门
+
+run out 用完了    we are running out of oil. 我们没有油了
+
+out of question 没问题
+
+out of sight 在视野之外
+
+burn out 烧光了，化为灰烬 \ burn down 垮掉了，夷为平地   set up 建立
+
+knock off 下班(离开) \ knockout 打晕（精神没了） a kncoout 击晕
+
+KO 游戏 knockout
+
+keep kim off smoking 保持远离抽烟
+
+out: 出于/出自 => 由于 => 因为
+
+out of my respect to you, I agree with it. 因为我对你的尊重，我同意它。
+
 
 at in
 
