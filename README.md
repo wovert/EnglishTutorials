@@ -1394,7 +1394,9 @@ call on 拜访
 
 call at 拜访
 
-on 接触
+### on
+
+#### on 接触
 
 keep an eye on 留意，照看 (眼神接触)
 
@@ -1416,11 +1418,11 @@ work on, fight on
 
 lean on/against(针对) the wall. 靠墙
 
-on 上对下
+#### on 上对下
 
 a cup on the table.
 
-be based on 已..为基础
+#### be based on 已..为基础
 
 Don't be too hard on me. 别对我太苛刻
 
@@ -1438,7 +1440,7 @@ on occasion 有时，不时
 
 on the priciple of  根据...的原则
 
-表示进入某种状态（搭上线了），处于...状态
+#### 表示进入某种状态（搭上线了），处于...状态
 
 on and off
 
@@ -1476,7 +1478,7 @@ on line 在线
 
 On one hand, on the other hand.
 
-off 脱离、离开，离去，掉，从...离开,从...脱离
+## off 脱离、离开，离去，掉，从...离开,从...脱离
 
 ff => fly fly => 脫離，off load
 
@@ -1520,7 +1522,7 @@ take off 脱掉
 
 turn off 关掉
 
-in 抽象和具体
+### in 抽象和具体
 
 Are you in?
 
@@ -1543,7 +1545,7 @@ in 2017, in July
 
 in: 包含
 
-out 出去/用光, go out 出去、出门
+### out 出去/用光, go out 出去、出门
 
 run out 用完了    we are running out of oil. 我们没有油了
 
@@ -1562,6 +1564,62 @@ keep kim off smoking 保持远离抽烟
 out: 出于/出自 => 由于 => 因为
 
 out of my respect to you, I agree with it. 因为我对你的尊重，我同意它。
+
+### at (比on更小) 时间点上，属性非常精确，非常细微，具体的数值点位，延伸出度量衡
+
+He is driving at 140 kms an/per hour.
+
+in < on < at
+
+at times 经常时间
+
+in time 及时
+
+on time 准时
+
+for some time 一段时间
+
+with 伴随，延伸出因为含义: Tonight is for you. Tonight is with you.
+
+With your help, I could make it.
+
+Help with 伴随
+
+Help for 目的
+
+wayward 任性
+
+### for 含义
+
+1. 端时间； I've been in BJ for 20 years.
+2. 原因/目的：
+
+### by
+
+B 的含义是木材造型
+
+board:板子， book, bar 酒吧(木棍，木板，吧台不可缺少)， buck(桶), barrel(桶), branch(树枝) company 分公司， basket 篮子， boat 小木船，bridge 桥， bra 木头，brace支撑
+
+by => 本意：靠在一棵树上，靠着，依仗
+
+bandit 换单，土匪 => 中文：恶棍
+
+1. 靠近：stand by(待发)；顺便提一下；by the way; 
+2. 靠...方式：by car, by bike
+3. 时间靠近，截止：You must finish it by 8:00. 最晚8:00之前，类似于 before
+
+### Across-throught(抽象) 通过
+
+throught hard times 通过痛苦的时光
+
+get throught your sickness 度过疾病
+
+
+
+
+
+
+
 
 
 at in
