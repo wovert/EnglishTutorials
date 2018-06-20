@@ -2,7 +2,7 @@
 
 ## 公式的运行和词汇语法重建
 
-### 1. 公式的推导和基础运行
+### 1.公式的推导和基础运行
 
 - 单词对称
 - 排序不同
@@ -10,20 +10,12 @@
 - f(x)=y
 
 - 主语：是执行句子的行为或动作的主体
-- 谓语：是对主语动作或状态的陈述或说明，指出“做什么”do what,“是什么”what is this或是“怎么样”how
+- 谓语：是对主语动作或状态的陈述或说明，指出“做什么” do what, “是什么” what is this或是“怎么样”how
 - 宾语：又称受词，是指一个动作（动词）的接受
 
-- 英语陈述语句：
+英语陈述语句公式：(状1) 主(定2) 谓(状2) （宾）（定2\状1）
 
-``` 公式
-(状1) 主(定2) 谓(状2) （宾）（定2\状1）
-```
-
-- 中文陈述语句：
-
-``` 公式
-(状1\定1) 主(状2) 谓(定2) （宾）（状1）
-```
+中文陈述语句公式：(状1\定1) 主(状2) 谓(定2) （宾）（状1）
 
 - I Love a girl
 - She died (没有宾语)
@@ -45,20 +37,23 @@
   - 东方：农业文明（过程优先）
   - 西方：商业文明（效率优先）
 
-- In your life(状1), **a friend** that is helpful **is** **a friend** that you should thank(状1).
+In your life(状1), **a friend** that is helpful **is** **a friend** that you should thank(状1).
 
-- 主干体系：在你的一生当中，一个总能帮助你的朋友是一个应当感谢的朋友
+主干体系：在你的一生当中，一个总能帮助你的朋友是一个应当感谢的朋友
 
-- 在北京，没有钱的**年轻人**以这种方式也能**实现**他们心中的**梦想**。
-- 在北京，年轻人没有钱的能实现以这种方式也他们心中的。
+在北京，没有钱的年轻人以这种方式也能实现他们心中的梦想。
 
-- In Beijing, the young without money can realize in this way the dreams in their hearts.
+在北京，年轻人没有钱的能实现以这种方式也他们心中的。
 
-- **I** can **see** in his eyes the **love** to me
-- **I** can **see** in this picture profound **rules** in life
+In Beijing, the young without money can realize in this way the dreams in their hearts.
 
-- 去年(状1)我(主)买了一块表
-- 我(主)去年(状1)买了一块表
+**I** can **see** in his eyes the **love** to me
+
+**I** can **see** in this picture profound **rules** in life
+
+去年(状1)我(主)买了一块表
+
+我(主)去年(状1)买了一块表
 
 ### 2.主干的定位
 
@@ -73,8 +68,9 @@
 1. 主语：句首的**独立名词**性结构(名词 代词 分词(分身love, loved) 从句 it)
 
 - 名词
-  - In his eyes, **Jack** is aliar. 
-    - In his eyes 的 eyes 在介词，所以不是主语
+  - In his eyes, **Jack** is aliar.
+  - In his eyes 的 eyes 在介词，所以不是主语
+
 - 分词
   - **Living** in a city is always convenient. 
 
@@ -86,12 +82,14 @@
     - it 是形式主语
     - it 指向 that no one can live without water. 逻辑主语
 
-2.谓语：排除过程
+2. 谓语：排除过程
 
 - 从句中和介词短语中动词
   - The man who is smiling **is** jack. 正在笑得那个人是jack
+
 - 主语前动词
   - **In fighting**, the brave wins. 在战斗中，勇者获胜 
+
 - 分词前无助词(have be)
   - I **am** working
   - I have **married**. I am **married**.
