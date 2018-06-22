@@ -1606,25 +1606,36 @@ bandit 换单，土匪 => 中文：恶棍
 2. 靠...方式：by car, by bike
 3. 时间靠近，截止：You must finish it by 8:00. 最晚8:00之前，类似于 before
 
-### Across-throught(抽象) 通过
+### Across（穿越）-throught(抽象) 通过
 
 throught hard times 通过痛苦的时光
 
 get throught your sickness 度过疾病
 
+### over-beyond 上面
 
+over： 上面，越过（具体,动态），延伸出 => 完了，结束了 game over, we are over， over my dead body. 强拒绝 look over(忽视) go over(复习) 过一遍
 
+beyond：上面（抽象，静态）
 
+God is beyond us.
 
+My thanks to you is beyond words . 我对你的话超越了语言(溢于言表)
 
+around (转圈) over（正向）
 
+### up(向上，完)
 
+fill it up. 把它填满
 
-at in
+make it up. 弥补
 
-for against
+face lift 整容
 
-by with
+dry up. 干了
 
-to from
+give up 放弃  give in 妥协
 
+breack up 完蛋了
+
+live up to 不辜负，达成  We have live up to our parent's hope.
