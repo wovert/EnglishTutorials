@@ -1639,3 +1639,57 @@ give up 放弃  give in 妥协
 breack up 完蛋了
 
 live up to 不辜负，达成  We have live up to our parent's hope.
+
+## 动词
+
+### 基本定义：动词和分词
+
+动词：谓语和不是谓语（分词）
+
+A flying bird shits on me.
+
+flying: 非谓语， shits: 谓语
+
+#### 谓语
+
+1. 时态
+2. 语态
+3. 及物和不及物
+
+及物 vt.：可以摸到的， I like her.
+
+不及物 vi.(后面不能加名词)：She dies in American
+
+t: tend
+
+4. 双性：begin start
+
+The meeting begins. 开始
+
+She begins a var. 开启
+
+5. 系动词：表示(是)的动词
+
+系(广东话) -> 是，明的是(am/is/are/was/were)和暗的是(look/feel/sound/touch),后面加形容词 adj.
+
+明：She is pretty. 她是漂亮的。
+
+暗：She looks pretty. 她看起来是漂亮的。 ......起来时是...... 的
+
+be(是), seem(似乎), look(看来), keep(保持), become(变成), get(变得), grow(变得), feel(感到), turn(变得，变成), appear(显得), remain(仍旧是)
+
+It feels soft. 不用被动
+
+Gropecunlane. 格洛普刊特累大街
+
+grope 抚摸
+
+cun 逼
+
+lane 小巷
+
+He looked (carefully), but still looked.
+
+Carefull的, Carefully 地
+
+Perplexed/Perplexedly
