@@ -1785,3 +1785,73 @@ To find love, you have to devote.
 Running is the best way to lose weight.
 
 The girls is who is crying is Lily. => The girls cryling is Lily.
+
+We are considering(考虑，犹豫) talking a trip around the island.
+
+## 分词作为形容词的总结
+
+### 形容词：gongyushou
+
+### a flying bird. 正在飞的鸟
+
+a boring movie. 令人烦恼的电影
+
+washing machine
+
+running machine
+
+dressing table
+
+### 过去分词：已经/被
+
+a graduated student 毕业生（已经）
+
+a broken heart. （过去分词：已经/被）
+
+### 作为名词: 被动
+
+Smoking is bad.
+
+Being forgotten is sad.
+
+## 单词：T
+
+v1 to do v2 向前
+
+ten 延伸 tent, intend, extend
+
+temp 太阳: warm temperature
+
+trans 转换：130多个单词
+
+transport 运输
+
+transportation n.运输
+
+Department of transportation 交通部
+
+
+
+朗文英英
+
+辞海
+
+2000 个单词解释所有单词
+
+translate 翻译
+
+transplant 移植
+
+transfer 移交/转移
+
+transfer your power
+
+transform(form:形式) 转换+形式=>变形
+
+transformer 变形金刚，擎天柱
+
+transact(act 行为) 交易 transaction
+
+literature 文学
+
+illiterate 文盲
