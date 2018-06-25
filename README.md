@@ -1693,3 +1693,95 @@ He looked (carefully), but still looked.
 Carefull的, Carefully 地
 
 Perplexed/Perplexedly
+
+## 助动词
+
+- V + v
+
+I want to marry you.
+
+v1 连接词？ v2 连接词？ v3
+
+1. v + to + v ： 常态
+2. v + v 原型
+3. v + ving
+
+2,3 都是1的延伸
+
+### v1 + v2 加原型
+
+- `let/make/render/have/get` 让 ... 使去做
+
+``` english
+I make him eat shit.
+
+He is made to eat shit.
+
+I have her give me money. 我让给我钱
+
+help + (v/to do)
+```
+
+- 感官动词：see + (doing/do)
+
+``` english
+I saw him work in the garden yesterday.
+
+I saw him working in the garden yesterday.
+
+v + 片段(do+ing): I saw him working.
+
+v + 整个过程(do原型) I saw him work.
+```
+
+### v1 + to + v2 常态 去做
+
+> to 表示过程，v1，v2 有先后顺序
+
+plan/want
+
+### v + ving 名词化（事情本身）
+
+我后悔嫁给你。解释：先嫁后后悔。I regret marrying you.
+
+别抽烟了。先抽，后别。Stop Smoking.
+
+Stop to Smoke. 停下来去抽烟
+
+I forget locking the door. 先锁，后忘记。我忘记锁门了。锁之前忘记了。
+
+I forget to lock the door. 我忘了去做锁。没锁。
+
+deny 抵赖
+
+allow 允许
+
+I don't allow smoking. 我不允许抽烟
+
+I don't want to smoke. I => want/smoke
+
+look forward to do+ing 盼望
+
+Nice to meet you. 刚开始见面
+
+Nice meeting you. 见面结束时
+
+need doing
+
+My car needs to be repaired. 压缩成 need doing. My car needs repairing.
+
+### 分词的用法-非谓语
+
+There is a bird flying in the sky. 在天上飞的鸟
+
+There is a bird which is flying in the sky
+
+Those elected today shall take the responsibility.
+
+Those who were elected today shall take the responsibility.
+
+To find love, you have to devote.
+
+Running is the best way to lose weight.
+
+The girls is who is crying is Lily. => The girls cryling is Lily.
