@@ -1855,3 +1855,41 @@ transact(act 行为) 交易 transaction
 literature 文学
 
 illiterate 文盲
+
+## t/f 动词
+
+(Given) more attention, the tree could have grown better.
+
+A.Given(被给) B.to Give(去给) C.Giving(自己给) D.Having given(已经给，主动)
+
+I hope you don't mind (my looking) at your newspaer. A. I look B. my looking C.I looking D. my to look
+
+We are considering (taking) a trip around the island. A. take B. to take C. to be taking D.taking
+
+### 分词作为形容词的总结复习
+
+a boring movie
+
+washing machine
+
+running machine
+
+dressing table
+
+A graduated student
+
+A broken heart
+
+作为名词：
+
+Smoking is bad.
+
+Being forgotten is sad.
+
+### t (走路，to do)
+
+V1 to V2, 变化，转变
+
+Ten => tent,intend, extend
+
+temp => 
