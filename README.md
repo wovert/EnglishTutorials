@@ -1886,10 +1886,14 @@ Smoking is bad.
 
 Being forgotten is sad.
 
-### t (走路，to do)
+### tract 轨迹、轨道
 
-V1 to V2, 变化，转变
+extract 提取
 
-Ten => tent,intend, extend
+distract dis+tract 分心、干扰  He is always distracted in class.
 
-temp => 
+contract con+tract n.合同 同归
+
+trace 跟踪
+
+subtract sub(向下)+tract 减少 
