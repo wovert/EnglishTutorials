@@ -1896,4 +1896,112 @@ contract con+tract n.合同 同归
 
 trace 跟踪
 
-subtract sub(向下)+tract 减少 
+subtract sub(向下)+tract 减少
+
+### trib，给出去
+
+give to
+
+contribute 奉献(抽象)
+
+contribution
+
+donate 捐赠(具体)
+
+distribute 分配，分销
+
+distributer 分销商
+
+原词：tribe 部落，公有制
+
+attribute to 归因于
+
+I attribute my success to his help.
+
+### tain 拿去
+
+持有
+
+obtain 取得
+
+attain 取得
+
+gain 取得
+
+contain 包含
+
+container 容器
+
+maintain 把持，维持
+
+detain (de向下) 扣留，扣押
+
+deposit 沉淀，拉屎
+
+The suspect has been detained.
+
+sustain 支撑 （sus=sub）
+
+## F
+
+f -------------- 飞 （甲骨文）
+
+延伸出 运动/流程/流动/速度
+
+fly 
+
+flight 航班
+
+flee 飞逃
+
+free 自由
+
+fluent 流畅的，流利的
+
+fast 快速的
+
+fire 开火
+
+fleet 舰队
+
+fax 传真
+
+flow  流淌
+
+fluctuate 波动
+
+fade 流逝，褪色 (水)    elapse(光流逝)
+
+fail 流产，失败
+
+fake 假货
+
+fall 跌落
+
+fame 名声， famous 流行的
+
+flu 流感，原型：influenza
+
+fate 命运(经过)
+
+fix 修
+
+feather 羽毛
+
+fin 鱼翅
+
+flag 旗帜
+
+flame 火焰
+
+flaw 缺陷
+
+flush  冲刷，老脸一红
+
+flash 闪光
+
+fart 放屁
+
+farce 闹剧(外交部常用词汇)、胡闹、笑剧
+
+A man disappeard like a fart in the wind. 风中之屁
