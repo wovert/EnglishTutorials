@@ -2005,3 +2005,27 @@ fart 放屁
 farce 闹剧(外交部常用词汇)、胡闹、笑剧
 
 A man disappeard like a fart in the wind. 风中之屁
+
+fore, fort = strong 表示“强大”
+
+force forcefull enforce加强 v reinforce 增援
+
+fort(坚硬的) n.城堡，要塞，堡垒 fortree n.堡垒  ess 女性后缀
+
+airforce 空军
+
+ground force 陆军
+
+nary 海军
+
+山无棱 天地和 始敢与君绝
+
+fortify
+
+fortitude n.坚强,刚毅
+
+effort e+ffort 努力 make effort 做出努力
+
+comfort 安慰
+
+comfortable 舒服的
