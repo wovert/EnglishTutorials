@@ -9,9 +9,11 @@
 
 - f(x)=y
 
-- 主语：是执行句子的行为或动作的主体
-- 谓语：是对主语动作或状态的陈述或说明，指出“做什么” do what, “是什么” what is this或是“怎么样”how
-- 宾语：又称受词，是指一个动作（动词）的接受
+主语：是执行句子的行为或动作的主体
+
+谓语：是对主语动作或状态的陈述或说明，指出“做什么” do what, “是什么” what is this或是“怎么样”how
+
+宾语：又称受词，是指一个动作（动词）的接受
 
 英语陈述语句公式：[状1]  主[`定1`]  谓[`状2`]  [宾]  [`定2` \ 状1]
 
@@ -56,6 +58,8 @@ In the morning, I get up. 强调在早上起床
 - 东方：农业文明（过程优先）
 - 西方：商业文明（效率优先）
 
+----
+
 She is pretty in my eyes. 在我眼里，她很漂亮
 
 In your life(状1), **a friend** that is helpful **is** **a friend** that you should thank(状1).
@@ -67,6 +71,8 @@ In your life(状1), **a friend** that is helpful **is** **a friend** that you sh
 在北京，年轻人没有钱的能实现以这种方式也他们心中的。
 
 In Beijing, the young without money can realize in this way the dreams in their hearts.
+
+#### 表语和插入语在哪里？
 
 **I** can **see** in his eyes the **love** to me
 
@@ -86,20 +92,20 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 #### 主干的定位
 
-1. 主语：句首的**独立名词**性结构(名词 代词 分词(分身love, loved) 从句 it)
+1. 主语：句首的**独立名词**性结构(名词,代词,分词,从句 it)
 
 - 名词
   - In his eyes, **Jack** is aliar.
-  - In his eyes 的 eyes 在介词，所以不是主语
+  - In his eyes 的 eyes 在`介词短语` in his eyes，所以不是eyes名词不是主语
 
-- 分词
-  - **Living** in a city is always convenient. 
+- 分词(分身love, loving, loved)
+  - **Living** in a city is always convenient.
 
 - 句子
-  - **That no one can live without water** is true. 
+  - **That no one can live without water** is true.
 
 - 从句作为主语（that 开头）
-  - **It** is true that no one can live without water. 
+  - **It** is true that no one can live without water.
     - it 是形式主语
     - it 指向 that no one can live without water. 逻辑主语
 
