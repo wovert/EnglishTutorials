@@ -115,7 +115,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
   - The man who is smiling **is** jack. 正在笑得那个人是jack
 
 - 主语前动词
-  - **In fighting**, the brave wins. 在战斗中，勇者获胜 
+  - **In fighting**, the brave wins. 在战斗中，勇者获胜
 
 - 分词前无助词(have be)
   - I **am** working
@@ -546,13 +546,9 @@ If I had met you earlier, I would divorce him to tommrow.
 - conceive 理解/认知 = konw = 内心接收 = 古代英语(身体/精神,接收)
   - Do you konw?
   - the man knew his wife, and she conceived Gain.
-<<<<<<< HEAD
-  - May I know you further? 
-- conceivable 
-=======
+
   - May I know you further?
 - conceivable
->>>>>>> 789133ea0d4602a2c50239966f5acaadf58dc13a
 - deceive 骗
 - deceptive 欺骗的
 - concept n. 知道的(概念)
@@ -560,12 +556,7 @@ If I had met you earlier, I would divorce him to tommrow.
 
 - Today I went to a circus. I saw a man riding a bicycle in the core of the camp, holing a can in his hand. The actor was encircled by many people, including children and the old-age. The play was easy to conceive, but it also produced many wastes that need to be recycled. A captain was sitting in a chair there to keep order.
 
-<<<<<<< HEAD
-# 公式的升级
-=======
-
 ## 公式的升级
->>>>>>> 789133ea0d4602a2c50239966f5acaadf58dc13a
 
 ### 复杂模型和定语从句
 
@@ -585,14 +576,8 @@ If I had met you earlier, I would divorce him to tommrow.
 - Because he is so inexperienced in dealing with business matters, his father decides to remove him from the post of CEO in the company. 因为他在商务处理上没有经验,他的父亲决定公司里解除他的 CEO 的职位.
 
 - The method of scientific(科学) investigation(调查) is nothing but the expression of the necessary mode of working of the human mind **and** it is simply the mode by which all phenomena(现象) are reasoned(推理) about and given precise and exact explanation. 科学调查的方法只不过是人类思维工作必要模式的表达, 并且它仅仅是通过它所有现象的推理并且给予精准解释的模型
-
-<<<<<<< HEAD
   - nothing but 只不过是
   - it 指向的是
-=======
-- nothing but 只不过是
-- it 指向的是
->>>>>>> 789133ea0d4602a2c50239966f5acaadf58dc13a
 
 ## 中文双黄蛋的困境:省略
 
@@ -601,12 +586,7 @@ If I had met you earlier, I would divorce him to tommrow.
 
 - 英文: 滴水不漏
 
-<<<<<<< HEAD
-- 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物.Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
-=======
-- 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物.
-Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
->>>>>>> 789133ea0d4602a2c50239966f5acaadf58dc13a
+- 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物. Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
 
 - 单黄蛋
 - 非句 + and + 非句
