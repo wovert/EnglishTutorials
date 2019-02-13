@@ -5,18 +5,18 @@
 ### 1.公式的推导和基础运行
 
 - 中英单词对称
-- 语言排序不同
+- 语言**排序**不同
 - f(x)=y
 
-- **主语**：是执行句子的行为或动作的**主体**
+- **主语**：是执行句子的**行为或动作的主体**
 
-- **谓语**：是对主语动作或状态的陈述或说明，指出“做什么” do what, “是什么” what is this或是“怎么样”how
+- **谓语**：是对主语**动作或状态的陈述或说明**，指出“做什么” do what, “是什么” what is this或是“怎么样”how
 
-- **宾语**：又称受词，是指一个动作（动词）的**接受**
+- **宾语**：又称受词，是指一个**动作（动词）的接受**
 
-- 英语陈述语句公式：[状1]  主[定1]  谓[状2]  [宾]  [定2 \ 状1]
-- 中文陈述语句公式：[状1 \ 定1]  主[状2]  谓[定2]  [宾]  [状1]
-- 插入语(与原句没有关系，是独立存在的): `',"",~`
+- 英语陈述语句公式：[状1]       主 [定1] 谓 [状2] [宾]  [定2\状1]
+- 中文陈述语句公式：[状1\定1]   主 [状2] 谓 [定2] [宾]  [状1]
+- 插入语(与原句没有关系，是独立存在的): `', ", ~`
   - 这个女孩，在我看来，很漂亮。
 
 I Love a girl
@@ -47,8 +47,8 @@ In the morning, I get up. 强调在早上起床
 
 ----
 
-- **中文**：修辞在前，重点在后（东方）归纳法
-- **英文**：修辞在后，重点在前（西方）演绎法
+- **中文**：修辞在前，重点在后（东方）**归纳法**
+- **英文**：修辞在后，重点在前（西方）**演绎法**
 
 ----
 
@@ -90,13 +90,13 @@ In Beijing, the young without money can realize in this way the dreams in their 
 - 谓语：动作/行为（静态变成动态）
 - (宾语)：行为接受对象(名词，静态)
 
-#### 主干的定位
+#### 2-1 主语
 
-1. 主语：句首的**独立名词**性结构(名词,代词,分词,从句 it)
+> 句首的**独立名词**性结构(名词,代词,分词,从句 it)
 
 - 名词
   - In his eyes, **Jack** is aliar.
-  - In his eyes 的 eyes 在`介词短语` in his eyes，所以不是eyes名词不是主语
+  - In his eyes 的 eyes 在`介词短语` in his eyes 里面，所以不是eyes名词不是主语
 
 - 分词(分身love, loving, loved)
   - **Living** in a city is always convenient.
@@ -109,7 +109,9 @@ In Beijing, the young without money can realize in this way the dreams in their 
     - it 是形式主语
     - it 指向 that no one can live without water. 逻辑主语
 
-2. 谓语：排除过程
+#### 2-2 谓语
+
+> 排除过程
 
 - 从句中和介词短语中动词
   - The man who is smiling **is** jack. 正在笑得那个人是jack
@@ -129,7 +131,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
   - **The methods** that a community devises to perpetuate itself **come into being to** **preserve** of the cultural legacy that that community perceives as essential.
   - GRE 考试
 
-3.宾语-谓语后的独立名词结构
+#### 2-3 宾语-谓语后的独立名词结构
 
 - 宾语可以没有
 - 句=主+谓
@@ -172,7 +174,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 ###　语法重建第一集：名词的世界
 
-1. 数量问题：可数和不可数 
+1. 数量问题：可数和不可数
 
 - 固定单位：a cup of water
 - Fish: 即可数不可数
