@@ -129,7 +129,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
   - I **want her to see** you
 
   - **The methods** that a community devises to perpetuate itself **come into being to** **preserve** of the cultural legacy that that community perceives as essential.
-  - GRE 考试
+  - `GRE` 考试
 
 #### 2-3 宾语-谓语后的独立名词结构
 
@@ -147,7 +147,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 1. （你）不作死不会死。英文祈使句常省略主语 come here
 2. 她很好 She is very good. 中文省略了谓语
 3. （如果）山无棱天地合，（我）始敢于君绝。 英文必须有关联词
-4. 我的英语是（被）体育老师传授的。省略了被动
+4. 我的英语是（被）体育老师传授的。省略了**被动**
 
 ### 3. 内部排序的运行算法-倒置逻辑
 
@@ -157,7 +157,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
   - the man => who is singing(doing) / in the car(where)
   - in the car => i bought(doing) / last week(when)
 
-- 排序：短语排序
+- 排序是按**短语排序**
 
 ### 短语的三种形式：**从句**
 
@@ -168,9 +168,9 @@ In Beijing, the young without money can realize in this way the dreams in their 
 - 四级翻译：众说周知，杭州是在中国历史上被很多诗人赞美的城市。
 - As we all know, Hangzhou is a city that has been praised by many poets in the history of China.
 
-- For an action movie as big as The Expendable 3 with an all start cast so familiar to Chinese audience, a large promontional touar won't bring any extra benifits that they expect.
+- For an action movie as big/ as The Expendable 3/ with an all start cast/ so familiar to Chinese audience, a large promontional touar/ won't bring/ any extra benifits that they expect.
 
-- 对于中国观众非常熟悉的由全明星阵容所扮演的敢死队3，这么大的动作电影来说，一个大规模的促销旅行并不会带来他们所期待的任何好处。
+- 对于中国观众非常熟悉的由全明星阵容所扮演的敢死队3，这么大的动作电影来说，一个大规模的促销旅行并不会带来他们所期待的任何额外好处。
 
 ###　语法重建第一集：名词的世界
 
