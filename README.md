@@ -176,13 +176,15 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 1. 数量问题：可数和不可数
 
+> 可数可以省略量词
+
 - 固定单位：a cup of water
-- Fish: 即可数不可数
+- Fish: 即可数不可数，为什么？
   - 鱼：可数
   - 鱼肉：不可数
 - sheep：一词不固定
 - time：单位不固定
-- Coffee / tea: a cup of coffee => a coffee
+- Coffee/tea: `a cup of coffee` 演变为 `a coffee`
 - Paper
   - 纸张：不可数
   - 卷子：固定单位
@@ -190,28 +192,36 @@ In Beijing, the young without money can realize in this way the dreams in their 
 - Experience:
   - 经历：可数
   - 经验：不可数
+    - 一条经验
+    - 一些经验
 - Glass：
-  - 玻璃：不可数
+  - 玻璃：不可数（一片，一块，一堆）
   - 眼睛：可数
-- 即可数又不可数：hair,corn, grass, popcorn, rice, salt, sand, snow, sugar
+
+- 即可数又不可数：hair, corn, grass, popcorn, rice, salt, sand, snow, sugar
 
 2. 就近和就远原则（扯淡）
 
 - 就远
   - A woman with two children (is) comming.
+    - 主语：a womain
+    - 定语：with two children
   - I was well as they (am) ready to help you
 
 - 就近
   - Not only I but also he (is) right.
+    - 不仅仅是我
+    - 主语：he
   - Both I and he (are) right.
-  - Neither you nor I (am) fit for the work.
+  - Neither you nor I (am) fit for the work. 既不是你也不是他
   - (Are) neither you nor I fit for the work?
   - There (is) a pencil and two pens in the pencil box.
 
 - 主语中心原则
-- There be 唯一没有主语
+    - There be 唯一没有主语
 
 3. 集合名词的数量逻辑
+
 - family Class cattle group
 
 - 我家很有钱 My family is rich
