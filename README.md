@@ -229,7 +229,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 ### 复习
 
-- 在充满激烈的竞争的媒体行业，一个对中国文化的基本特征没有清晰理解的记者不能写出有关目前中国改革开放的变化的意义的好文章。In the media industry full of fierce compretition, a reporter without clear undertanding of the basic features about Chinese culture can not wirte good articles of the significance about the reform and change in china today.
+- 在充满激烈的竞争的媒体行业，一个对中国文化的基本特征没有清晰理解的**记者****不能写出**有关目前中国改革开放的变化的意义的**好文章**。In the media industry full of fierce compretition, a reporter without clear undertanding of the basic features about Chinese culture can not wirte good articles of the significance about the reform and change in china today.
 
 - Although not so world widely accepted, people who are emotionally weak in daily business are often losers who are not able to fullfill any fruitful achievements in their lifetime that they endure.
 
@@ -238,6 +238,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 - **Studies** of both animalas and humans in his recent research **have shown** the **impact** of sex hormones on stress response under the same conditions.
 
 - 祝寿
+
 they came to BJ to say happybirthday to qianlong.
 
 - 在帮组国际社会于2030年前消除极端贫困过程中，中国正扮演者越来越重要的角色。自20世纪70年代末实施改革开放以来，中国已使多达四亿人摆脱了贫困。
@@ -285,20 +286,23 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - 并列短语
 - Thus, in the American economic system it is the demand of individual consumers, **coupled (with the desire of businessmen to maximize profits )and (the desire of individuals to maximize their incomes)**, that together determize what shall be produced and how resources are used to produce it.
 
-- **As man own studies have advanced,状语**, **I，主语** **have been increasingly impressed，谓语** **with the functional similarities between insect and vertebrate societies** and less so with the structural differences that seem, at first glance, to constitute such an immense gulf between them.
+- **As man own studies have advanced,状语**, **I，主语** **have been increasingly impressed，谓语** **with the functional similarities between insect and vertebrate societies** and **less so with** the structural differences that seem, at first glance, to constitute such an immense gulf between them.
+
+- I'm happy and you are so too.
+- I'm happy and so are you.
 
 ## about time
 
 - 我昨晚已经看过这个电影了
-- I watched this movie last night.
-- I have watched this movie last night
+- I watched this movie last night. 一般过去式
+- I have watched this movie last night. 现在完成时
 
 ## 公式的复习
 
 - not only ... but also 不仅，如此
 
 - 转折:与其，不如
-  - not so much ... as 
+  - not so much ... as
   - less ... then
 
 ## 插入语
