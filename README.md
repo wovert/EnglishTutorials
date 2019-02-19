@@ -218,7 +218,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
   - There (is) a pencil and two pens in the pencil box.
 
 - 主语中心原则
-    - There be 唯一没有主语
+  - There be 唯一没有主语
 
 3. 集合名词的数量逻辑
 
@@ -307,15 +307,17 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 ## 插入语
 
-- , " ---
+- , " --- 逗号，分好，破折号
 - , 并列语句也有可能
 
 ## 插入语放置位置
 
-- 原处
-- 首尾
+- 原处：很多插入语
+- 首/尾: 很长插入语
 
-- The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique one.
+- The emphasis(强调) on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique one.
+
+插入语->状语->短语结构，不会名词开头
 
 - 过去和现在文化的分析所带去的一种跨文化的的视野结合起来之后。对于第一手收集的数据的强调，使这个研究成为一个独特的科学。
 
@@ -354,7 +356,8 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 ## 进行/更加精确的点
 
-- 现在/过去/将来 的进行 表达不同时候的精确动作
+> 现在/过去/将来 的进行 表达不同时候的精确动作
+
 - I am working now.
 - He was crying when i came in.
 
