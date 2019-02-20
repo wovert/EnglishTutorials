@@ -325,7 +325,10 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - 并列: ...., ..., ..., and ...
 
-- Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.社会科学是试图去研究人类和他们追求的一种智力探索的分支，它同自然现象的研究中自然科学家用到了相同有逻辑、有条理、有体系和有理性的方法。
+- Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors / in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.社会科学是试图去研究人类和他们追求的一种智力探索的分支，它同自然现象的研究中自然科学家用到了相同有逻辑、有条理、有体系和有理性的方法。
+
+短语间分
+, 这 + 前词
 
 ## about time 时态
 
@@ -334,57 +337,58 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - I watched this moive last night.我昨晚已经看过这个电影了
 - I have watched this movie last night.我昨晚前已经看过这个电影了
 
-## 点时态
+### 点时态
 
 > 时间点，精确到时间点
 
-- 一般现在，表示常态，规律，习惯
-- The sun rises in the east.
-- We are going to leave tomorrow, the train leaves at 6:00.
+- 一般现在：表示常态，规律，习惯
+  - The sun rises in the east.
+  - We are going to leave tomorrow, the train leaves at 6:00.
 
-- 一般过去，过去的就过去了
-- I saw him last night.
-- I was a boy.
-- I tried to help her.
+- 一般过去：过去的就过去了
+  - I saw him last night.
+  - I was a boy.
+  - I tried to help her.
 
 - 一般将来：打算，计划，说说未来，说说而已
-- I will be back!
-- She is going to kill you!
-- 区别？
-- You will die. 客观性
-- You are going to die. 主观性
+  - I will be back!
+  - She is going to kill you!
+  - 区别？
+  - You will die. 客观性
+  - You are going to die. 主观性
 
-## 进行/更加精确的点
+### 进行 更加精确的点
 
-> 现在/过去/将来 的进行 表达不同时候的精确动作
+- 现在/过去/将来 的进行 表达不同时候的精确动作
+  - I am working now.
+  - He was crying when i came in.
 
-- I am working now.
-- He was crying when i came in.
-
-- d现在的进行 也能表达将来和惯例
-- I am coming!
-- You are always talking!
+- 现在的进行 也能表达将来和惯例
+  - I am coming!
+  - You are always talking!
 
 - 将来的进行
-- I will be enjoying my dinner at 7:00 PM tomorrow.
+  - I will be enjoying my dinner at 7:00 PM tomorrow.
 
-## 段时态
+- from ... to ... 从哪到哪
+- since ... 自从
+- so far, until now 到现在为止
+
+### 段时态
 
 > 完成。现在开始到之前时间段
 
 - 现在：到现在为止 have/has + 过去分词
+  - I have married now. 现在为止
 - 过去：过去之前 /had/ + 过去分词
+  - I had married before I met you. 过去为止
 - 将来完成：未来某个时间之前 will have + 过去分词
-
-- I have married now. 现在为止
-- I had married before I met you. 过去为止
-- I will have married before 2050. 将来为止
-- I had been happy in the whole 2015.
-
+  - I will have married before 2050. 将来为止
+  - I had been happy in the whole 2015.
 - 其他时态：杂交
-- I was going to marry you. （曾经打算）过去将来时
-- I have been waiting for you.现在完成进行时
-- I have watied for you.
+  - I was going to marry you. （曾经打算）过去将来时
+  - I have been waiting for you. 现在完成进行时
+  - I have waited for you.
 
 - 今年在长沙举行了一年一度的外国人汉语演讲比赛。这项比赛证明是促进中国和世界其他地区文化交流的好方法。它为世界各地的年轻人提供了更好地了解中国的机会。
 
@@ -396,29 +400,25 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - 基本模式：时态后移
 
-``` source
-如果我是你，我就弄死你
-If I were you, I would kill him.
+如果我是你，我就弄死他 If I were you, I would kill him.
 
 如果我是个女的，我就嫁给他。
-- 现在
-If I were a woman, I would marry him. 虚拟-故意弄错，提醒对方
-If I am a woman, I will marry him. 去泰国/韩国
 
+- 现在
+  - If I were a woman, I would marry him. 虚拟-故意弄错，提醒对方
+  - If I am a woman, I will marry him. 去泰国/韩国
 
 - 过去
-If I had come last night, I wouldn't have missed you performance.
-对比：If i came last night, I wouldn't miss your performance.
+  - If I had come last night, I wouldn't have missed you performance.
+  - 对比：If i came last night, I wouldn't miss your performance.
 
 - 将来
-If I should die tomorrow, I would die with honor.
+  - If I should die tomorrow, I would die with honor.
 
 - 杂交
 - 过去/将来
-如果我早点认识你，我明天就和他离婚。
-If I had met you earlier, I would divorce him to tommrow.
-
-```
+  - 如果我早点认识你，我明天就和他离婚。
+  - If I had met you earlier, I would divorce him to tommrow.
 
 ## 重建单词精神家园
 
