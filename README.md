@@ -174,7 +174,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 ###　语法重建第一集：名词的世界
 
-1. 数量问题：可数和不可数
+#### 1. 数量问题：可数和不可数
 
 > 可数可以省略量词
 
@@ -200,7 +200,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 - 即可数又不可数：hair, corn, grass, popcorn, rice, salt, sand, snow, sugar
 
-2. 就近和就远原则（扯淡）
+#### 2. 就近和就远原则（扯淡）
 
 - 就远
   - A woman with two children (is) comming.
@@ -220,7 +220,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 - 主语中心原则
   - There be 唯一没有主语
 
-3. 集合名词的数量逻辑
+#### 3. 集合名词的数量逻辑
 
 - family Class cattle group
 
@@ -394,19 +394,19 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - This year, we held in Changsha a speech contest of chinese for foreigners once a year.
 
-- 《维特根斯坦》导师-罗素
+- 《维特根斯坦》导师 - 罗素
 
 ## 虚拟
 
 - 基本模式：时态后移
+  - 如果我是你，我就弄死他 If I were you, I would kill him.
+    - 时态一定要变错，be动词变错，最终说明我不是你
 
-如果我是你，我就弄死他 If I were you, I would kill him.
-
-如果我是个女的，我就嫁给他。
+如果我是个女的，我就嫁给他
 
 - 现在
   - If I were a woman, I would marry him. 虚拟-故意弄错，提醒对方
-  - If I am a woman, I will marry him. 去泰国/韩国
+  - If I am a woman, I will marry him. 不是虚拟(去泰国/韩国)
 
 - 过去
   - If I had come last night, I wouldn't have missed you performance.
@@ -416,9 +416,9 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
   - If I should die tomorrow, I would die with honor.
 
 - 杂交
-- 过去/将来
-  - 如果我早点认识你，我明天就和他离婚。
-  - If I had met you earlier, I would divorce him to tommrow.
+  - 过去/将来
+    - 如果我早点认识你(过去)，我明天就和他离婚(将来)。
+    - If I had met you earlier, I would divorce him to tomorrow.
 
 ## 重建单词精神家园
 
@@ -504,7 +504,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - close, disclose(dis相反, 揭示)，like <=> dislike
   - A secret has been disclosed. 一个秘密已经揭开了。
 - enclose(关进去，包含进)
-  - A letter is enclosed in this bag. 
+  - A letter is enclosed in this bag.
 - include(包含)
   - He is a very inclusive person. 他是一个非常有包容性的人
 - exclude (v. 排除)
@@ -516,7 +516,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
   - previous 预备
 
 - conclude v. 结论
-  - n. conclusion 
+  - n. conclusion
   - con/com/co 一起
   - reach a conclusion. 得出结论;达成一个结论
 
@@ -541,7 +541,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
     - re: 重复
   - return (返回)
 - circus 马戏团
-- circuit 电路 ['sɜːkɪt] 
+- circuit 电路 ['sɜːkɪt]
   - cctv: close circuit tv
 - circumstances 环境
 - circulate  循环
@@ -609,6 +609,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - 单黄蛋
 - 非句 + and + 非句
+
 1. I love and hate you.
 2. I love you and her.
 3. You and I are friends.
@@ -815,7 +816,7 @@ I know the boy. You like the boy.
 I know the boy you like the body.
 
 I konw the boy who you like. 不严谨
- 
+
 I konw the boy whom you like. 严谨
 
 I konw the body you like. 简略（you like 主+谓）,宾语可以省略
@@ -847,8 +848,7 @@ I hate the city in that I met hime. 不能这么转，in that 是原因的意思
 
 who,which,when => that
 
-
-必须用 that: 
+必须用 that:
 
 1. 强调(通过差异来强化语气)
 
@@ -1313,7 +1313,7 @@ trip 远足
 
 中国历来主张 “世界大同，天下一家”。中国人民不仅希望自己过得好，也希望各国人民过得好。当前，战乱和贫困依然困扰着部分国家和地区，疾病和灾害也时时侵袭着众多的人们。
 
-The Chinese has been believing in "One world, One family". Not only do The Chinese  wish to live happyly ourself 
+The Chinese has been believing in "One world, One family". Not only do The Chinese  wish to live happyly ourself
 
 believe in(相信理论，更加抽象)
 
@@ -1628,7 +1628,7 @@ by => 本意：靠在一棵树上，靠着，依仗
 
 bandit 换单，土匪 => 中文：恶棍
 
-1. 靠近：stand by(待发)；顺便提一下；by the way; 
+1. 靠近：stand by(待发)；顺便提一下；by the way;
 2. 靠...方式：by car, by bike
 3. 时间靠近，截止：You must finish it by 8:00. 最晚8:00之前，类似于 before
 
@@ -1682,17 +1682,15 @@ flying: 非谓语， shits: 谓语
 2. 语态
 3. 及物和不及物
 
-及物 vt.：可以摸到的， I like her.
-
-不及物 vi.(后面不能加名词)：She dies in American
-
-t: tend
+- 及物 vt.：可以摸到的， I like her.
+- 不及物 vi.(后面不能加名词)：She dies in American
+- t: tend
 
 4. 双性：begin start
 
-The meeting begins. 开始
+- The meeting begins. 开始
 
-She begins a var. 开启
+- She begins a var. 开启
 
 5. 系动词：表示(是)的动词
 
@@ -1856,8 +1854,6 @@ transportation n.运输
 
 Department of transportation 交通部
 
-
-
 朗文英英
 
 辞海
@@ -1974,7 +1970,7 @@ f -------------- 飞 （甲骨文）
 
 延伸出 运动/流程/流动/速度
 
-fly 
+fly
 
 flight 航班
 
