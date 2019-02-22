@@ -398,6 +398,10 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 ## 虚拟
 
+- 过去时=>过去完成时
+- 现在时=>过去时
+- 将来时=>过去时
+
 - 基本模式：时态后移
   - 如果我是你，我就弄死他 If I were you, I would kill him.
     - 时态一定要变错，be动词变错，最终说明我不是你
