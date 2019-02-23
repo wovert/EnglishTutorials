@@ -481,13 +481,14 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 ### 隐含的虚拟
 
-- What will you do with a million dollars?
-- Without water, we would all die now.
+- What will you do with a million dollars? 虚拟假设，穷
+- what will you do with a millon dollars? 已经有钱，富
+- Without water, we would all die now. 虚拟
 - If there were no water, we would al die now.
 
 ### 自带虚拟色彩的词组
 
-- If only I were a girl! 如果我是一个女
+- If only I were a girl! 如果我是一个女. 如果...就好了
   - only if 只有我
 - If only I were in Australia.
 
@@ -501,6 +502,8 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 ## 升级版的 C
 
+包: core/center/capital
+
 ### 第一组 clos/clud
 
 > 关闭/关门
@@ -512,8 +515,8 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - include(包含)
   - He is a very inclusive person. 他是一个非常有包容性的人
 - exclude (v. 排除)
-  - e = ex
-  - exclusive(为什么高档的)，专项的，
+  - e = ex 出去
+  - exclusive(为什么高档的)，专项的
 
 - preclude (pre 提前时间) 预防
   - prepare 提前准备
