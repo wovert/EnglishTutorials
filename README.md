@@ -569,15 +569,14 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - receive 接收
 - acceept 接受
-- conceive 理解/认知 = konw = 内心接收 = 古代英语(身体/精神,接收)
-  - Do you konw?
+- conceive 理解/认知 = know = 内心接收 = 古代英语(身体/精神,接收)
+  - Do you know?
   - the man knew his wife, and she conceived Gain.
-
   - May I know you further?
 - conceivable
 - deceive 骗
 - deceptive 欺骗的
-- concept n. 知道的(概念)
+- concept  你知道的，我知道的，大家都知道的 =>  n. 知道的(概念)
 - perceive (per 完) 完全知道
 
 - Today I went to a circus. I saw a man riding a bicycle in the core of the camp, holing a can in his hand. The actor was encircled by many people, including children and the old-age. The play was easy to conceive, but it also produced many wastes that need to be recycled. A captain was sitting in a chair there to keep order.
