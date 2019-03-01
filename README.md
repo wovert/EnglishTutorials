@@ -579,13 +579,16 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - concept  你知道的，我知道的，大家都知道的 =>  n. 知道的(概念)
 - perceive (per 完) 完全知道
 
-- Today I went to a circus. I saw a man riding a bicycle in the core of the camp, holing a can in his hand. The actor was encircled by many people, including children and the old-age. The play was easy to conceive, but it also produced many wastes that need to be recycled. A captain was sitting in a chair there to keep order.
+- Today I went to a circus. I saw a man riding a bicycle in the core of the camp, holing a can in his hand. The actor was encircled by many people, including children and the old-age. The play was easy to conceive, but it also produced many wastes that need to be recycled. A captain was sitting in a chair there to keep order, encircled by 3 dogs.
 
 ## 公式的升级
 
 ### 复杂模型和定语从句
 
 ### 简单 vs 复杂
+
+- 简单到复杂 《周易》
+- 复杂=>并列
 
 - 并列/选择/递进
 
