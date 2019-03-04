@@ -616,13 +616,13 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物. Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
 
-- 单黄蛋
+- 单黄蛋：主干并列
 - 非句 + and + 非句
 
 1. I love and hate you.
 2. I love you and her.
 3. You and I are friends.
-4. You and I are love and hat him and them.
+4. You and I are love and hat him and them. 主语并列，谓语并列，宾语并列 => 杂交
 
 - You **were, are and will alwyas be** in my heart. 谓语并列
 
@@ -632,7 +632,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - The target of research is motivated by converns broadly with the application of statistics and data analysis in scientific research and is part of Science's overall drive to increase reproducibility in the research we publish. 研究的目标受到科研当中统计和数据分析的应用广泛关注而鼓舞的,并且它是我们所出版的研究增加其可复制性而做出的科学总体动力的一个部分
 
-- 考验翻译: Under modern conditions, this requires all kinds of measures of centralized control and the help of specialized scientists such as economists and research experts. 在现代的条件之下,这要求集中控制的各种不同的方法以及像经济学家和研究砖家这样的专业科学家的帮助.
+- 考验翻译: Under modern conditions, this requires all kinds of measures of centralized control and the help of specialized scientists such as economists and research experts. 在现代的条件之下,这要求集中控制的各种不同的方法以及像经济学家和研究专家这样的专业科学家的帮助.
 
 - But **the force** of geographic conditions peculiar to America, **the interplay** of the varied national groups upon one another. and **the sheer** difficulty of maintaining old-world ways in a raw, new continent caused significant changes.
 
@@ -649,18 +649,20 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - ject 扔
 - inject 注入(扔进去)
 - injection  注射
-- eject 弹出，射出
+- eject 弹出(光驱)，射出
 - project v.投射(pro+ject，向前扔) n. 项目(未来的计划)
+  - 重音在前名词，重音在后动词
   - projector 投影仪
 - reject v.拒绝（往回扔）, 强硬， decline v.客气拒绝
   - refuse
 - interject(inter中间/际) 介入、插入、干涉
-  - internet
+  - internet 网络
 - object (ob 相对，相对) v. 反对; n.物体(与主观世界相对的，与内心世界相对，所以是物理)
   - objection n.反对(法庭)
   - objective 客观的
 - sub 方位(具体)：下面； 私下（抽象）：内心
   - subway 地铁
+  - subjective 主观的
   - subject 科目/主题 => 主观的
   - su 缩写
 
