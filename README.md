@@ -676,12 +676,18 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - ab 远离 <-> ad 靠近
 
 - 臣本布衣，躬耕于南阳，苟全性命于乱世，不求闻达与诸侯。
-  - **我**原本**是**一个普通人，在南阳**种地**，在这混乱的时代**过着**安稳的生活，也没有**想过**在诸侯那里有名气。I was a nobody, farmed in Nanyang, lived a peacefull life in such chaos, and never thought of any fame among those warlords. 单黄蛋->谓语并列
+  - **我**原本**是**一个普通人，在南阳**种地**，在这混乱的时代**过着**安稳的生活，也没有**想过**在诸侯那里有名气。I was a nobody(小人物), farmed in Nanyang, lived a peacefull life in such chaos, and never thought of any fame among those warlords. 单黄蛋->谓语并列
   - nobody 无名小辈
   - chaos 混乱时代
   - fame 名气
   - among  之间
   - warlords 诸侯
+
+- judge 法官/ v.判断
+- justice 正义，unjust
+- just 公平的，unjust 不公平的
+- jury system 陪审团
+- case law 遵循先例
 
 - The change met the techincal requirements of  the new age and precluded the decline in efficiency that so commonly destroyed the fortunes of family firms in the second and third generation after the energetic founders.
 
