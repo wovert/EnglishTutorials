@@ -693,7 +693,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 ### 单词复习
 
-- I can never conceive why she rejected me. She is such an inclusive girl, but objectively speaking, sometimes she lack the confidence to face the reality. Now such a conclusion makes me think of a new project to bring her back. She is judging me in a wrong way.
+- I can never conceive why she rejected me. She is such an inclusive girl, but objectively speaking, sometimes she lacks the confidence to face the reality. Now such a conclusion makes me think of a new project to bring her back. She is judging me in a wrong way.
 
 ## 第二部分 公式的推进
 
