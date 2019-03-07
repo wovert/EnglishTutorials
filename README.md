@@ -738,13 +738,12 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 I like girls who have long hair.
 
-有几种定语从句？只有两种
+### 有几种定语从句？只有两种
 
-人：who
+- 人：who
+- 物：which
 
-物：which
-
-定语从句形成过程
+### 定语从句形成过程
 
 我认识那个在车里哭的人。
 
@@ -760,7 +759,7 @@ I like girls who have long hair.
 3. 合成一句：我不喜欢书书没有图片。I don't like books books don't have pictures.
 4. 合并同类型：我不喜欢没有图片的书。I don't like books which don't have pictures.
 
-Where when
+### Where when
 
 我特别讨厌我遇见他的那个城市。
 
@@ -782,11 +781,9 @@ of which
 1. 我忘记日子
 2. 你在那个日子过来
 
-I have forgot the day you came on the day.
-
-I have forgot the day on which you came.
-
-I have forgot the day when you came.
+- I have forgot the day you came on the day.
+- I have forgot the day on which you came.
+- I have forgot the day when you came.
 
 时间不等于 when
 
