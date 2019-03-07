@@ -805,7 +805,7 @@ I have a dog a dog's eyes are blue.
 
 I have a dog whose eyes are blue.
 
-who's, which's => whose
+### who's, which's => whose
 
 why
 
@@ -821,7 +821,7 @@ I don't understand the reason why he left me
 
 for which = why
 
-whom
+### whom
 
 我认识那个你喜欢的男孩
 
@@ -835,48 +835,45 @@ I konw the boy whom you like. 严谨
 
 I konw the body you like. 简略（you like 主+谓）,宾语可以省略
 
-whom 宾语
+#### whom 宾语
 
-She is the girl to whom I owe an apology.
+She is the girl to whom I owe an apology. 她是一个女孩对她我欠一个道歉。
 
-I love my father, who is good to me. 插入语，**唯一性**，补充说明
+I love my father, who is good to me. 插入语，**唯一性**，补充说明。我爱我爹，他对我很好
 
-He did not return last night, which makes me sad. 非限定，which **整句**
-He did not return last night. It makes me sad.
-He did not return last night; It makes me sad.
+- He did not return last night, which makes me sad. 非限定，which **前面整句** 他昨天没有回来，这件事情让我疯掉。
+- He did not return last night. It makes me sad.
+- He did not return last night; It makes me sad.
 
 - 连接词：
   - (),() and()
   - , which
 
-That 偷懒行为
+### That 偷懒行为
 
-who, whom => that
+- who, whom => that
+- 不用 that 的两个地方: in which(whose, in which), 非限定
 
-不用 that 的两个地方: in which(whose, in which), 非限定
+- I hate the city in which I met hime.
+- I hate the city in that I met hime. 不能这么转，**in that** 是**原因**的意思，有歧义产生
 
-I hate the city in which I met hime.
-I hate the city in that I met hime. 不能这么转，in that 是原因的意思，有歧义产生
+- 介词+which，或 whose(which's) 不可以使用 that
+- who,which,when => that
 
-介词+which，或 whose(which's) 不可以使用 that
+### 必须用 that
 
-who,which,when => that
+1. **强调**(通过差异来强化语气)
 
-必须用 that:
+**all, everything, anything, nothing, little, much, any, each, noe, some, few ,the only, the very, the ---est, the -th**
 
-1. 强调(通过差异来强化语气)
-
-all, everything, anything, nothing, little, much, any, each, noe, some, few ,the only, the very, the ---est, the -th
-
-You are the most beautiful girl that I have ever seen.
+You are the **most** beautiful girl **that** I have ever seen.
 
 这是一部给人带来信心的电影，这也是一部你会发现自己的影子的电影。This is a movie which gives us confidence, and this is also a movie in which you can see the shadow of yourself.
 
 ## 状语和独立结构
 
-英语：(状1) 主语(定1) 谓语(状2) (宾语) (定2\状1)
-
-中文：(状1\定1)) 主语(状2) 谓语(定2) (宾语) (状1)
+- 英语：(状1) 主语(定1) 谓语(状2) (宾语) (定2\状1)
+- 中文：(状1\定1)) 主语(状2) 谓语(定2) (宾语) (状1)
 
 什么是句子？主谓，but 主谓
 
