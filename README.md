@@ -916,37 +916,30 @@ absolute stracture
 
 爱我，就把我收了吧。
 
-If you still love me, you should marry me.
+- If you still love me, you should marry me.
+- Still love me, you should marry me. love 与 marry 都是动词并列冲突，love动词 => loving 分词
+- Still loving me, you should marry me. 主干在后一句
 
-Still love me, you should marry me. love 与 marry 都是动词并列冲突，love动词 => loving 分词
+- When I was a boy, I fell in love with her.
+- Being a boy, I fell in love with her. was主动 => Being 分词, was被动 = been
 
-Still loving me, you should marry me. 主干在后一句
+- Because she knows what I need, she can provide a right answer.
+- Knowing what I need, she can provide a right answer. 知道我需要什么，她能提供一个正确的答案 Because 可以推出来，she 后面有she重复了，可以去掉。
 
-When I was a boy, I fell in love with her.
+- As he was elected as the new president, he became prudent(谨慎).
+- Elected as the new president, he became prudent.
 
-Being a boy, I fell in love with her. was主动 => Being 分词, was被动 = been
+- Because he has finished his home work, he is allowed to play video games.
+- Having finished his home work, he is allowed to play video games.
 
-Because she knows what I need, she can provide a right answer.
+- After his health was better, he joined the army.
+- Health being better, he joined the army.
+- Health better, he jointed the army.
 
-Knowing what I need, she can provide a right answer. 知道我需要什么，她能提供一个正确的答案
+- When I was a boy, I fell in love with T.
+- Being a boy, I fell in love with T.
 
-As he was elected as the new president, he became prudent(谨慎).
-
-Elected as the new president, he became prudent.
-
-Because he has finished his home work, he is allowed to play video games.
-
-Having finished his home work, he is allowed to play video games.
-
-After his health was better, he joined the army.
-
-Health being better, he joined the army.
-
-Health better, he jointed the army.
-
-When I was a boy, I fell in love with T.
-
-Being a boy, I fell in love with T.
+There being no bus, we had to walk home.
 
 ### 超级独立结构
 
