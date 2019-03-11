@@ -864,7 +864,7 @@ I love my father, who is good to me. 插入语，**唯一性**，补充说明。
 
 1. **强调**(通过差异来强化语气)
 
-**all, everything, anything, nothing, little, much, any, each, noe, some, few ,the only, the very, the ---est, the -th**
+> all, everything, anything, nothing, little, much, any, each, noe, some, few ,the only, the very, the ---est, the -th
 
 You are the **most** beautiful girl **that** I have ever seen.
 
@@ -951,68 +951,64 @@ Sunday being OK, we'd like to go outing.
 
 Sunday OK, we'd like to go outing.
 
-He wrote a lot of novels, many of which were translated into foreign languages.
+- He wrote a lot of novels, many of which were translated into foreign languages.
+- He wrote a lot of novles, and many of them were translated into foreign languages.
 
-He wrote a lot of novles, and many of them were translated into foreign languages.
-
-I love you and I hate you.
-
-I love you, who hate you.
-
-I love you, hating you.
+- I love you and I hate you.
+- I love you, who hate you.
+- I love you, hating you.
 
 ## e 时代
 
 > 出
 
-excel 超越
-excessive 多余的
-exceed 超出
-educate 教育 （duce 引导）
+- excel 超越
+- excessive 多余的
+- exceed 超出
+- educate 教育 （duce 引导）
+- en 用力
+- enlarge 扩大
+- widen 拓宽
+- enslave 奴役
+- empower 授权
+- ensure 确保
+- strengthen 加强
+- enable 使得
+- engage 订婚（gage 关联，使它产生关联），承诺
+- enhance (hance高度) 提高
+- encircle （circle圈圈）包围
+- enclose 包含，包容
 
 ## L
 
-> line, 线条
+> line 线条
 
-line list(清单) loop lure(诱饵) leak(泄露) link lip(嘴唇) long leg length
+- line list(名单，清单) list company(上市公司) loop lure(诱饵) leak(泄露) link lip(嘴唇) long leg length
+- It is important to understand the writer's meaning between the lines. 字里行间（潜台词）
+- lace(花边) landscape(风景线) latitude(纬度) lngitude(经度) lane(车道, 过道)
+- liner(航线)
+- literate(adj. 有文化的) illiterate(文盲的) literature(文学, 文字=>线条)
 
-It is important to understand the writer's meaning between the lines. 字里行间
+- let/lect/log 说
+- lecture(演讲) dialect(方言) legend(传奇, 向下说) allege(宣告)
+- legal/legitimate(合法的) illegal(非法的)
+- legislation(立法权)
+- dialogue(对话)
 
-lace(花边) landscape(风景线) latitude(纬度) lngitude(经度) lane(车道,过道)
+- light 光明 轻的
+- enlighten(启发, 前后都有光，大彻大悟)
+- Social justice must always enlighten(大策大悟) one's consicence
+- lamp(灯)
+- lantern(灯笼) festival(灯节)
+- lunar(月亮)
+- lunar new year(农历)
+- illuminate(说明，说清楚)
 
-liner(航线)
+### 流明
 
-literate 有文化的 illiterate 文盲的 literature 文学
-
-lecture(演讲) legend(传奇)
-
-legal/legitimate 合法的 illegal 非法的
-
-legislation 立法权
-
-Light 光明 轻的
-
-Enlighten 启发
-
-Social justice must always enlighten(大策大悟) one's consicence
-
-lamp 灯
-
-lantern(灯笼) festival 灯节
-
-lunar 月亮
-
-lunar new year 农历
-
-illuminate 说明，说清楚
-
-流明
-
-night => no light
-
-laser 镭射/激光
-
-elapse 流逝/匆忙
+- night => no light
+- laser 镭射/激光
+- elapse 流逝/匆忙
 
 出生在中国，我们百毒不侵。Because we were born in China, we are immune of all poisons. Born in China, we are immune to any poison.
 
@@ -1698,29 +1694,21 @@ flying: 非谓语， shits: 谓语
 
 5. 系动词：表示(是)的动词
 
-系(广东话) -> 是，明的是(am/is/are/was/were)和暗的是(look/feel/sound/touch),后面加形容词 adj.
+- 系(广东话) -> 是，明的是(am/is/are/was/were)和暗的是(look/feel/sound/touch),后面加形容词 adj.
+- 明：She is pretty. 她是漂亮的。
+- 暗：She looks pretty. 她看起来是漂亮的。 ......起来时是...... 的
 
-明：She is pretty. 她是漂亮的。
+- be(是), seem(似乎), look(看来), keep(保持), become(变成), get(变得), grow(变得), feel(感到), turn(变得，变成), appear(显得), remain(仍旧是)
 
-暗：She looks pretty. 她看起来是漂亮的。 ......起来时是...... 的
+- It feels soft. 不用被动
+- Gropecunlane. 格洛普刊特累大街
 
-be(是), seem(似乎), look(看来), keep(保持), become(变成), get(变得), grow(变得), feel(感到), turn(变得，变成), appear(显得), remain(仍旧是)
-
-It feels soft. 不用被动
-
-Gropecunlane. 格洛普刊特累大街
-
-grope 抚摸
-
-cun 逼
-
-lane 小巷
-
-He looked (carefully), but still looked.
-
-Carefull的, Carefully 地
-
-Perplexed/Perplexedly
+- grope 抚摸
+- cun 逼
+- lane 小巷
+- He looked (carefully), but still looked.
+- Carefull的, Carefully 地
+- Perplexed/Perplexedly
 
 ## 助动词
 
