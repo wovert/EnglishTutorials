@@ -995,24 +995,28 @@ Sunday OK, we'd like to go outing.
 - legislation(立法权)
 - dialogue(对话)
 
-- light 光明 轻的
-- enlighten(启发, 前后都有光，大彻大悟)
+- light 光明, 轻的
+- enlighten(启发, 前后都有光)
 - Social justice must always enlighten(大策大悟) one's consicence
 - lamp(灯)
-- lantern(灯笼) festival(灯节)
+- lantern(灯笼) festival(节)
 - lunar(月亮)
 - lunar new year(农历)
 - illuminate(说明，说清楚)
 
 ### 流明
 
-- night => no light
+- night 夜晚 => no light
 - laser 镭射/激光
-- elapse 流逝/匆忙
+- elapse 流逝/匆忙(e+lapse)
 
-出生在中国，我们百毒不侵。Because we were born in China, we are immune of all poisons. Born in China, we are immune to any poison.
+ugly, reading more.
 
-时态复习：In two more minutes, she will have been talking on the phone for 3 hours.
+逝者如斯夫，不舍昼夜
+
+出生在中国，我们百毒不侵。Because we were born in China, we are immune of all poisons. Born in China, we are immune to any poison. immune 免疫
+
+时态复习：In two more minutes, she will have been talking on the phone for 3 hours. 将来完成进行时
 
 A new president has been elected as the leader. He will give a lecture aobut how to strengthen our legend. Although he is rejected by many, he still conceives that he will do a good job. His speech will include many of his ojbective judgments about our future.
 
