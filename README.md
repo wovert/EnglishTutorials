@@ -1028,57 +1028,51 @@ That you love her is a lie. 主语从句 that 不能去掉。但是主语太长�
 
 I think that she is right. I think she is right. 宾语从句 that 可以去掉
 
-What your name is is a secret. 你叫什么是一个秘密
+What your name is is a secret. 你叫什么是一个秘密. It is a secret that what your name is.
 
 Who you are is a secret. 你是谁是一个秘密
 
 I know what you think. 我知道你想什么
 
-You have to find out who can help you. 你必须去发现谁帮了你
+- You have to find out who can help you. 你必须去发现谁帮了你
+- You have to find out a person who can help you.
 
-You have to find out a pewrson who can help you.
+- I know the words which you said.
+- I know what you said.
 
-I know the words which you said.
+### 宾语从句的反问
 
-I know what you said.
-
-宾语从句的反问
-
-I new thought that he would come for the dinner pary, ...? wouldn't
-
-She belives that you are right, doesn't she?
-
-We believe you can do it, ....? can't you
-
-Am not I => Are not I?
+- She is pretty, isn't she?
+- I new thought that he would come for the dinner pary, wouldn't he?
+- She belives that you are right, doesn't she?
+- We believe you can do it, ....? can't you
+- I am a boy, aren't I?
+  - Am not I => Are not I?
 
 ## P 类词
 
-flag 旗帜(旗帜的意义演变：标志位置、放置、领导)
+> flag 旗帜(旗帜的意义演变：标志位置、放置、领导)
+> 最原始的位置标记：piss/pee (小狗在树木附近尿尿)
 
-最原始的位置标记：piss/pee (小狗在树木附近尿尿)
+- pose 姿势(v.放置)
 
-pose 姿势(v.放置)
+- impose 实加，放入
+- expose v.展示,放出
 
-inpose 实加，放入
+- exposure n.曝光
+- exposition n.展会 （词更长，越抽象越高端越文雅）
 
-expose v.展示,放出
+- world expo 世界博览会
 
-exposure n.曝光
+- promote v.提出(往前放)
 
-exposition n.展会 （词更长，越抽象越高端越文雅）
+- propose to sb 求婚
 
-world expo 世界博览会
+- compose 组成,构成 3 men composes a team.
 
-promote v.提出(往前放)
+- composition 作文
 
-propose to sb 求婚
-
-compose 组成,构成 3 men composes a team.
-
-composition 作文
-
-composer 作曲家
+- composer 作曲家
 
 dispose 扔掉
 
