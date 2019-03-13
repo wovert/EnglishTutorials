@@ -1066,87 +1066,72 @@ I know what you think. 我知道你想什么
 
 - promote v.提出(往前放)
 
+- propose 向前放
+- propose an idea 提出想法
 - propose to sb 求婚
+- repose 向后放
 
-- compose 组成,构成 3 men composes a team.
+- com 一起
+- compose 向上放置组成, 构成 3 men composes a team.
 
 - composition 作文
 
-- composer 作曲家
+- composer 作曲家，音符组合在一块
 
-dispose 扔掉
+- 理性和逻辑并不坚实的基础
 
-deposit (de向下) 存钱
+**人类全部的数字逻辑，统统都可以在圆周率中表达出来**
 
-withdraw (draw 拉, with 带) 取钱
+- dis 分开，不
 
-oppose (o=ob) 反着放，v.反对 opponent n.对手
+- dispose 扔掉
+- deposit (de向下) 存钱
+- withdraw (draw 拉, with 带) 取钱
 
-in the opposit 相反
+- oppose (o=ob) 反着放，v.反对 opponent n.对手
+- in the opposit 相反
 
-position 位置,方位
+- position 位置,方位
+- GPS：Global Positioning System
 
-GPS：Global Positioning System
+- press 按压 出版社
+- express 压出来，挤出来，表达
+- impress 印
+- impression 印象
+- compress 压缩 compressed biscuits 压缩饼干
+- depress 往下压/悲伤、沮丧 He is so depressed with this outcome（结果）.  
 
-press 按压
+- pri 领导，首先
+- prince 王子
+- primitive 原始
+- preliminary adj. 初步的；开始的；预备的
+- prime minister 总理，首相 minister(部长)
+- primary 首要的，主要的，类似 main    Our primary target is to learn English.
 
-express 压出来，挤出来，表达
+- par 标准；票面价值；平均数量
+- part 部分，分开
+- party 聚会
 
-impress 印
+- plic/plex 折叠，交织
+- duplicate (du 两个) 对折
 
-impression 印象
+- multi 多
+- multimedia 多媒体
+- multiply 乘法 vi. 乘；繁殖；增加
 
-compress 压缩 compressed biscuits 压缩饼干
+- complicate 复杂
+- complex 复杂
 
-depress 往下压/悲伤、沮丧 He is so depressed with this outcome（结果）.  
+- perplex 懵逼 vt. 使困惑，使为难；使复杂化 (per 完全)   perfect(fect做完)
+- I am perplexed. 我很糊涂了
+- comply 一起折，对折， 弯腰 => 服从
 
-pri
+- red alert 红色警戒
+- reply 回折
 
-prince 王子
-
-primitive 原始
-
-preliminary adj. 初步的；开始的；预备的
-
-prime minister 总理，首相
-
-primary 首要的，主要的，类似 main    Out primary target is to learn English.
-
-par
-
-part 部分，分开
-
-party 聚会
-
-plic/plex 折叠，交织
-
-duplicate (du 两个) 对折
-
-multi 多
-
-multimedia 多媒体
-
-multiply 乘法 vi. 乘；繁殖；增加
-
-complicate 复杂
-
-complex 复杂
-
-perplex 懵逼 vt. 使困惑，使为难；使复杂化 (per 完全)   perfect(fect做完)
-
-I am perplexed. 我很糊涂了
-
-comply 一起折，对折， 弯腰 => 服从
-
-red alert 红色警戒
-
-reply 回折
-
-imply 暗示
-
-implicit 含蓄的
-
-explicit 明确的
+- imply 暗示
+- implicit 含蓄的
+- explicit 明确的
 
 You have all heard **that** men of science work by means o induction and deduction, **that** by the help of these operations, they, in a sort of sense, manage to extract from Nature certain natural laws, **and that** out of these laws, by some special skill of their own, they build up their theories about the running of our world. 你已经听说了，科学界人士通过归纳和演绎方式来工作的。并且在这些操作的帮助之下，他们在自然界中成功的提取了特定的自然法则。通过这些法则，他们通过他们自己的有些技能建立了我们世界运行的理论。
 
