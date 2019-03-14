@@ -1141,17 +1141,19 @@ In the metting, he proposed a plan to lure the opponent out his castle. If he is
 
 ### 同位语
 
-Tom, my brother, is comming. Tom 和 my brother 是同一个人，因此使用 is 谓语
+> 同位等于相同，名词后面的插入语
 
- n, n2 + 定语从句1
+- Tom, my brother, is comming. Tom 和 my brother 是同一个人，因此使用 is 谓语
+- Tom, my brother from the USA, is comming.
 
- Miss Gao, a teacher who taught me English when I was in hight school, a lady who was very nice to her student, a friend who helped me a lot when I was in trouble, died now.
+- n, n2 + 定语从句1
 
-同位语从句
+Miss Gao, a teacher who taught me English when I was in hight school, a lady who was very nice to her student, a friend who helped me a lot when I was in trouble, died now.
 
-She hates the idea that we should abandon her.
+- 同位语从句：She hates the idea that we should abandon her. （抽象词：解释名词内容，想法/梦想/建议等）
+- 定语从句：She hats the idea that you said (...的...)
 
-倒装的本质：强调 -> 副词/重音
+### 倒装的本质：强调 -> 副词/重音
 
 I can understand him only in this way.
 
