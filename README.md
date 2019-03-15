@@ -1153,47 +1153,41 @@ Miss Gao, a teacher who taught me English when I was in hight school, a lady who
 - 同位语从句：She hates the idea that we should abandon her. （抽象词：解释名词内容，想法/梦想/建议等）
 - 定语从句：She hats the idea that you said (...的...)
 
-### 倒装的本质：强调 -> 副词/重音
+### 倒装
 
-I can understand him only in this way.
+> 倒装的本质是强调
+> 英文用用副词
+> 中文重音作为强调
 
-Only in this way can I understand him. 只有通过这种方式我才能理解他.助词 can  提前到状语之后
+- I can understand him only in this way.
+- Only in this way can I understand him. 只有通过这种方式我才能理解他. **助词 can  提前到状语之后**
 
-Never, seldom, scarcely, hardly(几乎不), nowhere, nolonger
+never, seldom, scarcely, hardly(几乎不), nowhere, nolonger
 
-I have never heard of him. 我从来没有听说过他。
+- I have never heard of him. 我从来没有听说过他。
+  - Never have I heard of him. 状语 newver， 助词 have. **重点从来没有**
 
-Never have I heard of him. 状语 newver， 助词 have. 重点从来没有
+- I seldom wrote letters. 我之前很少写信
+  - Seldom did I write letters. 我之前**很少**写信
 
-I seldom wrote letters. 我之前很少写信
+### 疑问句也是倒装句
 
-Seldom did I write letters. 我之前很少写信
+- What is your name ? Your name is what?
+  - I know you. Do I know you?
+- I'm hardly happy. 我很少高兴.
+  - Hardly am I happy.
 
-疑问句也是倒装句
+### 全倒装
 
-What is your name ? Your name is what?
+> 口语化的台词比较多，舞台/剧场
 
-I know you. Do I know you?
-
-I'm hardly happy. 我很好很高兴.
-
-Hardly am I happy.
-
-## 全倒装
-
-> 口语化的台词比较多
-
-A cat lies in the house. 强调房间里头 In the house lies a cat. 变成了中文语序。房间里躺着一只猫
-
-My love comes now. => Now comes my love
-
-强调名词：I can understand him only in this way. => It is him that I can understand only in this way.
-
-It is I that love you.
-
-It is important that you go home.
-
-It is you that I love. 强调宾语（名词或代词）
+- A cat lies in the house. 强调房间里头
+  - In the house lies a cat. 变成了中文语序。房间里躺着一只猫
+- My love comes now. => Now comes my love
+- 强调名词：I can understand him only in this way. => It is him that I can understand only in this way.
+- It is I that love you. 强调句去掉(It is that)，获取主干.
+- It is important that you go home. you go home is important.
+- It is you that I love. 强调宾语（名词或代词）
 
 ### 强调
 
@@ -1204,103 +1198,62 @@ It is you that I love. 强调宾语（名词或代词）
 ## T
 
 > tT => 足字旁
+> 英文中表达 t => 走 => 进行，过程，路径
 
-t => 走 => 进行，过程，路径
-
-to
-
-this/that
-
-there
-
-then
-
-than
-
-throw
-
-target
-
-task
-
-take
-
-till
-
-until
-
-together
-
-tide 潮流
-
-time
-
-ten 走 ——延伸——> extend v.伸展、扩张 => expand(近义词) n.extent 范围  adj. extensive 广泛的
-
-intend (in 心里面的) 打算、计划 n.intention, intentional 故意的
-
-tend v.打算
-
-I tend to read. 我倾向于读书
-
-trend n.趋势
-
-tent n.帐篷
-
-contend 撕逼，竞争
-
-pretend 假装（提前做好）
-
-intensive adj. 紧密的 intensive reading 精读
-
-extensive reading 泛读
-
-attend vt.参加、出席
-
-tension n.紧张
-
-tense 时态
-
-temp 走 -> 延伸，过程 => 太阳（行进的过程当中）
-
-1. temple n. 庙宇；寺院；神殿；太阳穴；
-2. tempation 魅力
-3. tempt 诱惑
-4. contempt (con 相反) 鄙视，  in contrast 相反， CS(conter strike)  反恐精英
-
-You are tempted(lured) to learn English. 你被诱惑来学英语
-
-太阳 => 时间（建国门博物馆，日晷gui3）
-
-temporary 临时的
-
-contemporary 同时的
-
-tempo 节奏
-
-template 样品
-
-attempt 吸引
-
-temperature 温度
-
-tempest 风暴
-
-temper 脾气
-
-temperament n.气质，修养
-
-tract 地域
-
-extract distract contract
-
-trip 远足
+- to(介词，去做 go to scholl, I want to go home)
+- this/that
+- there
+- then
+- than
+- throw
+- target
+- task
+- take
+- till
+- until
+- together
+- tide 潮流
+- time
+- ten 走 —— 延伸 ——> extend v.伸展(向外)、扩张 => expand(近义词) n.extent 范围(扩张后的范围)  adj. extensive 广泛的(扩张很开的) extensive reading (广泛阅读)
+- intend (in 心里面的延伸) 打算、计划 n.intention, intentional 故意的(打算好了的)
+- tend v.打算
+- I tend to read. 我倾向于读书 tend to do 倾向于做
+- trend n.趋势(走)
+- tent n.帐篷()
+- contend v.撕逼，竞争，斗争，撕扯(con一起拉)
+- pretend v.假装（提前做好）
+- intensive adj. 紧密的 intensive reading 精读
+- extensive reading 泛读
+- attend vt.参加（走过去）、出席、列席
+- tension n.紧张（张：拉紧）
+- tense 时态(来自于time延伸, 过去/现在/将来)
+- temp 走 -> 延伸，过程 => 太阳（行进的过程当中）
+  - temple n. 庙宇；寺院；神殿；太阳穴；
+  - tempation n.魅力
+  - tempt v.诱惑
+    - You are tempted(lured 诱饵，引诱) to learn English. 你被诱惑来学英语
+  - contempt (con 相反) 鄙视（崇拜相反），  in contrast 相反， CS(conter strike)  反恐精英
+- 太阳 => 时间（建国门博物馆，日晷gui3）
+- temporary 临时的
+- contemporary 同时的
+- tempo 节奏
+- template 样品(临时用的)
+- attempt 吸引（勾引去做）
+- temperature n.温度
+- tempest 风暴(极端温度)
+- temper 上火、脾气
+  - lose templer 发脾气
+- temperament n.气质，修养 （脾气决定气质）
+- trans(走有关)
+- tract 地域
+- extract(提取、抽出、抽取) distract（转义、分心） contract(收缩；契约；合约)
+- trip 远足
 
 中国历来主张 “世界大同，天下一家”。中国人民不仅希望自己过得好，也希望各国人民过得好。当前，战乱和贫困依然困扰着部分国家和地区，疾病和灾害也时时侵袭着众多的人们。
 
 The Chinese has been believing in "One world, One family". Not only do The Chinese  wish to live happyly ourself
 
-believe in(相信理论，更加抽象)
+- believe in(相信理论，更加抽象)
 
 我真诚希望，国际社会携手起来，秉持人类命运共同体的理念，把我们这个星球建设更加和平、更加繁荣。
 让我们满怀信心和期待，一起迎新新年的钟声！
@@ -1309,99 +1262,64 @@ The Chinese has always believed in 'one world, one family'. Not only do we wish 
 
 I sin cerely hope that the world can join hands, maintain the ideology of shared destiny, and make our planet more peaceful and prosperous. Let us welcome the bell ring of new year with full confidence and hope!
 
-hope 真的希望
-
-wish could 虚拟希望
+- hope 真的希望
+- wish could 虚拟希望
 
 ## 介词
 
 ### 介词原则：没有固定搭配
 
-The government needs to help the homeless toward independence.
+- The government needs to help the homeless toward independence.
+- 实的事情 electric 雷电 => 实短
+- 虚的事情 electrical 电学 => 虚长
+- sensual 舒服的（灵魂，身体）
+- sensuous 舒服的（精神）
+- machine 机器
+- mechanism 机智
 
-实的事情 electric 雷电 => 实短
-
-虚的事情 electrical 电学 => 虚长
-
-sensual 舒服的（灵魂，身体）
-
-sensuous 舒服的（精神）
-
-machine 机器
-
-mechanism 机智
-
-in
-
-within
-
-I'm in the bed.
-
-Your words are within my understanding. 你的话在我的理解范围之内
+- in
+- within
+- I'm in the bed.
+- Your words are within my understanding. 你的话在我的理解范围之内
 
 ### 细微差异
 
-I got so afraid for his career.
-
-of 的（属性）,具有某种特征
-
-for 原因，目的
-
-with 伴随
-
-Tonight is with you.
-
-Tonight is for you.
+- I got so afraid for his career.
+- of 的（属性）,具有某种特征
+- for 原因，目的
+- with 伴随
+- Tonight is with you.
+- Tonight is for you.
 
 ### 简约之美
 
-To have a government that is of people, for people, by people.
-
-Ask not what can be done for yhou, but what can be done by you! - 罗斯福
-
-Life is full of ups and downs, yet the tide is unable to return.
+- To have a government that is of people, for people, by people.
+- Ask not what can be done for yhou, but what can be done by you! - 罗斯福
+- Life is full of ups and downs, yet the tide is unable to return.
 
 ### 第一阵营
 
-On off
+- on off
+- on 之源，接触，依赖
+- on 在常用时间地点上的意义
 
-on 之源，接触，依赖
-
-on 在常用时间地点上的意义
-
-at/on 某个时间点上
-
-in the morning （in  长期范围之内），morning(太阳升起到中午)
-
-in the afternoon （12点以后，下午）
-
-in the evening
-
-at noon 中午(12点), at 更加具体化
-
-at night 晚上(12点)
-
-at 6:00
-
-on monday morning (具体某个早上,范围越来越缩小)
-
-on Sunday
-
-on time(准时，某个点上)，on 准
-
-in time(及时，范围之内)， in 及
-
-arrive in Beijing(大的地方)
-
-arrive at hospital(小的地方)
-
-at scholl (学习状态)
-
-on/at (on：接触)， at 比 on 更小更具体
-
-call on 拜访
-
-call at 拜访
+- at/on 某个时间点上
+- in the morning （in  长期范围之内），morning(太阳升起到中午)
+- in the afternoon （12点以后，下午）
+- in the evening
+- at noon 中午(12点), at 更加具体化
+- at night 晚上(12点)
+- at 6:00
+- on monday morning (具体某个早上,范围越来越缩小)
+- on Sunday
+- on time(准时，某个点上)，on 准
+- in time(及时，范围之内)， in 及
+- arrive in Beijing(大的地方)
+- arrive at hospital(小的地方)
+- at scholl (学习状态)
+- on/at (on：接触)， at 比 on 更小更具体
+- call on 拜访
+- call at 拜访
 
 ### on
 
