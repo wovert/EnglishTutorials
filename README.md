@@ -1258,44 +1258,52 @@ The Chinese has been believing in "One world, One family". Not only do The Chine
 我真诚希望，国际社会携手起来，秉持人类命运共同体的理念，把我们这个星球建设更加和平、更加繁荣。
 让我们满怀信心和期待，一起迎新新年的钟声！
 
-The Chinese has always believed in 'one world, one family'. Not only do we wish to live happily ourselves, but also hold the same expectations for the world. Today, war and poverty still trouble some countries and areas, and diseases and disasters are also haunting over many people.
+The Chinese **has always** believed in 'one world, one family'. **Not only do** we wish to live happily ourselves, **but also** hold the same expectations for the world. Today, war and poverty still trouble some countries and areas, **and** diseases and disasters are also haunting over many people.
 
-I sin cerely hope that the world can join hands, maintain the ideology of shared destiny, and make our planet more peaceful and prosperous. Let us welcome the bell ring of new year with full confidence and hope!
+I sin cerely **hope that** the world can join hands, maintain the ideology of shared destiny, **and** make our planet more peaceful and prosperous. Let us welcome the bell ring of new year with full confidence and hope!
 
 - hope 真的希望
 - wish could 虚拟希望
+- haunting over 悬在高空
+- join hands 手拉手，携起手来
+- maintain 维持
 
 ## 介词
 
-### 介词原则：没有固定搭配
+### 1.介词原则：没有固定搭配
 
-- The government needs to help the homeless toward independence.
+- The government needs to help the homeless **toward**朝向 independence.
+
+- 介词性格：复杂-简单
+
 - 实的事情 electric 雷电 => 实短
 - 虚的事情 electrical 电学 => 虚长
-- sensual 舒服的（灵魂，身体）
-- sensuous 舒服的（精神）
-- machine 机器
-- mechanism 机智
 
-- in
-- within
-- I'm in the bed.
+- sensual 舒服的（灵魂，身体）感官愉快
+  - sensuous 舒服的（精神）情感愉快
+- machine 机器
+  - mechanism 机智
+- friend 朋友
+  - friendship 友谊
+- in 抽象/具体
+  - within 抽象
+  - I'm in the bed.
 - Your words are within my understanding. 你的话在我的理解范围之内
 
-### 细微差异
+### 2.细微差异
 
-- I got so afraid for his career.
-- of 的（属性）,具有某种特征
-- for 原因，目的
-- with 伴随
+- I got so afraid for his career development. 我担心他的事业发展
+  - of 的（属性）,具有某种特征 
+  - for 原因，目的, 为了
+  - with 伴随
 - Tonight is with you.
 - Tonight is for you.
 
 ### 简约之美
 
-- To have a government that is of people, for people, by people.
-- Ask not what can be done for yhou, but what can be done by you! - 罗斯福
-- Life is full of ups and downs, yet the tide is unable to return.
+- To have a government that is of people, for people, by people. 民有/民享/民治
+- Ask not what can be done **for** you, but what can be done **by** you! 不要追求所得，要追求付出（为，被） - 罗斯福
+- Life is full of ups and downs, yet the tide is unable to return.生活充满了起起伏伏，潮流不可逆转。介词当名词
 
 ### 第一阵营
 
