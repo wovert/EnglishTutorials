@@ -1307,51 +1307,39 @@ I sin cerely **hope that** the world can join hands, maintain the ideology of sh
 
 ### 第一阵营
 
-- on off
-- on 之源，接触，依赖
-- on 在常用时间地点上的意义
+#### `on/off`(f：飞，原理)
 
-- at/on 某个时间点上
-- in the morning （in  长期范围之内），morning(太阳升起到中午)
-- in the afternoon （12点以后，下午）
-- in the evening
-- at noon 中午(12点), at 更加具体化
-- at night 晚上(12点)
-- at 6:00
-- on monday morning (具体某个早上,范围越来越缩小)
-- on Sunday
-- on time(准时，某个点上)，on 准
-- in time(及时，范围之内)， in 及
-- arrive in Beijing(大的地方)
-- arrive at hospital(小的地方)
-- at scholl (学习状态)
-- on/at (on：接触)， at 比 on 更小更具体
-- call on 拜访
-- call at 拜访
+- `on` 之源，接触，依赖，依赖
+- `on` 在常用**时间地点**上的意义
 
-### on
+- `at/on` 某个时间点上
+- `in the morning` （in  长期范围之内），morning(太阳升起到中午)
+- `in the afternoon` （12点以后，下午）
+- `in the evening`
+- `at noon` 中午(12点), `at` 更加具体化
+- `at night` 晚上(12点)
+- `at` 6:00
+- `on monday morning` (具体某个早上, 范围越来越缩小)
+- `on Sunday`
+- `on time`(准时，某个点上)，on 准
+- `in time`(及时，范围之内)， in 及
+- `arrive in Beijing`(大的地方)
+- `arrive at hospital`(小的地方)
+- `at scholl` (学习状态)
+- `on/at` (on：接触)， at 比 on 更小更具体
+- `call on` 拜访
+- `call at` 拜访
 
-#### on 接触
-
-keep an eye on 留意，照看 (眼神接触)
-
-depend on 依靠
-
-concentrate on 关注
-
-focus on 聚焦
-
-Apples are on the tree.
-
-I stand on the head. 倒立
-
-Lie on my side. 侧躺
-
-go on => v. + on, 继续
-
-work on, fight on
-
-lean on/against(针对) the wall. 靠墙
+- `keep an eye on` 留意，照看 (眼神接触)
+- `depend on` 依靠
+- `concentrate on` 关注
+- `focus on` 聚焦
+- `Apples are on the tree.` 苹果在树上
+- `I stand on the head.` 倒立
+- `Lie on my side.` 侧躺
+- `go on => v. + on` 继续
+- `work on, fight on`
+- `lean on/against(针对) the wall`. 靠墙
 
 #### on 上对下
 
@@ -1359,61 +1347,65 @@ a cup on the table.
 
 #### be based on 已..为基础
 
-Don't be too hard on me. 别对我太苛刻
+`Don't be too hard on me`. 别对我太苛刻
 
-Please keep an eye on her!
+`Please keep an eye on her!`
 
-His words have great impact on me. 上对下，（压力），to me(平辈之间)
+`His words have great impact on me.` 上对下，（压力），to me(平辈之间)
 
-This book is important to me.
+`This book is important to me.`
 
-feed on v. 以...为食，以...为能源
+`feed on` v. 以...为食，以...为能源
 
-from then on 从那时起
+`from then on` 从那时起
 
-on occasion 有时，不时
+`on occasion` 有时，不时
 
-on the priciple of  根据...的原则
+`on the priciple of`  根据...的原则
 
 #### 表示进入某种状态（搭上线了），处于...状态
 
-on and off
+`on and off`
 
-on fire 着火
+`on fire` 着火
 
-agreen on 达成一致意见
+`agreen on` 达成一致意见
 
-The show is on. 节目开始了
+`The show is on.` 节目开始了
 
-on purpose 故意，有意
+`on purpose` 故意，有意
 
-on the/an average 平均
+`on the/an average` 平均
 
-on behalf of 代表
+`on behalf of` 代表
 
-on board 上车
+`on board` 上车
 
-on business 出差
+`on business` 出差
 
-on display 在展出当中
+`on display` 在展出当中
 
-on duty 值班
+`on duty` 值班
 
-on sale 打折，销售状态
+`on sale` 打折，销售状态
 
-on vacation 度假
+`on purpose` 故意
 
-You turned me on! 你让我很来电，一见倾心。  This book turns me on.
+`on vacation` 度假
 
-You truned me off. 你让我恶心（比失望更严重）。令人作呕
+`You turned me on!` 你让我很来电，一见倾心。  `This book turns me on.`
 
-turn off / throw up 吐
+`You truned me off.` 你让我恶心（比失望更严重）。令人作呕
 
-on line 在线
+`turn off / throw up` 吐
 
-On one hand, on the other hand.
+`on line` 在线
 
-## off 脱离、离开，离去，掉，从...离开,从...脱离
+`On one hand, on the other hand.` 一方面，另一方面
+
+#### off
+
+> 脱离、离开，离去，掉，从...离开,从...脱离
 
 ff => fly fly => 脫離，off load
 
