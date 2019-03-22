@@ -1477,38 +1477,31 @@ He is driving at 140 kms an/per hour.
 
 in < on < at
 
-at times 经常时间
+- at times 经常时间
+- in time 及时
+- on time 准时
+- for some time 一段时间
 
-in time 及时
+- with 伴随，延伸出因为含义: Tonight is for you. Tonight is with you.
+- With your help, I could make it. 由于你的帮助，我能做到
+- Help with 伴随
+- Help for 目的
 
-on time 准时
-
-for some time 一段时间
-
-with 伴随，延伸出因为含义: Tonight is for you. Tonight is with you.
-
-With your help, I could make it.
-
-Help with 伴随
-
-Help for 目的
-
-wayward 任性
+- wayward 任性
 
 ### for 含义
 
 1. 端时间； I've been in BJ for 20 years.
-2. 原因/目的：
+2. 原因/目的
 
 ### by
 
-B 的含义是木材造型
+> B 的含义是木材造型
 
 board:板子， book, bar 酒吧(木棍，木板，吧台不可缺少)， buck(桶), barrel(桶), branch(树枝) company 分公司， basket 篮子， boat 小木船，bridge 桥， bra 木头，brace支撑
 
-by => 本意：靠在一棵树上，靠着，依仗
-
-bandit 换单，土匪 => 中文：恶棍
+- by => 本意：靠在一棵树上，靠着，依仗
+- bandit 换单，土匪 => 中文：恶棍
 
 1. 靠近：stand by(待发)；顺便提一下；by the way;
 2. 靠...方式：by car, by bike
