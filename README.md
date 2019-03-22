@@ -1509,47 +1509,34 @@ board:板子， book, bar 酒吧(木棍，木板，吧台不可缺少)， buck(�
 
 ### Across（穿越）-throught(抽象) 通过
 
-throught hard times 通过痛苦的时光
-
-get throught your sickness 度过疾病
+- throught hard times 通过痛苦的时光
+- get throught your sickness 度过疾病
 
 ### over-beyond 上面
 
-over： 上面，越过（具体,动态），延伸出 => 完了，结束了 game over, we are over， over my dead body. 强拒绝 look over(忽视) go over(复习) 过一遍
-
-beyond：上面（抽象，静态）
-
-God is beyond us.
-
-My thanks to you is beyond words . 我对你的话超越了语言(溢于言表)
-
-around (转圈) over（正向）
+- over： 上面，越过（具体,动态），延伸出 => 完了，结束了 game over, we are over， over my dead body. 强拒绝 look over(忽视) go over(复习) 过一遍
+- beyond：上面（抽象，静态）
+- God is beyond us.
+- My thanks to you is beyond words . 我对你的话超越了语言(溢于言表)
+- around (转圈) over（正向）
 
 ### up(向上，完)
 
-fill it up. 把它填满
-
-make it up. 弥补
-
-face lift 整容
-
-dry up. 干了
-
-give up 放弃  give in 妥协
-
-breack up 完蛋了
-
-live up to 不辜负，达成  We have live up to our parent's hope.
+- fill it up 把它填满
+- make it up 弥补
+- face lift 整容
+- dry up 干了
+- give up 放弃  give in 妥协
+- breack up 完蛋了
+- live up to 不辜负，达成  We have live up to our parent's hope.
 
 ## 动词
 
 ### 基本定义：动词和分词
 
-动词：谓语和不是谓语（分词）
-
-A flying bird shits on me.
-
-flying: 非谓语， shits: 谓语
+- 动词：谓语和不是谓语（分词）
+- A flying bird shits on me.
+- flying: 非谓语， shits: 谓语
 
 #### 谓语
 
@@ -1557,21 +1544,20 @@ flying: 非谓语， shits: 谓语
 2. 语态
 3. 及物和不及物
 
-- 及物 vt.：可以摸到的， I like her.
-- 不及物 vi.(后面不能加名词)：She dies in American
-- t: tend
+- 及物 vt.：**可以摸到的**， I like her.
+  - t: tend 延伸，伸展
+- 不及物 vi.(**后面不能加名词**)：She dies in American
 
 4. 双性：begin start
 
 - The meeting begins. 开始
-
 - She begins a var. 开启
 
-5. 系动词：表示(是)的动词
+5. 系动词：表示广东话当中的**是**的动词
 
-- 系(广东话) -> 是，明的是(am/is/are/was/were)和暗的是(look/feel/sound/touch),后面加形容词 adj.
-- 明：She is pretty. 她是漂亮的。
-- 暗：She looks pretty. 她看起来是漂亮的。 ......起来时是...... 的
+- 系(广东话) -> 是，**明的**是(am/is/are/was/were)和**暗的**是(look/feel/sound/touch),后面加形容词 adj.
+  - 明：She is pretty. 她是漂亮的。
+  - 暗：She looks pretty. 她看起来是漂亮的。 ......起来时是...... 的
 
 - be(是), seem(似乎), look(看来), keep(保持), become(变成), get(变得), grow(变得), feel(感到), turn(变得，变成), appear(显得), remain(仍旧是)
 
@@ -1603,27 +1589,18 @@ v1 连接词？ v2 连接词？ v3
 
 - `let/make/render/have/get` 让 ... 使去做
 
-``` english
-I make him eat shit.
+- I make him eat shit.
+- He is made to eat shit.
+- I have her give me money. 我让给我钱
 
-He is made to eat shit.
+- help + (v/to do)
 
-I have her give me money. 我让给我钱
+- 感官动词：`see + (doing/do)`
 
-help + (v/to do)
-```
-
-- 感官动词：see + (doing/do)
-
-``` english
-I saw him work in the garden yesterday.
-
-I saw him working in the garden yesterday.
-
-v + 片段(do+ing): I saw him working.
-
-v + 整个过程(do原型) I saw him work.
-```
+- I saw him work in the garden yesterday.
+- I saw him working in the garden yesterday.
+- v + 片段(do+ing): I saw him working.
+- v + 整个过程(do原型) I saw him work.
 
 ### v1 + to + v2 常态 去做
 
