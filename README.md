@@ -1587,13 +1587,13 @@ v1 连接词？ v2 连接词？ v3
 
 ### v1 + v2 加原型
 
-- `let/make/render/have/get` 让 ... 使去做
+- `let/make/render/have/get` 让..人... 使去做
 
-- I make him eat shit.
+- I make him eat shit. 加原型可以to省略
 - He is made to eat shit.
 - I have her give me money. 我让给我钱
 
-- help + (v/to do)
+- `help + (v/to do)`
 
 - 感官动词：`see + (doing/do)`
 
@@ -1606,55 +1606,49 @@ v1 连接词？ v2 连接词？ v3
 
 > to 表示过程，v1，v2 有先后顺序
 
-plan/want
+- plan/want
 
 ### v + ving 名词化（事情本身）
 
+> 表示已有的事情
+
 我后悔嫁给你。解释：先嫁后后悔。I regret marrying you.
 
-别抽烟了。先抽，后别。Stop Smoking.
+- 别抽烟了。先抽，后别。Stop Smoking.
+- Stop to Smoke. 停下来去抽烟 （先抽烟，后停止）
+- Stop Smoking. 禁止抽烟
 
-Stop to Smoke. 停下来去抽烟
+- I forget locking the door. 先锁，后忘记。我忘记锁门了。锁之前忘记了。
+- I forget to lock the door. 我忘了去做锁。没锁。
 
-I forget locking the door. 先锁，后忘记。我忘记锁门了。锁之前忘记了。
+- deny 抵赖（已有的事情）
 
-I forget to lock the door. 我忘了去做锁。没锁。
+- allow 允许
 
-deny 抵赖
+- I don't allow smoking. 我不允许抽烟. v ving(v一个人，ving另一个人)（我不允许别人抽烟）
+- I don't want to smoke. I => want/smoke （want to do 表示过程，主语必须是同一个人）
 
-allow 允许
-
-I don't allow smoking. 我不允许抽烟
-
-I don't want to smoke. I => want/smoke
-
-look forward to do+ing 盼望
-
-Nice to meet you. 刚开始见面
-
-Nice meeting you. 见面结束时
-
-need doing
-
-My car needs to be repaired. 压缩成 need doing. My car needs repairing.
+- look forward to do+ing 盼望（对方的行动，主语不一致）
+- Nice to meet you. 刚开始见面
+- Nice meeting you. 见面结束时(已有)
+- need doing
+- My car needs to be repaired. 压缩成 need doing. My car needs repairing.
 
 ### 分词的用法-非谓语
 
-There is a bird flying in the sky. 在天上飞的鸟
+- There is a bird flying in the sky. 在天上飞的鸟
+- There is a bird which is flying in the sky
 
-There is a bird which is flying in the sky
+- Those elected today shall take the responsibility.
+- Those who were elected today shall take the responsibility.
 
-Those elected today shall take the responsibility.
+- To find love, you have to devote.
 
-Those who were elected today shall take the responsibility.
+- Running is the best way to lose weight.
 
-To find love, you have to devote.
+- The girls who is crying is Lily. => The girls cryling is Lily.
 
-Running is the best way to lose weight.
-
-The girls is who is crying is Lily. => The girls cryling is Lily.
-
-We are considering(考虑，犹豫) talking a trip around the island.
+- We are considering(考虑，犹豫) talking a trip around the island.
 
 ## 分词作为形容词的总结
 
