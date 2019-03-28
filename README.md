@@ -1718,45 +1718,41 @@ illiterate 文盲
 
 ## t/f 动词
 
-(Given) more attention, the tree could have grown better.
+- (Given) more attention, the tree could have grown better.
+  - A.Given(被给) B.to Give(去给) C.Giving(自己给) D.Having given(已经给，主动)
+  - the tree 是主语
 
-A.Given(被给) B.to Give(去给) C.Giving(自己给) D.Having given(已经给，主动)
-
-I hope you don't mind (my looking) at your newspaer. A. I look B. my looking C.I looking D. my to look
-
-We are considering (taking) a trip around the island. A. take B. to take C. to be taking D.taking
+- I hope you don't mind (my looking) at your newspaer. A. I look B. my looking C.I looking D. my to look
+- We are considering (taking) a trip around the island. A. take B. to take C. to be taking D.taking
 
 ### 分词作为形容词的总结复习
 
-a boring movie
+- a boring movie 令人烦的电影
+- washing machine 洗衣机
+- running machine 跑步机
+- dressing table 梳妆台
+- A graduated student 毕业生
+- A broken heart 一颗破碎的心
 
-washing machine
+- 过去分词+ed
+  - 已经
+  - 被
 
-running machine
-
-dressing table
-
-A graduated student
-
-A broken heart
-
-作为名词：
-
-Smoking is bad.
-
-Being forgotten is sad.
+- 作为名词：
+  - Smoking is bad.
+  - Being forgotten is sad.
 
 ### tract 轨迹、轨道
 
-extract 提取
+- extract 提取
+- distract dis+tract 分心、干扰  He is always distracted in class.
+- contract con+tract n.合同 同归
+- trace 跟踪
+- subtract sub(向下)+tract 减少
 
-distract dis+tract 分心、干扰  He is always distracted in class.
-
-contract con+tract n.合同 同归
-
-trace 跟踪
-
-subtract sub(向下)+tract 减少
+- 《朗文英英》
+- 《辞海》
+- 字典：2000个词解释单词
 
 ### trib，给出去
 
