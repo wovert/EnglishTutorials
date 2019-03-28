@@ -1754,134 +1754,101 @@ illiterate 文盲
 - 《辞海》
 - 字典：2000个词解释单词
 
-### trib，给出去
+- trans 130多个词，转换的意思
+  - transport 运输
+  - transportation n. 运输
+  - Department of Transportation
+  - translate 线条有关系，翻译
+  - transplant 移植
+  - transfer 移交，转移
+    - transfer your power 移交你的权力
+  - transform 变形
+    - form 形式
+    - transformer 变形金刚
+  - transact 交易行为 => 交易
+    - act
+  - tract 轨迹
+    - extract 提取, e: 出
+    - distract 分心，干扰 dis:
+      - He is always distracted in class. 它在上课时总是分神
+    - contract n.合同， 公文：和而同之
+      - con 共同
+  - trace v.跟踪
 
-give to
+### trib
 
-contribute 奉献(抽象)
+> 给出去, give to一样
 
-contribution
+- contribute 奉献(抽象)
+- contribution n.名词
+- donate 捐赠(具体)
+- distribute 分配，分销
+- distributer 分销商
 
-donate 捐赠(具体)
+- 原词：tribe 部落，公有制
 
-distribute 分配，分销
-
-distributer 分销商
-
-原词：tribe 部落，公有制
-
-attribute to 归因于
-
-I attribute my success to his help.
+- attribute to 归因于
+  - I attribute my success to his help.
 
 ### tain 拿去
 
-持有
+> 持有
 
-obtain 取得
-
-attain 取得
-
-gain 取得
-
-contain 包含
-
-container 容器
-
-maintain 把持，维持
-
-detain (de向下) 扣留，扣押
-
-deposit 沉淀，拉屎
-
-The suspect has been detained.
-
-sustain 支撑 （sus=sub）
+- obtain 取得
+- attain 取得
+- gain 取得
+- contain 包含
+- container 容器(盆子)
+- maintain 把持，维持
+- detain (de向下) 扣留，扣押
+- deposit 沉淀，拉屎
+  - The suspect has been detained.
+- sustain 支撑 （sus=sub）
 
 ## F
 
-f -------------- 飞 （甲骨文）
+> f -------------- 飞 （甲骨文）
+> 延伸出 运动/流程/流动/速度
 
-延伸出 运动/流程/流动/速度
-
-fly
-
-flight 航班
-
-flee 飞逃
-
-free 自由
-
-fluent 流畅的，流利的
-
-fast 快速的
-
-fire 开火
-
-fleet 舰队
-
-fax 传真
-
-flow  流淌
-
-fluctuate 波动
-
-fade 流逝，褪色 (水)    elapse(光流逝)
-
-fail 流产，失败
-
-fake 假货
-
-fall 跌落
-
-fame 名声， famous 流行的
-
-flu 流感，原型：influenza
-
-fate 命运(经过)
-
-fix 修
-
-feather 羽毛
-
-fin 鱼翅
-
-flag 旗帜
-
-flame 火焰
-
-flaw 缺陷
-
-flush  冲刷，老脸一红
-
-flash 闪光
-
-fart 放屁
-
-farce 闹剧(外交部常用词汇)、胡闹、笑剧
-
-A man disappeard like a fart in the wind. 风中之屁
-
-fore, fort = strong 表示“强大”
-
-force forcefull enforce加强 v reinforce 增援
-
-fort(坚硬的) n.城堡，要塞，堡垒 fortree n.堡垒  ess 女性后缀
-
-airforce 空军
-
-ground force 陆军
-
-nary 海军
-
-山无棱 天地和 始敢与君绝
-
-fortify
-
-fortitude n.坚强,刚毅
-
-effort e+ffort 努力 make effort 做出努力
-
-comfort 安慰
-
-comfortable 舒服的
+- fly
+- flight 航班
+- flee 飞逃
+- free 自由
+- fluent 流畅的，流利的
+- fast 快速的
+- fire 开火
+- fleet 舰队
+- fax 传真
+- flow  流淌
+- fluctuate 波动
+- fade 流逝，褪色 (水)    elapse(光流逝)
+- fail 流产，失败
+- fake 假货
+- fall 跌落
+- fame 名声， famous 流行的
+- flu 流感，原型：influenza
+- fate 命运(经过)
+- fix 修
+- feather 羽毛
+- fin 鱼翅
+- flag 旗帜
+- flame 火焰
+- flaw 缺陷
+- flush  冲刷，老脸一红
+- flash 闪光
+- fart 放屁
+- farce 闹剧(外交部常用词汇)、胡闹、笑剧
+- A man disappeard like a fart in the wind. 风中之屁
+- fore, fort = strong 表示“强大”
+- force forcefull enforce加强 v reinforce 增援
+- fort(坚硬的) n.城堡，要塞，堡垒 fortree n.堡垒  ess 女性后缀
+  - 凸fort, 凹fortree
+- airforce 空军
+- ground force 陆军
+- nary 海军
+- 山无棱 天地和 始敢与君绝
+- fortify
+- fortitude n.坚强,刚毅
+- effort e+ffort 努力 make effort 做出努力
+- comfort 安慰
+- comfortable 舒服的
