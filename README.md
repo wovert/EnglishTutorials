@@ -1826,7 +1826,6 @@ illiterate 文盲
 - fake 假货
 - fall 跌落
 - fame 名声， famous 流行的
-- flu 流感，原型：influenza
 - fate 命运(经过)
 - fix 修
 - feather 羽毛
@@ -1834,7 +1833,20 @@ illiterate 文盲
 - flag 旗帜
 - flame 火焰
 - flaw 缺陷
+
+- flu = flow 表示流动， 流感，原型：influenza
+  - fluid, liquid 液体
 - flush  冲刷，老脸一红
+  - fluency(流利程度) affluent a(富饶的，rich) 富得流油
+  - 古代油来源于鲸鱼
+- effluent a 流淌出来
+- influence 流入 v. or n. （影响）
+  - impact 影响
+  - affect 影响
+- influenze n flu 原型
+- refluent 倒流
+- superfluous a  过剩的
+
 - flash 闪光
 - fart 放屁
 - farce 闹剧(外交部常用词汇)、胡闹、笑剧
@@ -1852,3 +1864,24 @@ illiterate 文盲
 - effort e+ffort 努力 make effort 做出努力
 - comfort 安慰
 - comfortable 舒服的
+
+The disc, digitally (which were 省略) recored in the studio, sounded fatasitc at the party that night.
+
+- recorded 被动
+- having been recorded 被动
+- having recorded 主动
+
+- My dog smells bad, as it has been long since i bathed it last time.
+
+- President-elect Donald Thrump proposed to exclude himself from his family-owned international real estate development, property management and licensing business before taking office Jan.20.
+
+当选总统川普要提出把自己排除在 1月20日入职之前，将远离他家庭拥有的国际房产开发管理和授权业务的外面
+
+- fab
+  - fabl, fabul = speack
+  - fable n. 语言；传说
+    - fabulous 非常精彩的，传奇色彩的
+    - fairy tale 神话故事
+    - lenovo 新的
+  - fabulist 传说的；难以置信的
+  - affable a 和
