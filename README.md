@@ -1885,3 +1885,36 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
     - lenovo 新的
   - fabulist 传说的；难以置信的
   - affable a 和
+
+- fect = make, do 表示“做，制作”
+
+- affect 影响
+- defect n.缺点,缺陷
+- effect v.结果
+- effective 有效的
+- perfect a. 完全的，完美的
+- infect 流进去, 做进去
+
+- fer=bring,carry 表示“带来，拿来”
+  - ferry 渡口 <--->
+  - confer v. 协商，谈判
+  - conference n. 会议
+  - offer v. 提供 n.
+    - What would offer me ? 你提供给我什么？
+    - How many offers do you have? 你收到了多少的录取通知
+    - 我佛寺
+  - differ v. 分开拿
+  - difference (differernt+iate -> 不同化)
+  - infer indifferent(冷漠的) a. prefer
+  - refer reference n. 参考；引证
+  - suffer v.遭受 (sub 下面)
+    - suffer a fire 遭受火灾
+  - transfer v. 转让，转学
+  - fertile fertilizer n. 富饶的，肥沃的；能生育的
+    - a fertile woman 一个高产的女人
+    - chemical fertilizer 化学肥料
+  
+- fin = over
+  - F : 表示过程
+  - n: 否定
+  - fin: 过程的结束
