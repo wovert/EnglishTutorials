@@ -1918,3 +1918,63 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - F : 表示过程
   - n: 否定
   - fin: 过程的结束
+  - finish 完成
+  - finite 有限的
+  - infinite 无限的
+    - the inifinite universe 无限的宇宙
+  - definite 肯定的，绝对的
+  - final 最终的
+  - finance 结账，结算
+  - confine （抽象）限制 = limit(具体)
+    - reading too much will confine your imagination 读太多书限制你想象
+  - define 定义，确定
+    - definition 定义
+  - ford 地方上有这个词意味着该地区有过城堡
+
+## s
+
+> 逻辑内涵：扭曲，弯曲，努力，延伸/增加
+
+- str 扭曲 努力 用力
+  - strong 强大
+  - stream 小溪
+    - Data Stream 数据流
+  - structure 结构
+  - suffer 遭受苦难
+  - strike 打击，罢工
+    - workers are on strike today
+  - strain 扭曲，扭伤，拉扯
+  - constrain 束缚
+  - strife 撕逼
+  - strict 严格的
+    - restrict v. 限制
+    - My Mom is so strict on me. 我妈对很严格
+  - strangle 勒死
+    - I will strangle you with your own guts（肠子）
+    - nut 果实
+    - nuts 蛋蛋
+    - nutshell 果壳
+    - you nuts! 傻瓜
+  - straw 生活常用品
+    - 成都用语：外来的 => 弯弯
+  - stray 迷失
+    - ajd. astray
+    - He is stray now
+  - streak 曲线
+    - a streak T-shirt 条纹衫
+  - strip 扯开，拉开
+    - stripper club 脱衣舞俱乐部
+    - shemale 人妖
+  - stroll 散步(跟弯曲有什么关系？)
+  - struggle 挣扎
+  - struct 架构
+    - structure
+    - sentense structure 句子结构
+    - instruct 指导
+    - strive 努力
+    - instruction 指令
+    - construct v.建造
+    - china construct 建设银行
+  - destruct de向下，摧毁
+  - obstruct ob相反，妨碍，阻碍
+  - restructure v.重建
