@@ -1985,3 +1985,12 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
 
 - 东方人发音：嘴巴
 - 西方人发音：嘴巴+喉咙+胸腔 => 共鸣
+
+- hi
+- hello
+- Don 't let me down.
+- Sit down.
+- Hey
+- cow
+- go
+
