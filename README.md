@@ -1978,3 +1978,10 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - destruct de向下，摧毁
   - obstruct ob相反，妨碍，阻碍
   - restructure v.重建
+
+## 如何一分钟变伦敦腔
+
+- 后置发音：瞬间华丽变声第一步
+
+- 东方人发音：嘴巴
+- 西方人发音：嘴巴+喉咙+胸腔 => 共鸣
