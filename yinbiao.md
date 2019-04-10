@@ -129,3 +129,4 @@ Good/put/cook
 
 The table is made of wood
 
+ga ge gi: 개 게 기
