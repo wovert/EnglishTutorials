@@ -2008,3 +2008,33 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - Look, the bird!
   - Good morning, sir!
   - I am working on my chores.
+
+## http://testyourvocab.com
+
+- 20,000-35,000
+- 8: 10,000
+- 4: 5,000
+
+
+- Native adult vocabulary size appears to be principally determined by reading haits between age 4 and 15
+- Native test-taker children who read "lots" learn 4 new words a day
+- Fiction reading would increase vocabulary size more than just non-fiction
+- Fiction tends to use a greater variety of words than non-fiction does
+
+### 词汇量 < 1000
+
+- Oxford Reading Tree
+- 各类儿童绘本
+- 美国加州小学教材
+
+### 词汇量 > 1000
+
+- [蓝思值](http://www.lexile.com)
+- 首万不重复词数
+- 搜索引擎：![主流畅销英文图书阅读难度分级](./images/books.png)
+
+- 原著名称/总词数/首万词不重复词数
+- California Algebra 1 / 372560 / 931
+- California Geometry / 382640 / 948
+
+- http://gen.lib.rus.ec
