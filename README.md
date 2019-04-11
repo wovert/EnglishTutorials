@@ -1994,3 +1994,17 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
 - cow
 - go
 
+- A
+  - bad
+    - 배드 美音
+    - (바-배)드 英音
+  - cat
+  - dad
+  - a bad hat
+  - That is a fat cow
+  - Pack it up, Please
+- R (卷舌：过于随意) - civilization(文明)
+  - I like a girl(어거~우). 英音：e, 美音：er
+  - Look, the bird!
+  - Good morning, sir!
+  - I am working on my chores.
