@@ -2008,13 +2008,40 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - Look, the bird!
   - Good morning, sir!
   - I am working on my chores.
+- H
+  - Hi
+  - Hello
+  - Here you are!
+
+Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They were talking loudly. I got very  angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not beat it. I turned round again. 'I can't here a word!' I said angrily. 'It's none of your business,' the young man said rudely.'This is a private conversation!'
+
+### 长短音
+
+- 短音：胸腔
+- 长音：嘴巴
+
+- who: 흐우
+- Book loser
+- Good who
+- Sheep ship
+- Sheet shit
+- Car but
+- My lord, my god
+- A bird, a skirt
+
+### 语调的科学
+
+> 根据短语
+   
+- a apple
+- an apple
+
 
 ## http://testyourvocab.com
 
 - 20,000-35,000
 - 8: 10,000
 - 4: 5,000
-
 
 - Native adult vocabulary size appears to be principally determined by reading haits between age 4 and 15
 - Native test-taker children who read "lots" learn 4 new words a day
@@ -2038,3 +2065,19 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
 - California Geometry / 382640 / 948
 
 - http://gen.lib.rus.ec
+
+## 主题聚合阅读
+
+- 每天阅读一篇英文网文，没有一个主题
+  - http://www.espn.com/nba
+  - Pts 得分，Reb 篮板, Rst 助攻
+  - 场上5个位置
+- 新闻聚合应用：News Aggregators
+- Flipboard and Zite
+- News360
+- MSN News
+
+## 全媒体app立体化阅读
+
+- Yahoo News Digest
+- IMDb
