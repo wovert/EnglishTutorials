@@ -2013,7 +2013,9 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - Hello
   - Here you are!
 
-Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They were talking loudly. I got very  angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not beat it. I turned round again. 'I can't here a word!' I said angrily. 'It's none of your business,' the young man said rudely.'This is a private conversation!'
+(Last week(升) I went to the theatre(降).) I had a very good seat(降). The play was very interesting(降). I did not enjoy it(降). A young man(升)  and a young woman(升) were sitting behind me(降). They were talking loudly. I got very  angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not beat it. I turned round again. 'I can't here a word!' I said angrily. 'It's none of your business,' the young man said rudely.'This is a private conversation!'
+
+Pumas are large(升), cat-like animals(降) which are found(升) in America(降). (When reports carne into London Zoo(升)) that a wild puma had been spotted(降) forty-five miles(升) south of London(升), they were not taken seriously. However(升), as the evidence began to accumulate(降), experts from the Zoo(升) felt obliged to investigate(降), for the descriptions(升) given by people(降) who claimed to have seen the puma(升) were extraordinarily similar(降).
 
 ### 长短音
 
@@ -2032,10 +2034,45 @@ Last week I went to the theatre. I had a very good seat. The play was very inter
 ### 语调的科学
 
 > 根据短语
-   
+
 - a apple
 - an apple
+- 先升后降（力学原理）先蓄势
 
+```ch
+千山鸟飞绝(上升)，万径人踪灭(下降)。
+孤舟蓑笠翁，独钓寒江雪。
+```
+
+- 平时说话：没有这个大的起伏
+  - 简化方案：开头声调，中间随便，最后第二个声调，最后一个降调
+
+- If you have time, Please tell me.
+- Are you a student(将)?
+- Are you a boy(升) or a girl?(将)
+- Is it true?(升) 特别强调时声调
+
+### 连读规则
+
+短语和短语节奏分开
+
+1. 节奏：发生于短语中
+
+- Good morning!
+- Take it home!
+- Loot at me!
+- I'd like to give a speech about the mearning of reading.
+- Hold on! They are about the come
+
+2. 元音+元音 自然融合
+
+3. 辅音+辅音（第一个辅音不读）
+
+4. 辅+元，元+辅
+
+- get it
+
+- sit down
 
 ## http://testyourvocab.com
 
