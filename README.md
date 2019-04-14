@@ -2074,6 +2074,55 @@ Pumas are large(升), cat-like animals(降) which are found(升) in America(降)
 
 - sit down
 
+## 词汇
+
+- voc 说话
+- revoke 喊回来，撤销，撤回
+- advocate 支持
+
+### R/r
+
+> 破坏/撕裂 出现
+
+不破不立
+
+- rape 强暴/强奸
+- red 红色
+  - The city was then redded/blooded. 这个城市被血洗了
+- risk n.风险 v.冒险 => 刀口舔血
+  - risky adj.
+  - risk investment 风险投资
+    - vent，vend 走出去(v:动作，力量)
+    - convention 会议、传统（con一起）
+    - adventure 冒险
+    - venture 冒险
+    - tradition 传统
+- vendor [贸易] 自动售货机，游商，供应商
+  - software vendor 软件商
+- raze 切割，砍
+  - razor 剃刀
+- ruin 破灭
+  - You runed my life 你毁了我的人生
+  - The city has been destroyed to runs
+- race 种族；竞赛
+- rag 破布
+- raid 打击
+  - strike
+  - bang
+- rapid adj. 迅速的，急促的；飞快的；险峻的
+- rude adj. 粗鲁的；无礼的；狂暴的；未开化的
+  - a rough idea 一个非常粗超的想法
+- raven n.大乌鸦；掠夺
+  - Game of thrones 权利的游戏
+- riot 暴动
+- roar n. 咆哮(扯着喊叫)；吼；轰鸣
+  - soar 生气
+- room 房间(隔间)
+- rite 仪式
+- raw 原始
+
+03:30
+
 ## http://testyourvocab.com
 
 - 20,000-35,000
