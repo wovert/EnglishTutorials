@@ -2161,6 +2161,103 @@ Pumas are large(升), cat-like animals(降) which are found(升) in America(降)
   - dis 分开
 - abrupt 唐突的
 
+- rap 掠夺
+- rage=rampage 愤怒
+- erase 抹去，去除
+  - exclude
+- re 回来 再次
+  - recur 再现
+  - concur 重合
+  - occur 冒出来，产生
+  - rabid adj. 激烈的；狂暴的
+  - rabble 暴徒
+  - rebel 反抗
+  - rabies 狂犬病
+- radiant 光芒四射
+- zip code 邮政编码
+  - zipless person 口无遮拦的 很放重的人
+- zombie 僵尸
+- zoology 动物学
+  - logy 学科
+- zinc 锌
+- zoom 及增，猛增(股票)
+  - zoom in 拉近
+  - zoom out 拉远
+- slump 猛跌
+- zeal 热情
+  - zealous 热情的
+
+## h
+
+> 向上，高出
+
+- hydrogen 氢
+- oxygen 氧气
+- habit 房子，居住地
+  - habitable 可居住的
+  - inhabit v.居住
+  - habitation
+  - habitate
+  - 习惯，常驻(住)
+- house
+- home
+- hut n. 小屋；临时营房
+- hail n. 冰雹；致敬；招呼；一阵
+- howl 嚎叫
+- hang 悬挂
+- halt 中止
+- haunt 萦绕(向上或高出有什么关系)
+  - He is haunted
+- hallow 圣人，圣徒
+- hero 英雄
+- heroine 女英雄
+- heaven 天堂
+- horizon 天际
+- harmonious society 和谐社会
+- hat 帽子
+- hawk 鹰
+- eagle
+- haze 雾霾
+- h-bomb 氢弹
+- headline 头条
+- heading 头衔
+- headquarter 总部
+- heap 堆，雄起的部分
+- headmaster  校长
+- headwork 脑力劳动
+- heat 高度 vt. 使激动；把…加热
+- hot
+- hearth 壁炉，炉子
+- heave 举起，抬起
+- heaven 天堂；天空；极乐
+- heighten vt. 提高；增高；加强；使更显著
+- helicopter 直升飞机
+- hill 山脉
+- heroine 海洛因
+- high 高
+- highness
+  - your highness 殿下
+  - your grace 夫人
+- highroad 告诉公路
+- highsea 公海
+
+## x
+
+> 交叉，穿透
+
+## z
+
+> 曲折，封闭
+
+- zero 闭环，零
+- zebra 斑马（线条曲折）
+- zoo 动物园（圈）
+- zigzag 之之形
+- zip 拉链
+  - zip your mouth! shut up!
+
+
+
 ## http://testyourvocab.com
 
 - 20,000-35,000
