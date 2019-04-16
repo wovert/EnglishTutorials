@@ -2121,7 +2121,45 @@ Pumas are large(升), cat-like animals(降) which are found(升) in America(降)
 - rite 仪式
 - raw 原始
 
-03:30
+- ra 根部
+  - radical 根本的=激进的(穆斯林)
+  - 左派：激进（毛左）根本的，革命派
+  - 右派：保守（变化）邓小平
+
+- eradicate vt. 根除，根绝；消灭
+- ra 镭元素
+  - 居里夫人，根，放射性
+  - 中文：辐（车+福）
+- radio-activity 放射性
+- radiation 辐射
+
+- rise 出来
+- react 小草冒出来，竖立 vi. 反应，作出反应；产生（化学）反应；
+- ereact 直立（e向外）
+- correct 直 = 真的 (都来自于且) 且=男
+  - 正确的
+- rectitude 正直
+- valid 正确的
+- vertical 垂直的
+- rectangle reac+angle(角度) 矩形
+- erectile dysfunction （ED）
+  - adj. 勃起的
+- rupt 破了
+  - bankrupt 破产
+    - bank vi. 堆积；倾斜转弯
+  - rupture 裂痕，撕裂
+- erupt 破了冒出来
+  - v. 喷薄而出，爆发
+  - volcano 火山
+- corrupt
+  - 一起破了，腐败(行贿，受贿)
+  - corruption
+- interrupt, disrupt 打搅, 打乱
+  - inter 中间
+    - interfere
+    - intervene
+  - dis 分开
+- abrupt 唐突的
 
 ## http://testyourvocab.com
 
