@@ -2256,6 +2256,45 @@ Pumas are large(升), cat-like animals(降) which are found(升) in America(降)
 - zip 拉链
   - zip your mouth! shut up!
 
+## 修辞
+
+### 什么是美
+
+- **简单** vs 复杂
+
+### 修辞之美
+
+1. 你永远在我心中 - 蒙太奇
+
+You will always be in my heart.
+
+简单不等于傻 (不光要简单，还要漂亮，还要优雅)
+
+You were, are and will be in my heart
+
+less is more 简单就是美。形式简单，张力，内涵深邃
+
+- 实践应用
+  - Reading was is and will be important to each person.
+
+- 经典权威中本修辞的提现
+  - We are and always will be the United States of America
+  - 我们现实是，将来也会是一个联合的美国(美国总统奥巴马竞选获胜演讲)
+
+  - Because the crimes we Germans are responsible for were and are so dominant, we didn't have the energy left to tell of our own sufferings. 因为我们德国在过去，还有现在负责的犯罪数量很大，我们没有多余的经历阐述自身的早于
+
+  - Health-care costs have been, are and will continue to increase faster than government revenues. 医保的成本增长的速度将会一直快于政府的收入。
+
+- 我们的环境越来越好了
+  - Our environment is better and better.
+  - Our environment is bettering(词的活用).
+
+- 经典权威中本修辞的体现：
+  - Thousands of Victorian workers joined educational associations in an attempt to better themselves.
+  - 维多利亚时代成千上万名工人加入各种教育协会，以求上进。（牛津高阶英汉双解词典）
+  - His total five golden medals is unlikely to be bettered.
+
+- 只有这样做，我们的明天才会更好
 
 
 ## http://testyourvocab.com
