@@ -2287,7 +2287,7 @@ less is more 简单就是美。形式简单，张力，内涵深邃
 
 - 我们的环境越来越好了
   - Our environment is better and better.
-  - Our environment is bettering(词的活用).
+  - Our environment is **bettering**(词的活用).
 
 - 经典权威中本修辞的体现：
   - Thousands of Victorian workers joined educational associations in an attempt to better themselves.
@@ -2295,7 +2295,132 @@ less is more 简单就是美。形式简单，张力，内涵深邃
   - His total five golden medals is unlikely to be bettered.
 
 - 只有这样做，我们的明天才会更好
+  - Only in this way, can our tomorrow be better.
+  - In this way, a better tomorrow will not be a question of if(是否), but when(啥时候问题). 指日可待
 
+### 词典活用
+
+- better our customer experience
+
+#### shoulder 肩膀
+
+假设任务：我们应当承担起保护环境的重任
+
+We must shoulder the liability of ...
+
+#### world
+
+假设任务：面对这个现象不同的人有不同的说法。
+
+Be carefull of your wording! 请小心你说话的方式
+
+书信：感谢
+
+My thanks to you is beyond words. 我对你的感谢溢于言表
+
+#### house
+
+假设任务：很多难民住在避难所里
+
+His brain houses many strange ideas 他的脑袋装下了很多奇怪的想法
+
+We are unable to house you. 我们没有能力容下你
+
+A wise man shall house various criticisms. 一个聪明的人可以容纳各种各样的批评。
+
+#### color
+
+假设任务：网络的出现使得人们的生活变得丰富多彩
+
+Internet colors our lives.
+
+red: The city was readded after the battle. 被血洗了
+
+#### ups and downs
+
+假设任务：与生活中的挫折与困难作斗争
+
+We must fight againt the ups and downs in life.
+
+Life is full of ups and downs.
+
+#### flood 洪水, v.充满；涌向
+
+- 假设任务：毕业后很多学习们选择了就业
+
+My heart is flooded with love and sorrow
+
+#### chair 椅子；主持；主导；anchor 掌舵
+
+假设任务：昨天的会议是校长主持召开的
+
+My mum chair my family
+
+#### corner 角落，v:无可失宠
+
+- 对于当今严重的环境危机，人们不知道怎么办才好
+
+we are cornered. (贬义色彩)
+
+around the corner 即将到来
+
+#### shadow 阴影 - 贬义
+
+Smoking will shadow our health. 抽烟将给我们健康蒙上一层阴影
+
+shine 褒义
+
+light 大策大悟
+
+#### back v.褒义 支撑，帮助
+
+back me up! 支撑我
+
+#### rocket n.火箭
+
+It's rockting!
+
+下跌：drop, waterfall(瀑布)
+
+If it is wrong, your confidence（自信） will waterfall.
+
+#### further v.推进
+
+If we want to further our work
+
+further our study. 推进我们的研究
+
+#### parrot 鹦鹉;模仿
+
+Don't parrot me!
+
+#### father 创始人；v.创立
+
+founding fathers 国父
+
+It's not easy to father a company, bu he did it.
+
+You can father new ideas only if you read enough.读书读够了，你可以创立新的想法
+
+#### forward 往前走，推进，转寄，转发
+
+#### crown 本意：皇冠，honor的最高境界
+
+He is crowned for such success.
+
+#### evidence 证据 v.证明
+
+#### mirror 镜子 v.反应
+
+Such a picture mirros the fact that ... 反映了一个...的现实
+
+If you are looking for some help, Please look into the mirror. 寻求帮助的话，请看镜子吧
+
+#### cloud 云 => 迷茫
+
+last but not least
+
+lack of knowleage, cloud your decision
 
 ## http://testyourvocab.com
 
