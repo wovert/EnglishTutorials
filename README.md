@@ -958,26 +958,66 @@ Sunday OK, we'd like to go outing.
 - I love you, who hate you.
 - I love you, hating you.
 
+单词记忆：从理解到再现，到属于你自己
+
 ## e 时代
 
-> 出
+> 出；出去；向外
 
-- excel 超越
+- exit 退出
+- escape 逃避
+  - esc 退出键
+- east 东方，太阳升起的地方
 - excessive 多余的
-- exceed 超出
-- educate 教育 （duce 引导）
+  - 超越
+- excel 超越
+- exceed 超出，突破
+  - proceed(pro向前)往前走
+  - promote 提升
+- expose 揭露，揭发
+  - Auto expose 自动曝光
+  - world expose
+- effect 效果;影响；作用
+- educate 教育
+  - duce 引导
+- ex-boyfriend 前男友
+  - ex 前任
+- egg 鸡蛋
+
+- e: e时代
+  - Electricity 电子： 围绕着原子核外面转
+  - Electroinic 电子的
+  - Email 电子邮件
+  - E-business 电子商务
 - en 用力
-- enlarge 扩大
-- widen 拓宽
-- enslave 奴役
-- empower 授权
-- ensure 确保
-- strengthen 加强
-- enable 使得
-- engage 订婚（gage 关联，使它产生关联），承诺
-- enhance (hance高度) 提高
-- encircle （circle圈圈）包围
-- enclose 包含，包容
+  - n: 与中文的**鼻子**很相似（自：早起鼻子的意思）
+    - (1)n: 鼻音的标志；否定含义
+      - neglect
+      - negative
+      - positive
+    - (2)n: 用力
+      - en 用力，动起来
+  - enter 重音在en
+  - enforce 强迫；迫使；加强
+    - force n.力量；武力；军队；魄力
+  - enlarge 扩大；加大
+  - widen 拓宽；加宽
+    - wid + en
+  - enslave 奴役；囚禁
+    - slave 奴隶
+  - empower 授权
+    - power 权力；力量
+    - 给与权力
+    - em与en一样
+    - 举例：co, con, com 一个意思
+  - entitle 命题；授权
+  - ensure 确保
+  - strengthen 加强
+  - enable 使得
+  - engage 订婚（gage 关联，使它产生关联），承诺
+  - enhance (hance高度) 提高
+  - encircle （circle圈圈）包围
+  - enclose 包含，包容
 
 ## L
 
