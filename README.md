@@ -1021,34 +1021,69 @@ Sunday OK, we'd like to go outing.
 
 ## L
 
-> line 线条
+> line 线条 , 绞丝旁
 
+- drop me a line! 给我写封信
 - line list(名单，清单) list company(上市公司) loop lure(诱饵) leak(泄露) link lip(嘴唇) long leg length
 - It is important to understand the writer's meaning between the lines. 字里行间（潜台词）
-- lace(花边) landscape(风景线) latitude(纬度) lngitude(经度) lane(车道, 过道)
+- in line with 符合，根据
+  - In line with the customs of the school, the students had a holiday between Christmas and New Year's Day.
+- lace(花边)
+- landscape(风景线)
+- latitude(纬度) lngitude(经度)
+- lane(车道, 过道)
 - liner(航线)
+- loop 圆圈 = circle
+- lure 引诱，诱惑，勾**引**
+- leak 泄露
+- link 链接
+- longing for 渴望
+- leg 腿
+- length
 - literate(adj. 有文化的) illiterate(文盲的) literature(文学, 文字=>线条)
-
 - let/lect/log 说
+- a loaf of 一条
+- label 标签
+- ladder 梯子
+- law 法律
+  - 画一条线，突破了就是法律
+- layer 层
+- leader 领导人
+- life 生活
+- limb 枝干
+- limit 限制
+  - eliminate v. 排除，清除
 - lecture(演讲) dialect(方言) legend(传奇, 向下说) allege(宣告)
 - legal/legitimate(合法的) illegal(非法的)
 - legislation(立法权)
 - dialogue(对话)
+- in terms of 关于
+- in favor of 支持
+- in view of 由于
+
+> 上帝说：要有光！ Let there be light!
 
 - light 光明, 轻的
-- enlighten(启发, 前后都有光)
+- enlighten (启发, 前后都有光)
+  - My lesson enlightens your brain.我的课程让你断悟
 - Social justice must always enlighten(大策大悟) one's consicence
 - lamp(灯)
-- lantern(灯笼) festival(节)
+- lantern(灯笼) festival(节) 元宵节
 - lunar(月亮)
 - lunar new year(农历)
-- illuminate(说明，说清楚)
+- illuminate(说明，说清楚) = eligthen
+  - imply 说明
+  - ilustrate 说清楚
+- Your noble character illuminates our pure hearts and minds
 
 ### 流明
 
 - night 夜晚 => no light
+  - n 否定；没有
 - laser 镭射/激光
 - elapse 流逝/匆忙(e+lapse)
+
+- L/G: 光线
 
 ugly, reading more.
 
