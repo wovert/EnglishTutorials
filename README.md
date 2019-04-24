@@ -2331,6 +2331,104 @@ Pumas are large(升), cat-like animals(降) which are found(升) in America(降)
 - zip 拉链
   - zip your mouth! shut up!
 
+## v
+
+- 人类文件与生俱来的原罪
+  - 人类-文明之源、生存之基
+    - 存在
+    - 延续
+- 汉语：男和女
+  - 男：春秋时期才会有'男'字
+    - 甲骨文：且
+    - 祖：最早男人
+
+- v: 力量之源 the origin of power
+- verb 动词
+- violent n.
+- violence adj.暴力
+  - anti-violence 反暴力
+  - domestic violence 家庭暴力
+  - victim n.受害者；牺牲品；牺牲者
+- vivid adj. 生动的；鲜明的；鲜艳的；
+  - vividly adv.生动地
+- value 价值
+  - evaluate 估价
+  - undervalue 低估
+  - overvalue 高估；超值
+- vitamin 维他命
+- vigor n.活力，精力
+- vigorous adj. 有力的；精力充沛的
+- victory 胜利
+- versus 对抗; VS
+- PK: player killing， pick and kick
+- ATM: Automatic Teller Machine 自动出纳机
+- 书记：real boss
+- 秘书：secretary
+- vital 至关重要的
+  - 重要的
+    - significant
+    - crucial
+    - essential
+    - critical
+    - carry weight
+      - This book carries some weight 这本书很重要
+
+### 衍生
+
+- vo 用力呼喊 o
+  - vocation n.职业；事业(内心的呼唤)
+  - vocal 口头的
+    - vocal speach 口头演讲
+  - vocabulary n.词汇；词汇量
+- ad 旁边
+  - advocate 声援，支持
+  - sustain 支持
+  - support 支持
+  - in favor n. 支持
+  - back up v.支持
+- revoke 取消
+  - call off
+- provoke 挑衅
+- 其他的说
+  - let -> lect 说
+  - legend 传奇
+  - lecture 演讲；说
+
+- allege 表明；宣称
+- dialect 方言
+- elect 唱票=>选举
+- select 选择
+
+- fess 说话
+  - prefessor 教授
+  - confess 坦白
+- dict
+  - predict 预测；预言
+  - dictioanry 字典
+  - addict to 沉溺于
+
+- vis 视/看
+  - visible vs invisible 可视的
+  - vision 视觉
+  - revise 检查；温习
+
+### 英文 女性 *.ssu.ac.kr
+
+> w
+
+- 汉字：女
+  - 鱼；蛙；蛇；特别能生殖
+
+- 大众品牌: 男男女女
+  - v
+  - W
+
+- husband and wife
+  - hus 房子
+  - band 木
+    - board
+    - branch
+
 ## 修辞
 
 ### 什么是美
