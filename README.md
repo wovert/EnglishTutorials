@@ -2424,10 +2424,16 @@ Pumas are large(升), cat-like animals(降) which are found(升) in America(降)
   - W
 
 - husband and wife
-  - hus 房子
-  - band 木
-    - board
-    - branch
+  - husband
+    - hus 房子
+    - band 木
+      - board
+      - branch
+    - 丈夫：可以依靠的成年男性
+      - 夫：成年男性（二+人）
+      - 丈：三角形稳定的结构
+  - wife
+    - w + life：一辈子陪着你的人
 
 ## 修辞
 
