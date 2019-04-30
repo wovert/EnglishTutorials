@@ -16,7 +16,7 @@
 
 - 英语陈述语句公式：[状1]       主 [定1] 谓 [状2] [宾]  [定2\状1]
 - 中文陈述语句公式：[状1\定1]   主 [状2] 谓 [定2] [宾]  [状1]
-- 插入语(与原句没有关系，是独立存在的): `', ", ~`
+- 插入语(与原句没有关系  ，是独立存在的): `', ", ~`
   - 这个女孩，在我看来，很漂亮。
 
 I Love a girl
@@ -113,23 +113,27 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 > 排除过程
 
-- 从句中和介词短语中动词
+- 1.从句中和介词短语中动词
   - The man who is smiling **is** jack. 正在笑得那个人是jack
 
-- 主语前动词
+- 2.主语前动词
   - **In fighting**, the brave wins. 在战斗中，勇者获胜
 
-- 分词前无助词(have be)
+- 3.分词前无助词(have be)
   - I **am** working
   - I have **married**. I am **married**.
   - 分词：ing, ed => working, married
 
-- 谓语可以是动词词组
+- 4.谓语可以是动词词组
   - I **want to see** you
   - I **want her to see** you
 
   - **The methods** that a community devises to perpetuate itself **come into being to** **preserve** of the cultural legacy that that community perceives as essential.
   - `GRE` 考试
+
+If, on the other hand, producing more of a commodify results in reducing its cost, **this** **will tend to increase** the supply offered by seller-producers, which in turn will hower the price and permit more consumers to buy the product.
+
+offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在助词后面)
 
 #### 2-3 宾语-谓语后的独立名词结构
 
@@ -345,7 +349,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
   - The sun rises in the east.
   - We are going to leave tomorrow, the train leaves at 6:00.
 
-- 一般过去：过去的就过去了
+- 一般过去：过去的就过去了；过去的，具体时间的动作或者没有延续到现在的状态
   - I saw him last night.
   - I was a boy.
   - I tried to help her.
@@ -357,6 +361,12 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
   - You will die. 客观性
   - You are going to die. 主观性
 
+条件从句一般表示将来：If you come, I will be happy.
+
+Planing so far ahead () no sense-so many things will have changed by next year.
+
+A.made B.is making C.makes D.has made
+
 ### 进行 更加精确的点
 
 - 现在/过去/将来 的进行 表达不同时候的精确动作
@@ -367,7 +377,7 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
   - I am coming!
   - You are always talking!
 
-- 将来的进行
+- 将来的进行 精确安排（旅游计划，日程安排）
   - I will be enjoying my dinner at 7:00 PM tomorrow.
 
 - from ... to ... 从哪到哪
@@ -377,6 +387,9 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 ### 段时态
 
 > 完成。现在开始到之前时间段
+
+- 动作：已经发生
+- 状态 持续
 
 - 现在：到现在为止 have/has + 过去分词
   - I have married now. 现在为止
