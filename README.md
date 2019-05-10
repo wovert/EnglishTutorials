@@ -62,7 +62,7 @@ In the morning, I get up. 强调在**早上**起床
 
 She is pretty in my eyes. 在我眼里，她很漂亮
 
-In your life(状1), **a friend** that is helpful **is** **a friend** that you should thank(状1).
+In your life(状1), **a friend** that is helpful(定) **is** **a friend** that you should thank(定).
 
 主干体系：在你的一生当中，一个总能帮助你的朋友是一个应当感谢的朋友
 
