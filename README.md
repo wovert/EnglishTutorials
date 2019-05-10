@@ -43,7 +43,7 @@ She died (没有宾语)
 
 I get up in the morning. 早上起床（没有强调）
 
-In the morning, I get up. 强调在早上起床
+In the morning, I get up. 强调在**早上**起床
 
 ----
 
