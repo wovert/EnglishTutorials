@@ -31,7 +31,7 @@ She died (没有宾语)
 
 去年（状1）一个非常胖的（定1）胖丫头（主），非常热情的（状2）爱上了（谓）瘦瘦的(定2)你（宾）
 
-![公司推导](./images/gongsi.png)
+![公式推导](./images/gongsi.png)
 
 ----
 
@@ -239,11 +239,13 @@ offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在�
 
 - **The method** of scientific investigation **is** basically nothing but **the expression** of the necessary mode of working of the human mind in practice.
 
+**宾语是宾语之后的名词**
+
 - **Studies** of both animalas and humans in his recent research **have shown** the **impact** of sex hormones on stress response under the same conditions.
 
 - 祝寿
 
-they came to BJ to say happybirthday to qianlong.
+they came to BJ to say happy birthday to qianlong.
 
 - 在帮组国际社会于2030年前消除极端贫困过程中，中国正扮演者越来越重要的角色。自20世纪70年代末实施改革开放以来，中国已使多达四亿人摆脱了贫困。
 In the process of ending extreme poverty before 2030 for then world, China is playing a role that is more and more important. Since apllying the open and reform policy from late 1970s, China has helped as many as 400 million people get rid of poverty.
