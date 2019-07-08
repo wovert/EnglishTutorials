@@ -232,6 +232,8 @@ offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在�
 **宾语是谓语之后的名词**
 
 - **Studies** of both animalas and humans in his recent research **have shown** the **impact** of sex hormones on stress response under the same conditions.
+  - 研究显示出影响
+  - 在他的最近研究当中动物和人类的研究已经显示出了在相同的情况之下在对压力放映上性荷尔蒙的影响力。
 
 - 祝寿：they came to BJ to say happy birthday to qianlong.
 
@@ -269,9 +271,9 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - Science, in practice, depends less on the experiment it prepares than on the preparedness of the minds of the men who watch the experiments.
 
 - in practice, 插入语
-- less ... than ... 与其 ... 不如....
+- 转折：less ... than ... 与其 ... 不如....
 
-- , and element (in national economic life) (representing the irresponsible wealth) (detached) (from the land and the duties) of (the land owners) and (almost equally detached) (from the responsible corporate management) of (commericial business conduct). 土地拥有者和土地责任制之间相分离，同时和商业行为和负责任的管理之间也几乎同样相分离代表了不负责任的财富的国家经济生活当中一个元素
+- , and element (in national economic life) (representing the irresponsible wealth) (detached) (from the land and the duties) of (the land owners) **and** (almost equally detached) (from the responsible corporate management) of (commericial business conduct). 土地拥有者和土地责任制之间相分离，同时和商业行为和负责任的管理之间也几乎同样相分离代表了不负责任的财富的国家经济生活当中一个元素
 
 - 贤者，处江湖之远而忧其君；居庙堂之高而忧其民。
 - 古文 -> 现代语 -> 翻译
