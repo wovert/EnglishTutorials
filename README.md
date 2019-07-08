@@ -227,7 +227,7 @@ offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在�
 
 - Although not so world widely accepted, people who are emotionally weak in daily business are often losers who are not able to fullfill any fruitful achievements in their lifetime that they endure.
 
-- **The method** of scientific investigation **is** basically nothing but **the expression** of the necessary mode of working of the human mind in practice.
+- **The method** of scientific investigation **is** basically nothing but **the expression** of the necessary mode of working of the human mind in practice. 科学调查的方法是基本上只不过是在实践中人类思维工作必要模式的的表达
 
 **宾语是谓语之后的名词**
 
