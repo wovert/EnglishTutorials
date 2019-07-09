@@ -323,6 +323,16 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 
 - Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors / in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.社会科学是试图去研究人类和他们追求的一种智力探索的分支，它同自然现象的研究中自然科学家用到了相同有逻辑、有条理、有体系和有理性的方法。
 
+The comming of age the postwar baby boom have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices in Japan. 战后婴儿潮的时代的来临已经限制了在日本已然之重牺牲个人的年轻人们的机会。
+
+Science moves forward, they say, not so much throught the insights of great men of genius as because of more ordinary things like improved techniques and tools. 他们说科学，与其说天分的伟人通过他们的洞察力向前推进，不如说向改进的技术和工具更加普通的事情的原因而向前推进。
+
+- 与其...不如
+  - so much .... as
+  - less ... then
+
+在昨天召开的中央会议上，习近平主席提出了对2020年北京冬奥会的准备工作的指导意见。In the central meeting held yesterday, President Xi proposed instructive comments on the preparation of Beijing winter Olympics in 2020.
+
 短语间分
 , 这 + 前词
 
