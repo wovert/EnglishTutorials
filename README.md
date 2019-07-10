@@ -287,54 +287,46 @@ In the process of ending extreme poverty before 2030 for then world, China is pl
 - I'm happy and you are so too.
 - I'm happy and so are you.
 
+The comming of age the postwar baby boom have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices in Japan. 战后婴儿潮的时代的来临已经限制了在日本已然之重牺牲个人的年轻人们的机会。
+
+Science moves forward, they say, not so much throught the insights of great men of genius as because of more ordinary things like improved techniques and tools. 他们说科学，与其说天分的伟人通过他们的洞察力向前推进，不如说向改进的技术和工具更加普通的事情的原因而向前推进。
+
+- not only ... but also 不仅，如此
+- 转折: 与其，不如
+  - so much .... as
+  - less ... then
+
+在昨天召开的中央会议上，习近平主席提出了对2020年北京冬奥会的准备工作的指导意见。In the central meeting held yesterday, President Xi proposed instructive comments on the preparation of Beijing winter Olympics in 2020.
+
 ## about time
 
 - 我昨晚已经看过这个电影了
 - I watched this movie last night. 一般过去式
 - I have watched this movie last night. 现在完成时
 
-## 公式的复习
-
-- not only ... but also 不仅，如此
-
-- 转折:与其，不如
-  - not so much ... as
-  - less ... then
-
 ## 插入语
 
 - , " --- 逗号，分好，破折号
 - , 并列语句也有可能
 
-## 插入语放置位置
+### 插入语放置位置
 
 - 原处：很多插入语
 - 首/尾: 很长插入语
 
-- The emphasis(强调) on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique one.
-
-插入语->状语->短语结构，不会名词开头
-
-- 过去和现在文化的分析所带去的一种跨文化的的视野结合起来之后。对于第一手收集的数据的强调，使这个研究成为一个独特的科学。
+- The emphasis(强调) on data gathered(收集) first-hand, combined(结合) with a cross-cultural perspective(视野) brought to the analysis of cultures past and present, makes this study a unique one.
+  - 插入语->状语->短语结构，不会名词开头
+  - 过去和现在文化的分析所带去的一种跨文化的的视野结合起来之后。对于第一手收集的数据的强调，使这个研究成为一个独特的科学。
+  - 插入语=状语=短语结构
 
 - The United States is the product of two principal forces---the immigration of European peoples with heir varied ideas, customes, and national characteristics and the impact of a new country which modified these traits. 美国是两种主要力量的产物——欧洲人的移民有不同的想法，习惯，国家特征以及一个新国家的影响他们改变了这些特征
 
 - 并列: ...., ..., ..., and ...
+- , ",-- => 插入语或并列（大于2个时候）
 
-- Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors / in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.社会科学是试图去研究人类和他们追求的一种智力探索的分支，它同自然现象的研究中自然科学家用到了相同有逻辑、有条理、有体系和有理性的方法。
-
-The comming of age the postwar baby boom have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices in Japan. 战后婴儿潮的时代的来临已经限制了在日本已然之重牺牲个人的年轻人们的机会。
-
-Science moves forward, they say, not so much throught the insights of great men of genius as because of more ordinary things like improved techniques and tools. 他们说科学，与其说天分的伟人通过他们的洞察力向前推进，不如说向改进的技术和工具更加普通的事情的原因而向前推进。
-
-- 与其...不如
-  - so much .... as
-  - less ... then
-
-在昨天召开的中央会议上，习近平主席提出了对2020年北京冬奥会的准备工作的指导意见。In the central meeting held yesterday, President Xi proposed instructive comments on the preparation of Beijing winter Olympics in 2020.
-
-短语间分
-, 这 + 前词
+- Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors / in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena.社会科学是试图去研究人类和他们追求的一种智力探索的分支，它同(指向分支，**这**)自然现象的研究中自然科学家用到了相同有逻辑、有条理、有体系和有理性的方法。
+  - 短语间分
+  - , 这(前词)
 
 ## about time 时态
 
