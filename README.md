@@ -298,12 +298,6 @@ Science moves forward, they say, not so much throught the insights of great men 
 
 在昨天召开的中央会议上，习近平主席提出了对2020年北京冬奥会的准备工作的指导意见。In the central meeting held yesterday, President Xi proposed instructive comments on the preparation of Beijing winter Olympics in 2020.
 
-## about time
-
-- 我昨晚已经看过这个电影了
-- I watched this movie last night. 一般过去式
-- I have watched this movie last night. 现在完成时
-
 ## 插入语
 
 - , " --- 逗号，分好，破折号
@@ -332,28 +326,43 @@ Science moves forward, they say, not so much throught the insights of great men 
 
 - 为啥英文有时态 中文没有？
 
-- I watched this moive last night.我昨晚已经看过这个电影了
-- I have watched this movie last night.我昨晚前已经看过这个电影了
+- I **watched** this moive last night. 我**昨晚**已经看过这个电影了（点时态）
+- I **had watched** this movie last night.我**昨晚前**已经看过这个电影了（段时态）
+
+### 时态分类
+
+- 点时态
+- 段时态
 
 ### 点时态
 
 > 时间点，精确到时间点
 
-- 一般现在：表示常态，规律，习惯
-  - The sun rises in the east.
-  - We are going to leave tomorrow, the train leaves at 6:00.
+#### 一般现在
 
-- 一般过去：过去的就过去了；过去的，具体时间的动作或者没有延续到现在的状态
-  - I saw him last night.
-  - I was a boy.
-  - I tried to help her.
+> 表示常态，规律，习惯
 
-- 一般将来：打算，计划，说说未来，说说而已
-  - I will be back!
-  - She is going to kill you!
-  - 区别？
+- The sun rises in the east.
+- We are going to leave tomorrow, the train leaves at 6:00. (leaves:穷，不管我们离不离开火车都会离开)
+
+#### 一般过去
+
+> 过去的就过去了；过去的，具体时间的动作或者没有延续到现在的状态
+
+- I saw him last night.
+- I was a boy.
+- I tried to help her.
+
+#### 一般将来
+
+> 打算，计划，说说未来，说说而已，并不确定；推测
+
+- will + v
   - You will die. 客观性
+- be going to do
   - You are going to die. 主观性
+- I will be back!
+- She is going to kill you!
 
 条件从句一般表示将来：If you come, I will be happy.
 
@@ -361,11 +370,16 @@ Planing so far ahead () no sense-so many things will have changed by next year.
 
 A.made B.is making C.makes D.has made
 
-### 进行 更加精确的点
+### 进行
 
-- 现在/过去/将来 的进行 表达不同时候的精确动作
-  - I am working now.
-  - He was crying when i came in.
+> 更加精确的点时态，正在做
+
+#### 现在/过去/将来 的进行
+
+> 表达不同时候的精确动作
+
+- I am working now.
+- He was crying when i came in.
 
 - 现在的进行 也能表达将来和惯例
   - I am coming!
@@ -382,20 +396,35 @@ A.made B.is making C.makes D.has made
 
 > 完成。现在开始到之前时间段
 
+![段时态](./images/about_time.png)
+
 - 动作：已经发生
 - 状态 持续
 
-- 现在：到现在为止 have/has + 过去分词
-  - I have married now. 现在为止
-- 过去：过去之前 /had/ + 过去分词
-  - I had married before I met you. 过去为止
-- 将来完成：未来某个时间之前 will have + 过去分词
-  - I will have married before 2050. 将来为止
-  - I had been happy in the whole 2015.
-- 其他时态：杂交
-  - I was going to marry you. （曾经打算）过去将来时
-  - I have been waiting for you. 现在完成进行时
-  - I have waited for you.
+#### 现在：到现在为止
+
+> have/has + ved(过去分词)
+
+- I have married now. 现在为止
+
+#### 过去：过去之前
+
+> /had/ + ved(过去分词)
+
+- I had married before I met you. 过去为止
+
+#### 将来完成：未来某个时间之前
+
+> will have + ved(过去分词)
+
+- I will have married before 2050. 将来为止
+- I had been happy in the whole 2015.
+
+#### 其他时态：杂交（段+点）
+
+- I was going to marry you. （曾经打算）过去将来时
+- I have been waiting for you. 现在完成进行时(过去+现在，>=现在)
+- I have waited for you.(>现在)
 
 - 今年在长沙举行了一年一度的外国人汉语演讲比赛。这项比赛证明是促进中国和世界其他地区文化交流的好方法。它为世界各地的年轻人提供了更好地了解中国的机会。
 
