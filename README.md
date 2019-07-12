@@ -426,38 +426,52 @@ A.made B.is making C.makes D.has made
 - I have been waiting for you. 现在完成进行时(过去+现在，>=现在)
 - I have waited for you.(>现在)
 
-- 今年在长沙举行了一年一度的外国人汉语演讲比赛。这项比赛证明是促进中国和世界其他地区文化交流的好方法。它为世界各地的年轻人提供了更好地了解中国的机会。
+- 今年在长沙（我们）举行了一年一度的外国人汉语演讲比赛。这项比赛证明是促进中国和世界其他地区文化交流的好方法。它为世界各地的年轻人提供了更好地了解中国的机会。
+  - This year, we held in Changsha a speech contest of chinese for foreigners once a year.
 
-- This year, we held in Changsha a speech contest of chinese for foreigners once a year.
+- 我一直很爱你，你却去找他。哦！年底之前你必后悔！
+  - I have been loving you(过去现在依然爱你),
+  - I have loved you(过去爱你)，you went to see him. You will have regreted before then end of the year(将来完成).
+  - 年底：时间点
+  - 年底之前：时间段
 
 - 《维特根斯坦》导师 - 罗素
 
+- 颠覆是成长的最快捷径
+
 ## 虚拟
+
+> 假的，假设
 
 - 过去时=>过去完成时
 - 现在时=>过去时
 - 将来时=>过去时
 
-- 基本模式：时态后移
+- 基本模式：时态后移（现在变成过去，第一人人称变换）
   - 如果我是你，我就弄死他 If I were you, I would kill him.
     - 时态一定要变错，be动词变错，最终说明我不是你
 
-如果我是个女的，我就嫁给他
-
-- 现在
-  - If I were a woman, I would marry him. 虚拟-故意弄错，提醒对方
-  - If I am a woman, I will marry him. 不是虚拟(去泰国/韩国)
+- 如果我是个女的，我就嫁给他
+  - 现在
+    - If I were a woman, I would marry him. 虚拟-故意弄错，提醒对方
+    - If I am a woman, I will marry him. 不是虚拟(去泰国/韩国)
 
 - 过去
-  - If I had come last night, I wouldn't have missed you performance.
+  - If I had come last night（本来是过去时，变成过去完成时）, I wouldn't have missed you performance（过去时=>过去完成时）.
   - 对比：If i came last night, I wouldn't miss your performance.
 
 - 将来
-  - If I should die tomorrow, I would die with honor.
+  - If I should(were to) die tomorrow, I would die with honor.
+
+- In Japan, over 20 thousand people die from smoking each year.
+  - If they didn't, they wouldn't die.
+
+- I borrowed money from the bank.
+  - If I hadn't borrowed, I wouldn't have been poor.
 
 - 杂交
   - 过去/将来
-    - 如果我早点认识你(过去)，我明天就和他离婚(将来)。
+    - 如果我早点认识你(过去=>过去完成，虚拟)，我明天就和他离婚(将来=>过去，虚拟)。
     - If I had met you earlier, I would divorce him to tomorrow.
 
 ## 重建单词精神家园
