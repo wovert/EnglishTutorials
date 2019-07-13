@@ -478,6 +478,8 @@ A.made B.is making C.makes D.has made
 
 ### C
 
+> 包含，覆盖，转圈
+
 - contain 包含
 - cover 锅盖/覆盖/采访(covered a news)
 - close 关闭
@@ -503,6 +505,7 @@ A.made B.is making C.makes D.has made
 - anticlockwise 逆时针方向
 - cabbage 包菜
 - ceive\cept 拿\词根抓; 取
+  - ceive-cept 握有
 - cabin 机舱
 - cabinet 内阁
 - canvas 帆布
@@ -513,11 +516,11 @@ A.made B.is making C.makes D.has made
 - cave 山洞
 - ceiling 天花板
 - chair 椅子 stool/凳子
-- chairman 主席
+- chairman 主席/会长/董事长
 - center 中心
 - core 核心
-- cuddle 拥抱
-- calefaction 温暖（的状态）
+- cuddle 搂抱，拥抱
+- calefaction n.温暖（的状态）
 
 - 第一次来到中国的外国人经常为在这个国家为经济发展而付出的环境代价而震惊。
 - **Foreigners** who came to China for the first time **are often shocked** by the environmental price paid for the economic growth in this Country.
