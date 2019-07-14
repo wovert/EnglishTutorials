@@ -526,9 +526,11 @@ A.made B.is making C.makes D.has made
 - **Foreigners** who came to China for the first time **are often shocked** by the environmental price paid for the economic growth in this Country.
 
 - 虚拟复习
-- 如果我不爱你，我就不会告诉你这个了。If I hadn't loved you, I would't have told you about it.
+- 如果我不爱你，我就不会告诉你这个了。
+  - If I hadn't loved you, I would't have told you about it.
 
-- 是码？如果你爱我，你早就告诉我了。Really? If you had loved me, you would have told me earlier.
+- 是码？如果你爱我，你早就告诉我了。
+  - Really? If you had loved me, you would have told me earlier.
 
 ## 虚拟的延伸
 
