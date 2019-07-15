@@ -474,9 +474,44 @@ A.made B.is making C.makes D.has made
     - 如果我早点认识你(过去=>过去完成，虚拟)，我明天就和他离婚(将来=>过去，虚拟)。
     - If I had met you earlier, I would divorce him to tomorrow.
 
-## 重建单词精神家园
+- 第一次来到中国的外国人经常为在这个国家为经济发展而付出的环境代价而震惊。
+- **Foreigners** who came to China for the first time **are often shocked** by the environmental price paid for the economic growth in this Country.
 
-### C
+- 虚拟复习
+- 如果我不爱你，我就不会告诉你这个了。
+  - If I hadn't loved you, I would't have told you about it.
+
+- 是码？如果你爱我，你早就告诉我了。
+  - Really? If you had loved me, you would have told me earlier.
+
+## 虚拟的延伸
+
+### 隐含的虚拟
+
+- What would you do with a million dollars? 虚拟假设，穷(would)
+- what will you do with a millon dollars? 已经有钱，富(will)
+- Without water, we would all die now. 虚拟
+- If there were no water, we would al die now.
+
+### 自带虚拟色彩的词组
+
+- If only I were a girl! 如果我是一个女. 如果...就好了
+  - only if 只有我
+- If only I were in Australia.
+
+- It is time that we went home!. 现在该是...的时候了
+  - 虚拟跟真实正好相反
+
+- I wish I were rich. 我希望我有钱。 祝福于反现实
+  - wish 虚拟的
+  - hope 真实的
+
+- I would rather she were a man. 我宁愿她是男的。
+  - 选择性障碍，与真实相反
+
+## C
+
+- core/center/capital
 
 > 包含，覆盖，转圈
 
@@ -522,43 +557,6 @@ A.made B.is making C.makes D.has made
 - cuddle 搂抱，拥抱
 - calefaction n.温暖（的状态）
 
-- 第一次来到中国的外国人经常为在这个国家为经济发展而付出的环境代价而震惊。
-- **Foreigners** who came to China for the first time **are often shocked** by the environmental price paid for the economic growth in this Country.
-
-- 虚拟复习
-- 如果我不爱你，我就不会告诉你这个了。
-  - If I hadn't loved you, I would't have told you about it.
-
-- 是码？如果你爱我，你早就告诉我了。
-  - Really? If you had loved me, you would have told me earlier.
-
-## 虚拟的延伸
-
-### 隐含的虚拟
-
-- What will you do with a million dollars? 虚拟假设，穷
-- what will you do with a millon dollars? 已经有钱，富
-- Without water, we would all die now. 虚拟
-- If there were no water, we would al die now.
-
-### 自带虚拟色彩的词组
-
-- If only I were a girl! 如果我是一个女. 如果...就好了
-  - only if 只有我
-- If only I were in Australia.
-
-- It is time that we went home!. 现在该是...的时候了
-
-- 虚拟跟真实正好相反
-
-- I wish I were rich. 我希望我有钱。 祝福于反现实
-
-- I would rather she were a man. 我宁愿她是男的。
-
-## 升级版的 C
-
-包: core/center/capital
-
 ### 第一组 clos/clud
 
 > 关闭/关门
@@ -567,11 +565,12 @@ A.made B.is making C.makes D.has made
   - A secret has been disclosed. 一个秘密已经揭开了。
 - enclose(关进去，包含进)
   - A letter is enclosed in this bag.
+
 - include(包含)
   - He is a very inclusive person. 他是一个非常有包容性的人
 - exclude (v. 排除)
   - e = ex 出去
-  - exclusive(为什么高档的)，专项的
+  - exclusive 高档的，(为什么高档的)，专项的（排他性）
 
 - preclude (pre 提前时间) 预防
   - prepare 提前准备
@@ -580,13 +579,13 @@ A.made B.is making C.makes D.has made
 - conclude v. 结论
   - n. conclusion
   - con/com/co 一起
-  - reach a conclusion. 得出结论;达成一个结论
+  - reach a conclusion. 得出结论; 达成一个结论
 
 - seclusion 隐居
   - se + clu + sion
     - secret
 
-## 第二组 circ/cyc 圈
+### 第二组 circ/cyc 圈
 
 - circle
 - bicycle
@@ -612,7 +611,7 @@ A.made B.is making C.makes D.has made
 - encircle
   - en + circle (包围)
 
-## 第三组 cap 大覆帽
+### 第三组 cap 大覆帽
 
 - captain 警官/船长
 - capture 抓
@@ -620,7 +619,7 @@ A.made B.is making C.makes D.has made
 - captive 囚犯
 - capital 首领
 
-## 第四组 -ceive/-cept 接受(抱抱=>C)
+### 第四组 -ceive/-cept 接受(抱抱=>C)
 
 - receive 接收
 - acceept 接受
