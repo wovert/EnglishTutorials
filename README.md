@@ -663,9 +663,8 @@ A.made B.is making C.makes D.has made
 ## 中文双黄蛋的困境:省略
 
 - (我们)垃圾分类,从我做起(这件事)
-- 中文意会
-
-- 英文: 滴水不漏
+- 中文：意会
+- 英文：滴水不漏
 
 - 朋友们按照传统在过年的时候会互致问候,(并且)一些人还会送给对方新年礼物. Friends will exchange greetings on new year day according to our traditions, and some may also give presents to each other.
 
@@ -693,6 +692,7 @@ A.made B.is making C.makes D.has made
 
 - 手机英文版
 - 电脑英文版
+- 场所贴纸
 
 ## j
 
