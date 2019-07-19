@@ -706,13 +706,14 @@ A.made B.is making C.makes D.has made
 - project v.投射(pro+ject，向前扔) n. 项目(未来的计划)
   - 重音在前名词，重音在后动词
   - projector 投影仪
+- re 回扔
 - reject v.拒绝（往回扔）, 强硬， decline v.客气拒绝
   - refuse
 - interject(inter中间/际) 介入、插入、干涉
   - internet 网络
-- object (ob 相对，相对) v. 反对; n.物体(与主观世界相对的，与内心世界相对，所以是物理)
+- object (ob 相对，相反) v. 反对; n.物体(与主观世界相对的，与内心世界相对，所以是物理)
   - objection n.反对(法庭)
-  - objective 客观的
+  - objective n.目标；目的，adj. 客观的
 - sub 方位(具体)：下面； 私下（抽象）：内心
   - subway 地铁
   - subjective 主观的
