@@ -795,7 +795,7 @@ I like girls who have long hair.
 ### 有几种定语从句？只有两种
 
 - 人：who
-- 物：which
+- 物：which（观点，想法）
 
 ### 定语从句形成过程
 
@@ -826,9 +826,8 @@ in which = where
 
 介词不提前：This is the book which I am looking for(寻找：look for).
 
-on which
-
-of which
+- on which
+- of which
 
 我都忘记你过来的日子了。
 
@@ -877,27 +876,25 @@ for which = why
 
 ### whom
 
-我认识那个你喜欢的男孩
-
-I know the boy. You like the boy.
-
-I know the boy you like the body.
-
-I konw the boy who you like. 不严谨
-
-I konw the boy whom you like. 严谨
-
-I konw the body you like. 简略（you like 主+谓）,宾语可以省略
+- 我认识那个你喜欢的男孩
+- I know the boy. You like the boy.
+- I know the boy you like the body.
+- I konw the boy who you like. 不严谨
+- I konw the boy whom you like. 严谨（因为the boy是宾语）
+- I konw the body you like. 简略（you like 主+谓）,宾语可以省略
 
 #### whom 宾语
 
 She is the girl to whom I owe an apology. 她是一个女孩对她我欠一个道歉。
 
-I love my father, who is good to me. 插入语，**唯一性**，补充说明。我爱我爹，他对我很好
-
-- He did not return last night, which makes me sad. 非限定，which **前面整句** 他昨天没有回来，这件事情让我疯掉。
+- I love my father, who is good to me. 插入语，就是**唯一性**，就是补充说明。我爱我爹，他对我很好
+- He did not return last night, which makes me sad. 非限定，which指的是**前面整句** 他昨天没有回来，这件事情让我疯掉。
 - He did not return last night. It makes me sad.
 - He did not return last night; It makes me sad.
+
+- 非限定
+  - 唯一性
+  - 前面整句
 
 - 连接词：
   - (),() and()
@@ -906,13 +903,15 @@ I love my father, who is good to me. 插入语，**唯一性**，补充说明。
 ### That 偷懒行为
 
 - who, whom => that
-- 不用 that 的两个地方: in which(whose, in which), 非限定
+- 不用 that 的两个地方
+  - in which(whose, in which), when, where
+  - 非限定
 
 - I hate the city in which I met hime.
 - I hate the city in that I met hime. 不能这么转，**in that** 是**原因**的意思，有歧义产生
 
-- 介词+which，或 whose(which's) 不可以使用 that
-- who,which,when => that
+- 介词 + which，或 whose(which's) 不可以使用 that
+- who, which, when => that
 
 ### 必须用 that
 
