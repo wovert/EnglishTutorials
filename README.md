@@ -928,7 +928,7 @@ You are the **most** beautiful girl **that** I have ever seen.
 - 英语：(状1) 主语(定1) 谓语(状2) (宾语) (定2\状1)
 - 中文：(状1\定1)) 主语(状2) 谓语(定2) (宾语) (状1)
 
-什么是句子？主谓，but 主谓
+什么是句子？主谓,连接词, 主谓
 
 什么是两句话
 
@@ -971,38 +971,39 @@ absolute stracture
 
 - If you still love me, you should marry me.
 - Still love me, you should marry me. love 与 marry 都是动词并列冲突，love动词 => loving 分词
-- Still loving me, you should marry me. 主干在后一句
+  - Still loving me, you should marry me. 主干在后一句
 
 - When I was a boy, I fell in love with her.
-- Being a boy, I fell in love with her. was主动 => Being 分词, was被动 = been
+  - Being a boy, I fell in love with her. was主动 => Being 分词, was被动 = been
 
 - Because she knows what I need, she can provide a right answer.
-- Knowing what I need, she can provide a right answer. 知道我需要什么，她能提供一个正确的答案 Because 可以推出来，she 后面有she重复了，可以去掉。
+  - Knowing what I need, she can provide a right answer. 知道我需要什么，她能提供一个正确的答案 Because 可以推出来，she 后面有she重复了，可以去掉。
 
 - As he was elected as the new president, he became prudent(谨慎).
-- Elected as the new president, he became prudent.
+  - Elected as the new president, he became prudent.
 
 - Because he has finished his home work, he is allowed to play video games.
-- Having finished his home work, he is allowed to play video games.
+  - Having finished his home work, he is allowed to play video games.
 
 - After his health was better, he joined the army.
-- Health being better, he joined the army.
-- Health better, he jointed the army.
+  - Health being better, he joined the army.
+  - Health better, he jointed the army.
 
 - When I was a boy, I fell in love with T.
-- Being a boy, I fell in love with T.
+  - Being a boy, I fell in love with T.
 
 There being no bus, we had to walk home.
 
 ### 超级独立结构
 
+- When I was a boy, my father taught me to swim.
+  - I being a boy, my father taught me to swim.
+
 宾语去掉
 
-If Sunday is OK, we' d like to go outing.
-
-Sunday being OK, we'd like to go outing.
-
-Sunday OK, we'd like to go outing.
+- If Sunday is OK, we' d like to go outing.
+- Sunday being OK, we'd like to go outing.
+- Sunday OK, we'd like to go outing.
 
 - He wrote a lot of novels, many of which were translated into foreign languages.
 - He wrote a lot of novles, and many of them were translated into foreign languages.
