@@ -1034,6 +1034,7 @@ There being no bus, we had to walk home.
 - effect 效果;影响；作用
 - educate 教育
   - duce 引导
+    - introduce 介绍
 - ex-boyfriend 前男友
   - ex 前任
 - egg 鸡蛋
@@ -1078,23 +1079,27 @@ There being no bus, we had to walk home.
 > line 线条 , 绞丝旁
 
 - drop me a line! 给我写封信
-- line list(名单，清单) list company(上市公司) loop lure(诱饵) leak(泄露) link lip(嘴唇) long leg length
+- line list(名单，清单)
+- listed company(上市公司)
+- lip(嘴唇)
 - It is important to understand the writer's meaning between the lines. 字里行间（潜台词）
 - in line with 符合，根据
   - In line with the customs of the school, the students had a holiday between Christmas and New Year's Day.
 - lace(花边)
 - landscape(风景线)
-- latitude(纬度) lngitude(经度)
+- latitude(纬度) longitude(经度)
 - lane(车道, 过道)
 - liner(航线)
-- loop 圆圈 = circle
+- loop(圆圈) = circle
 - lure 引诱，诱惑，勾**引**
 - leak 泄露
 - link 链接
 - longing for 渴望
 - leg 腿
 - length
-- literate(adj. 有文化的) illiterate(文盲的) literature(文学, 文字=>线条)
+- literate(adj. 有文化的)
+- illiterate(文盲的)
+- literature(文学, 文字=>线条)
 - let/lect/log 说
 - a loaf of 一条
 - label 标签
@@ -1107,8 +1112,12 @@ There being no bus, we had to walk home.
 - limb 枝干
 - limit 限制
   - eliminate v. 排除，清除
-- lecture(演讲) dialect(方言) legend(传奇, 向下说) allege(宣告)
-- legal/legitimate(合法的) illegal(非法的)
+- lecture(演讲)
+- dialect(方言)
+- legend(传奇, 向下说)
+- allege(宣告)
+- legal/legitimate(合法的)
+- illegal(非法的)
 - legislation(立法权)
 - dialogue(对话)
 - in terms of 关于
@@ -1125,14 +1134,15 @@ There being no bus, we had to walk home.
 - lantern(灯笼) festival(节) 元宵节
 - lunar(月亮)
 - lunar new year(农历)
-- illuminate(说明，说清楚) = eligthen
-  - imply 说明
-  - ilustrate 说清楚
-- Your noble character illuminates our pure hearts and minds
 
-### 流明
+- 流明
+  - lumen, 符号lm 是光通量的国际单位
+  - illuminate(说明，说清楚) = eligthen
+    - imply 说明
+    - ilustrate 说清楚
+  - Your noble character illuminates our pure hearts and minds
 
-- night 夜晚 => no light
+- night(夜晚) => no light
   - n 否定；没有
 - laser 镭射/激光
 - elapse 流逝/匆忙(e+lapse)
@@ -1141,7 +1151,7 @@ There being no bus, we had to walk home.
 
 ugly, reading more.
 
-逝者如斯夫，不舍昼夜
+逝者如斯夫，不舍昼夜。形容时间像流水一样不停地流逝，一去不复返，感慨人生世事变化之快，亦有惜时之意在其中
 
 出生在中国，我们百毒不侵。Because we were born in China, we are immune of all poisons. Born in China, we are immune to any poison. immune 免疫
 
