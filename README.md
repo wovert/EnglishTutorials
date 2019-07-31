@@ -1165,11 +1165,12 @@ A new president has been elected as the leader. He will give a lecture aobut how
 
 That you love her is a lie. 主语从句 that 不能去掉。但是主语太长了，所以变成 It is a lie that you love her. it 指向 that you love her.
 
-I think that she is right. I think she is right. 宾语从句 that 可以去掉
+I think that she is right. I think she is right. 宾语从句 that 可以去掉.
 
 What your name is is a secret. 你叫什么是一个秘密. It is a secret that what your name is.
 
-Who you are is a secret. 你是谁是一个秘密
+- Who you are is a secret. 你是谁是一个秘密
+- It is a secret who you are.
 
 I know what you think. 我知道你想什么
 
@@ -1182,7 +1183,7 @@ I know what you think. 我知道你想什么
 ### 宾语从句的反问
 
 - She is pretty, isn't she?
-- I new thought that he would come for the dinner pary, wouldn't he?
+- I never thought that he would come for the dinner pary, wouldn't he?
 - She belives that you are right, doesn't she?
 - We believe you can do it, ....? can't you
 - I am a boy, aren't I?
