@@ -1192,6 +1192,7 @@ I know what you think. 我知道你想什么
 ## P 类词
 
 > flag 旗帜(旗帜的意义演变：标志位置、放置、领导)
+
 > 最原始的位置标记：piss/pee (小狗在树木附近尿尿)
 
 - pose 姿势(v.放置)
@@ -1226,6 +1227,7 @@ I know what you think. 我知道你想什么
 
 - dispose 扔掉
 - deposit (de向下) 存钱
+
 - withdraw (draw 拉, with 带) 取钱
 
 - oppose (o=ob) 反着放，v.反对 opponent n.对手
