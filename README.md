@@ -1332,7 +1332,7 @@ never, seldom, scarcely, hardly(几乎不), nowhere, nolonger
 - A cat lies in the house. 强调房间里头
   - In the house lies a cat. 变成了中文语序。房间里躺着一只猫
 - My love comes now. => Now comes my love
-- 强调名词：I can understand him only in this way. => It is him that I can understand only in this way.
+- I can understand him only in this way. => It is him that I can understand only in this way. 强调名词him
 - It is I that love you. 强调句去掉(It is that)，获取主干.
 - It is important that you go home. you go home is important.
 - It is you that I love. 强调宾语（名词或代词）
