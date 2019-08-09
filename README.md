@@ -1346,7 +1346,7 @@ never, seldom, scarcely, hardly(几乎不), nowhere, nolonger
 ## T
 
 > tT => 足字旁
-> 英文中表达 t => 走 => 进行，过程，路径
+> 英文中表达 t => 走 => 进行，**过程**，路径
 
 - to(介词，去做 go to scholl, I want to go home)
 - this/that
@@ -1362,19 +1362,21 @@ never, seldom, scarcely, hardly(几乎不), nowhere, nolonger
 - together
 - tide 潮流
 - time
-- ten 走 —— 延伸 ——> extend v.伸展(向外)、扩张 => expand(近义词) n.extent 范围(扩张后的范围)  adj. extensive 广泛的(扩张很开的) extensive reading (广泛阅读)
-- intend (in 心里面的延伸) 打算、计划 n.intention, intentional 故意的(打算好了的)
+- ten 走 ——> 延伸出
+  - extend v.伸展(向外)、扩张 => expand(近义词) n. extent 范围(扩张后的范围)  adj. extensive 广泛的(扩张很开的) extensive reading (广泛阅读)
+  - intend (in 心里面的延伸) 打算、计划 n.intention, intentional 故意的(打算好了的)
 - tend v.打算
-- I tend to read. 我倾向于读书 tend to do 倾向于做
-- trend n.趋势(走)
-- tent n.帐篷()
-- contend v.撕逼，竞争，斗争，撕扯(con一起拉)
-- pretend v.假装（提前做好）
-- intensive adj. 紧密的 intensive reading 精读
-- extensive reading 泛读
-- attend vt.参加（走过去）、出席、列席
-- tension n.紧张（张：拉紧）
-- tense 时态(来自于time延伸, 过去/现在/将来)
+  - I tend to read. 我倾向于读书 tend to do 倾向于做
+  - trend n. 趋势(走)
+  - tent n. 帐篷
+  - contend v. 撕逼，竞争，斗争，撕扯(con一起拉)
+  - pretend v. 假装（提前做好）
+  - intensive adj. 紧密的 
+    - intensive reading 精读
+  - extensive reading 泛读
+  - attend vt.参加（走过去）、出席、列席
+  - tension n. 紧张（张：拉紧）
+  - tense 时态(来自于time延伸, 过去/现在/将来)
 - temp 走 -> 延伸，过程 => 太阳（行进的过程当中）
   - temple n. 庙宇；寺院；神殿；太阳穴；
   - tempation n.魅力
@@ -1382,17 +1384,17 @@ never, seldom, scarcely, hardly(几乎不), nowhere, nolonger
     - You are tempted(lured 诱饵，引诱) to learn English. 你被诱惑来学英语
   - contempt (con 相反) 鄙视（崇拜相反），  in contrast 相反， CS(conter strike)  反恐精英
 - 太阳 => 时间（建国门博物馆，日晷gui3）
-- temporary 临时的
-- contemporary 同时的
-- tempo 节奏
-- template 样品(临时用的)
-- attempt 吸引（勾引去做）
+  - temporary 临时的
+  - contemporary 同时的
+  - tempo 节奏
+  - template 样品(临时用的)
+  - attempt 吸引（勾引去做）
 - temperature n.温度
 - tempest 风暴(极端温度)
 - temper 上火、脾气
   - lose templer 发脾气
 - temperament n.气质，修养 （脾气决定气质）
-- trans(走有关)
+- trans(走有关) 
 - tract 地域
 - extract(提取、抽出、抽取) distract（转义、分心） contract(收缩；契约；合约)
 - trip 远足
