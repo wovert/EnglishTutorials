@@ -1449,7 +1449,7 @@ I sin cerely **hope that** the world can join hands, maintain the ideology of sh
 - Tonight is with you.
 - Tonight is for you.
 
-### 简约之美
+### 3.简约之美
 
 - To have a government that is of people, for people, by people. 民有/民享/民治
 - Ask not what can be done **for** you, but what can be done **by** you! 不要追求所得，要追求付出（为，被） - 罗斯福
