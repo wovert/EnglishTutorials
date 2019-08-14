@@ -1457,13 +1457,14 @@ I sin cerely **hope that** the world can join hands, maintain the ideology of sh
 
 ### 第一阵营
 
-#### `on/off`(f：飞，原理)
+> `on/off`(f：飞，原理)
 
-- `on` 之源，接触，依赖，依赖
-- `on` 在常用**时间地点**上的意义
+#### `on` 接触，依赖
+
+> 在常用**时间地点**上的意义
 
 - `at/on` 某个时间点上
-- `in the morning` （in  长期范围之内），morning(太阳升起到中午)
+- `in the morning` （in 长期范围之内），morning(太阳升起到中午)
 - `in the afternoon` （12点以后，下午）
 - `in the evening`
 - `at noon` 中午(12点), `at` 更加具体化
@@ -1480,28 +1481,28 @@ I sin cerely **hope that** the world can join hands, maintain the ideology of sh
 - `call on` 拜访
 - `call at` 拜访
 
-- `keep an eye on` 留意，照看 (眼神接触)
-- `depend on` 依靠
-- `concentrate on` 关注
-- `focus on` 聚焦
-- `Apples are on the tree.` 苹果在树上
-- `I stand on the head.` 倒立
-- `Lie on my side.` 侧躺
-- `go on => v. + on` 继续
-- `work on, fight on`
-- `lean on/against(针对) the wall`. 靠墙
+  - `keep an eye on` 留意，照看 (眼神接触)
+  - `depend on` 依靠
+  - `concentrate on` 关注
+  - `focus on` 聚焦
+  - `Apples are on the tree.` 苹果在树上
+  - `I stand on the head.` 倒立
+  - `Lie on my side.` 侧躺
+  - `go on => v. + on` 继续
+  - `work on, fight on`
+  - `lean on/against(针对) the wall`. 靠墙
 
 #### on 上对下
 
 a cup on the table.
 
-#### be based on 已..为基础
+`be based on` 已..为基础
 
 `Don't be too hard on me`. 别对我太苛刻
 
 `Please keep an eye on her!`
 
-`His words have great impact on me.` 上对下，（压力），to me(平辈之间)
+`His words have great impact on me.` 上对下，（压力），**to** me(平辈之间)
 
 `This book is important to me.`
 
@@ -1539,8 +1540,6 @@ a cup on the table.
 
 `on sale` 打折，销售状态
 
-`on purpose` 故意
-
 `on vacation` 度假
 
 `You turned me on!` 你让我很来电，一见倾心。  `This book turns me on.`
@@ -1557,7 +1556,7 @@ a cup on the table.
 
 > 脱离、离开，离去，掉，从...离开,从...脱离
 
-- ff => fly fly => 脫離，off load越野车
+- ff => fly fly => 脱离，off load 越野车
 - offspring 冒出/彈出,  子孙后代，血口喷人
 - off 跟脱离有关
 - They had an off-book(离开本子，私下的，不记录的) meeting.
@@ -1613,7 +1612,7 @@ a cup on the table.
   - knockout 打晕（精神没了）
   - a knockout 击晕
   - K.O 游戏 knockout
-- keep kim off smoking 保持远离抽烟
+- keep him off smoking 保持远离抽烟
 
 > out: 出于/出自 => 由于 => 因为
 
@@ -1655,7 +1654,7 @@ board:板子， book, bar 酒吧(木棍，木板，吧台不可缺少)， buck(�
 
 1. 靠近：stand by(待发)；顺便提一下；by the way;
 2. 靠...方式：by car, by bike
-3. 时间靠近，截止：You must finish it by 8:00. 最晚8:00之前，类似于 before
+3. 时间靠近，截止(类似before)：You must finish it by 8:00. 最晚8:00之前，类似于 before
 
 ### Across（穿越）-throught(抽象) 通过
 
