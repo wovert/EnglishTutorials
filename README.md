@@ -1663,52 +1663,71 @@ board:板子， book, bar 酒吧(木棍，木板，吧台不可缺少)， buck(�
 
 ### over-beyond 上面
 
-- over： 上面，越过（具体,动态），延伸出 => 完了，结束了 game over, we are over， over my dead body. 强拒绝 look over(忽视) go over(复习) 过一遍
+- over： 上面，越过（具体,动态），延伸出 => 完了，结束了 
+  - game over
+  - we are over
+  - over my dead body. 强拒绝
+  - look over(忽视)
+  - go over(复习) 过一遍
+  - over night 过夜
 - beyond：上面（抽象，静态）
-- God is beyond us.
-- My thanks to you is beyond words . 我对你的话超越了语言(溢于言表)
+  - God is beyond us.
+  - My thanks to you is beyond words . 我对你的话超越了语言(溢于言表)
 - around (转圈) over（正向）
 
-### up(向上，完)
+### up(向上，满，完成)
 
 - fill it up 把它填满
 - make it up 弥补
 - face lift 整容
 - dry up 干了
-- give up 放弃  give in 妥协
+- give up 放弃 
+- give in 妥协
 - breack up 完蛋了
-- live up to 不辜负，达成  We have live up to our parent's hope.
+- live up to 不辜负，达成
+- We have live up to our parent's hope.
 
 ## 动词
 
 ### 基本定义：动词和分词
 
-- 动词：谓语和不是谓语（分词）
+- 动词：**谓语**和不是谓语（**分词**）
 - A flying bird shits on me.
-- flying: 非谓语， shits: 谓语
+  - flying: 非谓语
+  - shits: 谓语
 
 #### 谓语
 
 1. 时态
-2. 语态
+2. 语态（虚拟，被动）
 3. 及物和不及物
 
 - 及物 vt.：**可以摸到的**， I like her.
   - t: tend 延伸，伸展
 - 不及物 vi.(**后面不能加名词**)：She dies in American
 
-4. 双性：begin start
+4. 双性：begin/start
 
-- The meeting begins. 开始
-- She begins a var. 开启
+- The meeting begins. 开始：不及物 vi
+- She begins a var. 开启：及物 Vt(t:走过去)
 
 5. 系动词：表示广东话当中的**是**的动词
 
 - 系(广东话) -> 是，**明的**是(am/is/are/was/were)和**暗的**是(look/feel/sound/touch),后面加形容词 adj.
   - 明：She is pretty. 她是漂亮的。
-  - 暗：She looks pretty. 她看起来是漂亮的。 ......起来时是...... 的
+  - 暗：She looks pretty. 她看起来是漂亮的。 ......起来是...... 的
 
-- be(是), seem(似乎), look(看来), keep(保持), become(变成), get(变得), grow(变得), feel(感到), turn(变得，变成), appear(显得), remain(仍旧是)
+- be(是)
+- seem(似乎)
+- look(看来)
+- keep(保持)
+- become(变成)
+- get(变得)
+- grow(变得)
+- feel(感到)
+- turn(变得，变成)
+- appear(显得)
+- remain(仍旧是)
 
 - It feels soft. 不用被动
 - Gropecunlane. 格洛普刊特累大街
@@ -1717,26 +1736,26 @@ board:板子， book, bar 酒吧(木棍，木板，吧台不可缺少)， buck(�
 - cun 逼
 - lane 小巷
 - He looked (carefully), but still looked.
-- Carefull的, Carefully 地
+  - Carefull的, Carefully 地
 - Perplexed/Perplexedly
 
-## 助动词
+### 助动词
 
-- V + v
+> V + v
 
 I want to marry you.
 
 v1 连接词？ v2 连接词？ v3
 
-1. v + to + v ： 常态
-2. v + v 原型
+1. v + to(过程) + v ： 常态
+2. v + v原型
 3. v + ving
 
 2,3 都是1的延伸
 
-### v1 + v2 加原型
+#### v1 + v2 加原型
 
-- `let/make/render/have/get` 让..人... 使去做
+- `let/make/render/have/get` 让..人... 使去做, 让别人做什么事情，急迫心情
 
 - I make him eat shit. 加原型可以to省略
 - He is made to eat shit.
@@ -1751,13 +1770,13 @@ v1 连接词？ v2 连接词？ v3
 - v + 片段(do+ing): I saw him working.
 - v + 整个过程(do原型) I saw him work.
 
-### v1 + to + v2 常态 去做
+#### v1 + to + v2 常态 去做
 
 > to 表示过程，v1，v2 有先后顺序
 
 - plan/want
 
-### v + ving 名词化（事情本身）
+#### v + ving 名词化（事情本身）
 
 > 表示已有的事情
 
@@ -1771,6 +1790,7 @@ v1 连接词？ v2 连接词？ v3
 - I forget to lock the door. 我忘了去做锁。没锁。
 
 - deny 抵赖（已有的事情）
+  - I deny owing you money. 我不承认欠你钱
 
 - allow 允许
 
@@ -1781,7 +1801,7 @@ v1 连接词？ v2 连接词？ v3
 - Nice to meet you. 刚开始见面
 - Nice meeting you. 见面结束时(已有)
 - need doing
-- My car needs to be repaired. 压缩成 need doing. My car needs repairing.
+  - My car needs to be repaired. 压缩成 need doing. My car needs repairing.
 
 ### 分词的用法-非谓语
 
@@ -1799,11 +1819,11 @@ v1 连接词？ v2 连接词？ v3
 
 - We are considering(考虑，犹豫) talking a trip around the island.
 
-## 分词作为形容词的总结
+### 分词作为形容词的总结
 
-### 形容词：gongyushou
+#### 形容词：gongyushou
 
-### a flying bird. 正在飞的鸟
+#### a flying bird. 正在飞的鸟
 
 a boring movie. 令人烦恼的电影
 
@@ -1813,13 +1833,13 @@ running machine
 
 dressing table
 
-### 过去分词：已经/被
+#### 过去分词：已经/被
 
 a graduated student 毕业生（已经）
 
 a broken heart. （过去分词：已经/被）
 
-### 作为名词: 被动
+#### 作为名词: 被动
 
 Smoking is bad.
 
