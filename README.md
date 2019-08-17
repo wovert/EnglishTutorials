@@ -1817,13 +1817,33 @@ v1 连接词？ v2 连接词？ v3
 
 - The girls who is crying is Lily. => The girls cryling is Lily.
 
-- We are considering(考虑，犹豫) talking a trip around the island.
+
+_____ more attention, the tree could have grown better. 主动还是被动，要看主语。前后主语一样。
+
+- A. **Given** 被给（被动）
+- B. To give 去给(主动)
+- C. Giving 自己给(主动)
+- D. Having given 已经给(主动)
+
+I hope you don't mind _____ at your newspaper. 我希望你不介意我看你的报纸
+
+- A. I look
+- B. **my looking**
+- C. I looking
+- D. my to look
+
+We are considering _____ a trip around the island. 我们正围绕小赚转一圈旅行。consider 考虑，犹豫（没有准备做）
+
+- A. take
+- B. to take
+- C. to be taking
+- D. **taking**
 
 ### 分词作为形容词的总结
 
 #### 形容词：gongyushou
 
-#### a flying bird. 正在飞的鸟
+a flying bird. 正在飞的鸟
 
 a boring movie. 令人烦恼的电影
 
