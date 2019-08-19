@@ -1843,67 +1843,35 @@ We are considering _____ a trip around the island. 我们正围绕小赚转一�
 
 #### 形容词：gongyushou
 
-a flying bird. 正在飞的鸟
-
-a boring movie. 令人烦恼的电影
-
-washing machine
-
-running machine
-
-dressing table
+- a boring movie 令人烦的电影
+- washing machine 洗衣机
+- running machine 跑步机
+- dressing table 梳妆台
+- A graduated student 毕业生
+- A broken heart 一颗破碎的心
 
 #### 过去分词：已经/被
 
-a graduated student 毕业生（已经）
+- 过去分词+ed
+  - 已经
+  - 被
 
-a broken heart. （过去分词：已经/被）
+- a graduated student 毕业生（已经）
+- a broken heart. （过去分词：已经/被）
 
 #### 作为名词: 被动
 
-Smoking is bad.
-
-Being forgotten is sad.
+- 作为名词：
+  - Smoking is bad.
+  - Being forgotten is sad.
 
 ## 单词：T
 
-v1 to do v2 向前
-
-ten 延伸 tent, intend, extend
-
-temp 太阳: warm temperature
-
-trans 转换：130多个单词
-
-transport 运输
-
-transportation n.运输
-
-Department of transportation 交通部
-
-朗文英英
-
-辞海
-
 2000 个单词解释所有单词
 
-translate 翻译
-
-transplant 移植
-
-transfer 移交/转移
-
-transfer your power
-
-transform(form:形式) 转换+形式=>变形
-
-transformer 变形金刚，擎天柱
-
-transact(act 行为) 交易 transaction
-
-literature 文学
-
-illiterate 文盲
+- v1 to do v2 向前
+- literature 文学
+- illiterate 文盲
 
 ## t/f 动词
 
@@ -1913,23 +1881,6 @@ illiterate 文盲
 
 - I hope you don't mind (my looking) at your newspaer. A. I look B. my looking C.I looking D. my to look
 - We are considering (taking) a trip around the island. A. take B. to take C. to be taking D.taking
-
-### 分词作为形容词的总结复习
-
-- a boring movie 令人烦的电影
-- washing machine 洗衣机
-- running machine 跑步机
-- dressing table 梳妆台
-- A graduated student 毕业生
-- A broken heart 一颗破碎的心
-
-- 过去分词+ed
-  - 已经
-  - 被
-
-- 作为名词：
-  - Smoking is bad.
-  - Being forgotten is sad.
 
 ### tract 轨迹、轨道
 
@@ -1996,8 +1947,7 @@ illiterate 文盲
 
 ## F
 
-> f -------------- 飞 （甲骨文）
-> 延伸出 运动/流程/流动/速度
+> 飞 （甲骨文） 延伸出 运动/流程/流动/速度
 
 - fly
 - flight 航班
@@ -2026,6 +1976,7 @@ illiterate 文盲
 - flu = flow 表示流动， 流感，原型：influenza
   - fluid, liquid 液体
 - flush  冲刷，老脸一红
+  - flasher 变态暴露狂
   - fluency(流利程度) affluent a(富饶的，rich) 富得流油
   - 古代油来源于鲸鱼
 - effluent a 流淌出来
@@ -2038,19 +1989,28 @@ illiterate 文盲
 
 - flash 闪光
 - fart 放屁
+  - A man disappeard like a fart in the wind. 风中之屁
 - farce 闹剧(外交部常用词汇)、胡闹、笑剧
-- A man disappeard like a fart in the wind. 风中之屁
 - fore, fort = strong 表示“强大”
-- force forcefull enforce加强 v reinforce 增援
-- fort(坚硬的) n.城堡，要塞，堡垒 fortree n.堡垒  ess 女性后缀
-  - 凸fort, 凹fortree
-- airforce 空军
-- ground force 陆军
-- nary 海军
+- force forcefull 加强
+  - enforce 加强
+  - reinforce 增援
+  - air force 空军
+  - ground force 陆军
+  - navy force 海军
+- fort(坚硬的) n.城堡，要塞，堡垒
+  - fortree n.堡垒  ess 女性后缀
+  - 凸 fort
+  - 凹 fortree
+  - 吉：有难幼女
+    - 士：男
+    - 口：女
+    - 塞，堡，垒都是凹凸
 - 山无棱 天地和 始敢与君绝
 - fortify
 - fortitude n.坚强,刚毅
-- effort e+ffort 努力 make effort 做出努力
+- effort e + ffort 努力
+  - make effort 做出努力
 - comfort 安慰
 - comfortable 舒服的
 
