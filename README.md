@@ -1974,16 +1974,16 @@ We are considering _____ a trip around the island. 我们正围绕小赚转一�
 - flaw 缺陷
 
 - flu = flow 表示流动， 流感，原型：influenza
-  - fluid, liquid 液体
+  - **fluid**, liquid 液体
 - flush  冲刷，老脸一红
   - flasher 变态暴露狂
-  - fluency(流利程度) affluent a(富饶的，rich) 富得流油
+  - **fluency**(流利程度) affluent a(富饶的，rich) 富得流油
   - 古代油来源于鲸鱼
 - effluent a 流淌出来
-- influence 流入 v. or n. （影响）
+- **influence** 流入 v. or n. （影响）
   - impact 影响
   - affect 影响
-- influenze n flu 原型
+- influenze n. flu 原型
 - refluent 倒流
 - superfluous a  过剩的
 
@@ -2024,11 +2024,11 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
 
 - President-elect Donald Thrump proposed to exclude himself from his family-owned international real estate development, property management and licensing business before taking office Jan.20.
 
-当选总统川普要提出把自己排除在 1月20日入职之前，将远离他家庭拥有的国际房产开发管理和授权业务的外面
+当选总统川普要提出把自己排除在 1月20日入职之前，将远离他家庭拥有的国际房产开发管理、财产管理和授权业务的外面
 
 - fab
   - fabl, fabul = speack
-  - fable n. 语言；传说
+  - **fable** n. 寓言；传说
     - fabulous 非常精彩的，传奇色彩的
     - fairy tale 神话故事
     - lenovo 新的
@@ -2036,22 +2036,21 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - affable a 和
 
 - fect = make, do 表示“做，制作”
+  - affect 影响
+  - defect n.缺点,缺陷
+  - effect v.结果
+  - effective 有效的
+  - perfect a. 完全的，完美的
+  - infect 流进去, 做进去
 
-- affect 影响
-- defect n.缺点,缺陷
-- effect v.结果
-- effective 有效的
-- perfect a. 完全的，完美的
-- infect 流进去, 做进去
-
-- fer=bring,carry 表示“带来，拿来”
+- fer = bring, carry 表示“带来，拿来”
   - ferry 渡口 <--->
   - confer v. 协商，谈判
   - conference n. 会议
   - offer v. 提供 n.
     - What would offer me ? 你提供给我什么？
     - How many offers do you have? 你收到了多少的录取通知
-    - 我佛寺
+    - 卧佛寺
   - differ v. 分开拿
   - difference (differernt+iate -> 不同化)
   - infer indifferent(冷漠的) a. prefer
@@ -2059,11 +2058,11 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - suffer v.遭受 (sub 下面)
     - suffer a fire 遭受火灾
   - transfer v. 转让，转学
-  - fertile fertilizer n. 富饶的，肥沃的；能生育的
+  - fertile(a.)  fertilizer(n.) 富饶的，肥沃的；能生育的
     - a fertile woman 一个高产的女人
     - chemical fertilizer 化学肥料
   
-- fin = over
+- fin = over 完成，结束
   - F : 表示过程
   - n: 否定
   - fin: 过程的结束
@@ -2071,6 +2070,7 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
   - finite 有限的
   - infinite 无限的
     - the inifinite universe 无限的宇宙
+    - super nova 超新星
   - definite 肯定的，绝对的
   - final 最终的
   - finance 结账，结算
