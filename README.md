@@ -2108,7 +2108,7 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
     - 成都用语：外来的 => 弯弯
   - stray 迷失
     - ajd. astray
-    - He is stray now
+    - He is astray now
   - streak 曲线
     - a streak T-shirt 条纹衫
   - strip 扯开，拉开
@@ -2116,14 +2116,14 @@ The disc, digitally (which were 省略) recored in the studio, sounded fatasitc 
     - shemale 人妖
   - stroll 散步(跟弯曲有什么关系？)
   - struggle 挣扎
-  - struct 架构
-    - structure
-    - sentense structure 句子结构
-    - instruct 指导
-    - strive 努力
-    - instruction 指令
-    - construct v.建造
-    - china construct 建设银行
+- struct 架构
+  - structurebaiducom
+  - sentense structure 句子结构
+  - instruct 指导
+  - strive 努力
+  - instruction 指令
+  - construct v.建造
+  - china construct 建设银行
   - destruct de向下，摧毁
   - obstruct ob相反，妨碍，阻碍
   - restructure v.重建
