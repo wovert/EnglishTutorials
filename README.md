@@ -83,7 +83,7 @@ In Beijing, the young without money can realize in this way the dreams in their 
 
 #### 2-1 主语
 
-> 句首的**独立名词**性结构（名词, 代词, 分词, 句子，从句 it）
+> 句首的**独立名词**性结构（名词, 代词, 分词, 句子，从句 it）静态的
 
 - 名词
   - In his eyes, **Jack** is aliar.
@@ -140,7 +140,7 @@ offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在�
 
 1. （你）不作死不会死。英文祈使句常省略主语 come here
 2. 她很好 She is very good. 中文省略了谓语
-3. （如果）山无棱天地合，（我）始敢于君绝。 英文必须有关联词
+3. （如果）山无棱天地合，（我）始敢于君绝。 **英文必须有关联词**
 4. 我的英语是（被）体育老师传授的。省略了**被动**
 
 ### 3. 内部排序的运行算法-倒置逻辑
@@ -194,7 +194,7 @@ offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在�
 
 - 即可数又不可数：hair, corn, grass, popcorn, rice, salt, sand, snow, sugar
 
-#### 2. 就近和就远原则（扯淡）
+#### 2. 没有就近和就远原则
 
 - 就远
   - A woman with two children (is) comming.
