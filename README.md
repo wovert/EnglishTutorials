@@ -46,10 +46,8 @@ She died (没有宾语)
 
 #### 为什么？文化差异？
 
-- 东方：农业文明（过程优先）；天时：使民以时
-- 西方：商业文明（效率优先）
-
-----
+- 东方：农业文明（**过程优先**）；天时：使民以时
+- 西方：商业文明（**效率优先**）
 
 She is pretty in my eyes. 在我眼里，她很漂亮
 
@@ -221,6 +219,46 @@ offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在�
 - 我家很有钱 My family is rich
 - 我家都疯了 My family are mad
 
+
+
+
+
+- Old English(古英语) 449-1066年 盎格鲁-撒克逊入侵 4万单词
+- Middle English(中世界英语) 1066-1498 诺曼征服
+- Modern English(现代英语) 1489-1801-今 100万
+
+- 古典语言
+  - 拉丁 29%
+  - 希腊 6%
+- 法语（拉丁语现代版本） 29%
+- 日耳曼 26
+- 非印欧语 6%
+- 专有名词 4%
+
+- televison n.电视
+  - tele-(Greek) + vision (Latin)
+
+vim == see (from Latin)
+
+- 英语三大来源：
+  - 法语：高贵
+  - 拉丁语：一般
+  - 希腊：高端
+  - 古典语：低端
+
+- 后缀：-en 古典语：具体，物理
+  - lengthen, widen, whiten, tighten, soften, harden, strenthen, sharpen, deepe
+- 前缀：en- 法语：抽象，节能更深
+  - enable, encourage, envision, enlighten, engage, enjoy, enrich, endanger
+
+
+- Latin: 宗教，政治，经济，法律等
+- GK：数学，几何，化学，天文，艺术等
+
+- 自由词根：act-, -act
+- 啃老词根：vis-
+
+
 ### 复习
 
 - 在充满激烈的竞争的媒体行业，一个对中国文化的基本特征没有清晰理解的**记者** **不能写出**有关目前中国改革开放的变化的意义的**好文章**。In the media industry full of fierce compretition, a reporter without clear undertanding of the basic features about Chinese culture can not wirte good articles of the significance about the reform and change in China today.
@@ -239,6 +277,7 @@ offered: 过去式(谓语, 两个谓语之间关联词)|过去分词(必须在�
 
 - 在帮组国际社会于2030年前消除极端贫困过程中，中国正扮演者越来越重要的角色。自20世纪70年代末实施改革开放以来，中国已使多达四亿人摆脱了贫困。
 In the process of ending extreme poverty before 2030 for then world, China is playing a role that is more and more important. Since apllying the open and reform policy from late 1970s, China has helped as many as 400 million people get rid of poverty.
+
 
 ## 排序逻辑 2
 
