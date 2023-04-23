@@ -361,6 +361,58 @@ Science moves forward, they say, not so much throught the insights of great men 
   - 短语间分
   - , 这(前词)
 
+
+## 语音定律
+
+- 蕾哈娜(Lei) - Rihanna
+- 功夫(gongfu) - kungfu
+- Buddha - 佛陀(fo)
+- 奶奶 - 来来
+- 888 - 发发发
+
+同源词
+
+### Rule 1
+
+元音
+
+a, e, i, o, u, y
+
+- tell v.告诉
+- talk v.说话
+- tale /teɪl/ n.故事（tell名词形式）
+  - tell a story
+- believe v.相信
+  - belif n.相信
+
+- hot a.热的
+- heat n.热
+
+- cool a.凉爽的
+- cold a.冷的
+- chil  /tʃɪl/ a.寒冷的
+
+
+- sing v.唱歌
+- song n.歌曲
+
+- sit v.坐下
+- seat n.座位
+
+- set v.放，置
+- settle /ˈset(ə)l/ vi.定居；沉淀；解决
+  - -le: 小/反复
+
+
+- 动词 - 过去式 - 过去分词
+- sing - sang - sung
+- sink - sank - sunk
+- swim - swam - swum
+- run - ran - run
+- drive - drove
+
+
+
 ## about time 时态
 
 - 为啥英文有时态 中文没有？
